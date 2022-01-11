@@ -1,6 +1,6 @@
 {
   "billing": {
-    "maxGasPriceGwei": "1000",
+    "maxGasPriceGwei": "2000",
     "microLinkPerEth": "102829",
     "observationPaymentLinkGwei": "10",
     "reasonableGasPriceGwei": "10",
