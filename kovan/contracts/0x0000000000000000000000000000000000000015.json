@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "ETH",
+    "from": "ATOM",
     "to": "USD"
   },
   "marketing": {
@@ -40,14 +40,14 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "ETH",
+      "ATOM",
       "USD"
     ],
-    "path": "eth-usd"
+    "path": "atom-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100000",
-  "name": "ETH / USD",
+  "name": "ATOM / USD",
   "oracles": [
     {
       "api": [

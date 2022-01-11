@@ -1,17 +1,17 @@
 {
   "billing": {
-    "maxGasPriceGwei": "2000",
+    "maxGasPriceGwei": "1000",
     "microLinkPerEth": "102829",
-    "observationPaymentLinkGwei": "600",
+    "observationPaymentLinkGwei": "10",
     "reasonableGasPriceGwei": "10",
-    "transmissionPaymentLinkGwei": "3000"
+    "transmissionPaymentLinkGwei": "300"
   },
   "config": {
     "badEpochTimeout": "35s",
     "maxContractValueAge": "1h",
     "maxFaultyNodeCount": 3,
     "maxRoundCount": 6,
-    "observationGracePeriod": "12s",
+    "observationGracePeriod": "19s",
     "relativeDeviationThresholdPPB": "10000000",
     "resendInterval": "17s",
     "roundInterval": "30s",
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "ETH",
+    "from": "LINK",
     "to": "USD"
   },
   "marketing": {
@@ -40,14 +40,14 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "ETH",
+      "LINK",
       "USD"
     ],
-    "path": "eth-usd"
+    "path": "link-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100000",
-  "name": "ETH / USD",
+  "name": "LINK / USD",
   "oracles": [
     {
       "api": [

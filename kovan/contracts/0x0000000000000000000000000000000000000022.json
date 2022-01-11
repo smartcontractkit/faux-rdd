@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "ETH",
+    "from": "HBAR",
     "to": "USD"
   },
   "marketing": {
@@ -40,14 +40,14 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "ETH",
+      "HBAR",
       "USD"
     ],
-    "path": "eth-usd"
+    "path": "hbar-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100000",
-  "name": "ETH / USD",
+  "name": "HBAR / USD",
   "oracles": [
     {
       "api": [

@@ -11,7 +11,7 @@
     "maxContractValueAge": "1h",
     "maxFaultyNodeCount": 3,
     "maxRoundCount": 6,
-    "observationGracePeriod": "12s",
+    "observationGracePeriod": "19s",
     "relativeDeviationThresholdPPB": "10000000",
     "resendInterval": "17s",
     "roundInterval": "30s",
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "ETH",
+    "from": "FUSE",
     "to": "USD"
   },
   "marketing": {
@@ -40,14 +40,14 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "ETH",
+      "FUSE",
       "USD"
     ],
-    "path": "eth-usd"
+    "path": "fuse-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100000",
-  "name": "ETH / USD",
+  "name": "FUSE / USD",
   "oracles": [
     {
       "api": [
