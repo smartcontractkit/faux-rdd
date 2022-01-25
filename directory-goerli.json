@@ -1,0 +1,160 @@
+{
+  "apis": {
+    "bitcoin-json-rpc": {},
+    "blockchainCom": {},
+    "blockcypher": {},
+    "coingecko": {},
+    "coinpaprika": {},
+    "ncfx": {},
+    "nomics": {},
+    "tiingo": {}
+  },
+  "contracts": {
+    "0x04c5046A1f4E3fFf094c26dFCAA75eF293932f18": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "600",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "3000"
+      },
+      "config": {
+        "badEpochTimeout": "35s",
+        "maxContractValueAge": "1h",
+        "maxFaultyNodeCount": 1,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "12s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "30s",
+        "transmissionStageTimeout": "60s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "ETH",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "ETH",
+          "USD"
+        ],
+        "path": "eth-usd"
+      },
+      "maxSubmissionValue": "1000000000000",
+      "minSubmissionValue": "100000000",
+      "name": "ETH / USD",
+      "oracles": [
+        {
+          "api": [
+            "tiingo",
+            "nomics",
+            "ncfx"
+          ],
+          "operator": "chainlayer"
+        },
+        {
+          "api": [
+            "tiingo",
+            "nomics",
+            "ncfx"
+          ],
+          "operator": "dexTrac"
+        },
+        {
+          "api": [
+            "tiingo",
+            "nomics",
+            "ncfx"
+          ],
+          "operator": "fiews"
+        },
+        {
+          "api": [
+            "tiingo",
+            "nomics",
+            "ncfx"
+          ],
+          "operator": "linkPool"
+        }
+      ],
+      "status": "testing",
+      "validator": "0x0000000000000000000000000000000000000000"
+    }
+  },
+  "operators": {
+    "chainlayer": {
+      "adminAddress": "0x4a3dF8cAe46765d33c2551ff5438a5C5FC44347c",
+      "displayName": "Chainlayer",
+      "nodeAddress": [
+        "0x721d2f03B98B892C7fcF43705C425256866874F1"
+      ],
+      "ocrConfigPublicKey": [
+        "e798394204dc7bcdd29e67168842f7c02b4ecf422aba5308232db774de3aff47"
+      ],
+      "ocrNodeAddress": [
+        "0x721d2f03B98B892C7fcF43705C425256866874F1"
+      ],
+      "ocrOffchainPublicKey": [
+        "ae2426200ed6a3bb5b6c225c77c8c48eaf08014b984c08bdb930525d57a000bc"
+      ],
+      "ocrSigningAddress": [
+        "0x8F53269B14ef2123182dcb00D4eFDA983b7bdF46"
+      ],
+      "oracleAddress": "0xF5a3d443FccD7eE567000E43B23b0e98d96445CE",
+      "peerId": [
+        "12D3KooWSyWNf6kCphWAexXYgp3hraquvyEJ2Zm4QGYTtN1pX4Rx"
+      ],
+      "status": "active",
+      "website": "https://chainlayer.io"
+    },
+    "dexTrac": {
+      "adminAddress": "0x9efa0A617C0552F1558c95993aA8b8A68b3e709C",
+      "displayName": "DexTrac",
+      "nodeAddress": [
+        "0x8B60974933849A0b7DfdA4D659E7FfdD87447450"
+      ],
+      "ocrConfigPublicKey": [
+        "ba7be388fe8efee6a237f69be7d552b18627d8442e3fbe6905e44fcddc4e1e57"
+      ],
+      "ocrNodeAddress": [
+        "0x8B60974933849A0b7DfdA4D659E7FfdD87447450"
+      ],
+      "ocrOffchainPublicKey": [
+        "9cfac8c53b97c4c4c850ba76b79f0a934d9cf73777cb2b03eb7f650cd49f36b9"
+      ],
+      "ocrSigningAddress": [
+        "0x443DA266FDd9b0f74f63ce1AE849f0D3c9A33715"
+      ],
+      "oracleAddress": "0x95b00984a9c38417cDBa9653CE4F4A0A3e54451c",
+      "peerId": [
+        "12D3KooWQicZe4mGbqMvUmKTW6U5ZRnduzBUGDhK37faMUvVtkEx"
+      ],
+      "status": "active",
+      "website": "https://dex.trace.link"
+    }
+  },
+  "proxies": {
+    "0xF549af21578Cfe2385FFD3488B3039fd9e52f006": {
+      "accessController": "0x0000000000000000000000000000000000000000",
+      "aggregator": "0x04c5046A1f4E3fFf094c26dFCAA75eF293932f18",
+      "contractVersion": 4,
+      "ens": "eth-usd",
+      "implementations": {
+        "primary": "0x04c5046A1f4E3fFf094c26dFCAA75eF293932f18",
+        "proposed": "0x0000000000000000000000000000000000000000"
+      },
+      "name": "ETH / USD"
+    }
+  }
+}
