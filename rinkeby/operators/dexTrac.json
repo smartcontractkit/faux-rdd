@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x9efa0A617C0552F1558c95993aA8b8A68b3e709C",
+  "displayName": "DexTrac",
+  "nodeAddress": [
+    "0x8B60974933849A0b7DfdA4D659E7FfdD87447450"
+  ],
+  "ocrConfigPublicKey": [
+    "ba7be388fe8efee6a237f69be7d552b18627d8442e3fbe6905e44fcddc4e1e57"
+  ],
+  "ocrNodeAddress": [
+    "0x8B60974933849A0b7DfdA4D659E7FfdD87447450"
+  ],
+  "ocrOffchainPublicKey": [
+    "9cfac8c53b97c4c4c850ba76b79f0a934d9cf73777cb2b03eb7f650cd49f36b9"
+  ],
+  "ocrSigningAddress": [
+    "0x443DA266FDd9b0f74f63ce1AE849f0D3c9A33715"
+  ],
+  "oracleAddress": "0x95b00984a9c38417cDBa9653CE4F4A0A3e54451c",
+  "peerId": [
+    "12D3KooWQicZe4mGbqMvUmKTW6U5ZRnduzBUGDhK37faMUvVtkEx"
+  ],
+  "status": "active",
+  "website": "https://dex.trace.link"
+}

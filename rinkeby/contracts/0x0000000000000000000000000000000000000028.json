@@ -2,9 +2,9 @@
   "billing": {
     "maxGasPriceGwei": "2000",
     "microLinkPerEth": "102829",
-    "observationPaymentLinkGwei": "600",
+    "observationPaymentLinkGwei": "10",
     "reasonableGasPriceGwei": "10",
-    "transmissionPaymentLinkGwei": "3000"
+    "transmissionPaymentLinkGwei": "300"
   },
   "config": {
     "badEpochTimeout": "35s",
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "ETH",
+    "from": "XMR",
     "to": "USD"
   },
   "marketing": {
@@ -40,14 +40,14 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "ETH",
+      "XMR",
       "USD"
     ],
-    "path": "eth-usd"
+    "path": "xmr-usd"
   },
   "maxSubmissionValue": "1000000000000000",
-  "minSubmissionValue": "100000",
-  "name": "ETH / USD",
+  "minSubmissionValue": "100",
+  "name": "XMR / USD",
   "oracles": [
     {
       "api": [
