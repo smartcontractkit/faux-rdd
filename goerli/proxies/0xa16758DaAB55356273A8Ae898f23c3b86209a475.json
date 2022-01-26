@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x84198DED91F46d7013EFcB0946d1414f680e0335",
+    "contractVersion": 4,
+    "ens": "xrp-usd",
+    "implementations": {
+        "primary": "0x84198DED91F46d7013EFcB0946d1414f680e0335",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "XRP / USD"
+}

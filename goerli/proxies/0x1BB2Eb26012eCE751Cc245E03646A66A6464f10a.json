@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x271D523771240122274cFb5eDD666fee5C5d0588",
+    "contractVersion": 4,
+    "ens": "osmo-usd",
+    "implementations": {
+        "primary": "0x271D523771240122274cFb5eDD666fee5C5d0588",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "OSMO / USD"
+}

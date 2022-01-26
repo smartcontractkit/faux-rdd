@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x22859cC9c3445801f00550ad8f517558DC6d05ab",
+    "contractVersion": 4,
+    "ens": "xlm-usd",
+    "implementations": {
+        "primary": "0x22859cC9c3445801f00550ad8f517558DC6d05ab",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "XLM / USD"
+}

@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x01641CCC28691AbAf06b9F3362f7d3316eE28A4e",
+    "contractVersion": 4,
+    "ens": "usdt-usd",
+    "implementations": {
+        "primary": "0x01641CCC28691AbAf06b9F3362f7d3316eE28A4e",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "USDT / USD"
+}

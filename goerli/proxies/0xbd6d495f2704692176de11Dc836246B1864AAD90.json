@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x8b56F41B48B2809B663c52394e8FbAfc18989001",
+    "contractVersion": 4,
+    "ens": "xmr-usd",
+    "implementations": {
+        "primary": "0x8b56F41B48B2809B663c52394e8FbAfc18989001",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "XMR / USD"
+}

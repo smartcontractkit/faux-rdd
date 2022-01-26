@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0xb8213bFAd2104B3bBa5Be9a851592059c6e5D0D9",
+    "contractVersion": 4,
+    "ens": "klay-usd",
+    "implementations": {
+        "primary": "0xb8213bFAd2104B3bBa5Be9a851592059c6e5D0D9",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "KLAY / USD"
+}

@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x6570b74208BDc855EA3da0BAA98266aB0438143b",
+    "contractVersion": 4,
+    "ens": "avax-usd",
+    "implementations": {
+        "primary": "0x6570b74208BDc855EA3da0BAA98266aB0438143b",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "AVAX / USD"
+}
