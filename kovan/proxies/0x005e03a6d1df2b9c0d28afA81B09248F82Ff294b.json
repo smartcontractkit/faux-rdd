@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
+    "contractVersion": 4,
+    "ens": "eth-usd",
+    "implementations": {
+        "primary": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "ETH / USD"
+}

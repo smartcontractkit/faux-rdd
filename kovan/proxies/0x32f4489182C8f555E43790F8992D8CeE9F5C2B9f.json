@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0xC08C7B3c71AE19C2715B4903585577A20AB5fA31",
+    "contractVersion": 4,
+    "ens": "bnb-usd",
+    "implementations": {
+        "primary": "0xC08C7B3c71AE19C2715B4903585577A20AB5fA31",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "BNB / USD"
+}

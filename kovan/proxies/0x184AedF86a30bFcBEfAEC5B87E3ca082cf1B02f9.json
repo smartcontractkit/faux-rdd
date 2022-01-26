@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x0Ea9A0bAf10cC6bC4bb4D0b47682adB8ab92d3b9",
+    "contractVersion": 4,
+    "ens": "doge-usd",
+    "implementations": {
+        "primary": "0x0Ea9A0bAf10cC6bC4bb4D0b47682adB8ab92d3b9",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "DOGE / USD"
+}
