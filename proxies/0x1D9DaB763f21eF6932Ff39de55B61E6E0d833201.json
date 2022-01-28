@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0xe4697d946DAb20b8A0c1C430be0C923A8d1B150f",
+    "contractVersion": 4,
+    "ens": "xtz-usd",
+    "implementations": {
+        "primary": "0xe4697d946DAb20b8A0c1C430be0C923A8d1B150f",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "XTZ / USD"
+}
