@@ -1,0 +1,26 @@
+{
+  "adminAddress": "0x0000000000000000000000000000000000000000",
+  "displayName": "muinch.re",
+  "githubUsernames": [
+    ""
+  ],
+  "nodeAddress": [
+    "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6"
+  ],
+  "ocrConfigPublicKey": [
+    "ocrcfg_b3185c3c30242f0965932b1797248c0402d1035127af21e15f8a464b33956611"
+  ],
+  "ocrNodeAddress": [
+    "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6"
+  ],
+  "ocrOffchainPublicKey": [
+    "ocroff_af12aea8b1a2f11e1e3e5fd442621c80b168f149113a3a80fd0c9558b26f5b77"
+  ],
+  "ocrSigningAddress": [
+    "ocrsad_0x9f32790cc5c25e244ece94a44353d04ae20aa028"
+  ],
+  "peerId": [
+    "p2p_12D3KooWBoGNg6ZbuLqStmfA4dmb7NnSkiLDENv4C1AfMZPHn3td"
+  ],
+  "status": "active"
+}
