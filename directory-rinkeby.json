@@ -67,7 +67,7 @@
             "dataSource",
             "dataSource"
           ],
-          "operator": "nop01"
+          "operator": "munichRe"
         },
         {
           "api": [
@@ -202,7 +202,7 @@
             "dataSource",
             "dataSource"
           ],
-          "operator": "nop01"
+          "operator": "munichRe"
         },
         {
           "api": [
@@ -337,7 +337,7 @@
             "dataSource",
             "dataSource"
           ],
-          "operator": "nop01"
+          "operator": "munichRe"
         },
         {
           "api": [
@@ -3037,7 +3037,7 @@
             "dataSource",
             "dataSource"
           ],
-          "operator": "nop01"
+          "operator": "munichRe"
         },
         {
           "api": [
