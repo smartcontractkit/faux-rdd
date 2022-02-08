@@ -4289,7 +4289,7 @@
         "05a1bc2cd016d57cf8adfe458474adf3deb7821e0f87824905dc493f77bb6fd2"
       ],
       "ocrSigningAddress": [
-        "0x64c97b7397de40e564003feee2bb3b520b2c6da9"
+        "0x64c97B7397de40e564003feee2Bb3b520b2C6DA9"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4314,7 +4314,7 @@
         "b2cac2452e692c7891ec0f275bd60c899c646030acf1bb91b80a01c801256cca"
       ],
       "ocrSigningAddress": [
-        "0x780e7f1633577b38773fc14eee082fb98d0fabbd"
+        "0x780E7F1633577B38773FC14EeE082FB98D0FABbd"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4339,7 +4339,7 @@
         "1d2c45893bc57801e2a38a81f92c1d90d3a89822686349a5b59b2da73de305ec"
       ],
       "ocrSigningAddress": [
-        "0x93c4e0e12728ff498923487640b6ddc65c593654"
+        "0x93C4e0e12728FF498923487640b6dDC65c593654"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4364,7 +4364,7 @@
         "b9a8af55abdfddeb502bdf2456d157d1ae8c56e503b9d5d3cb3222b00b10f781"
       ],
       "ocrSigningAddress": [
-        "0x9d8244a759ec625b4eb8f5af30ebfbcbe83ad301"
+        "0x9d8244a759EC625b4EB8F5AF30eBFBcBe83aD301"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4389,7 +4389,7 @@
         "fccedf60d048964775adec75d1a6ce7ed8c49b2c5767c8e2f1d7357be396cd50"
       ],
       "ocrSigningAddress": [
-        "0xb649b93d5bcd03141f9872cb5fce1007ab6b832a"
+        "0xb649B93D5bCd03141f9872CB5fCE1007ab6b832A"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4414,7 +4414,7 @@
         "a381c5911360887feee1423cadde42f41a853dfdb893dc5ce890c77a6f71f52c"
       ],
       "ocrSigningAddress": [
-        "0x1911728e17d02e93cee30046a50e247938f839ff"
+        "0x1911728e17d02e93CEe30046A50e247938f839FF"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4439,7 +4439,7 @@
         "5a56f21a043d85b3d8ce416255aaf3b8d398b4d0ce6aff4eafcae8867f0baa94"
       ],
       "ocrSigningAddress": [
-        "0x31bb31a0ffb9e865f75c79db8726add98c66bdb9"
+        "0x31Bb31A0FFb9E865F75C79DB8726aDd98C66BdB9"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4464,7 +4464,7 @@
         "a343eb7dc9a6c61a8aa58612b2977e3a0ae0729b0c2c6407c6174cc6401dd88c"
       ],
       "ocrSigningAddress": [
-        "0x36246087ef973d2a988ae3432b22aa251096e032"
+        "0x36246087ef973d2a988AE3432B22Aa251096e032"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4489,7 +4489,7 @@
         "a3767ac3631bcbe24e8cd6f864c4f647a104b0ff3e854a02f86d4183541948a8"
       ],
       "ocrSigningAddress": [
-        "0x8668844a687ed1258ed7ddb8445b3f51fa12a78c"
+        "0x8668844a687Ed1258ed7ddB8445B3f51Fa12A78c"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4514,7 +4514,7 @@
         "b8cadb8c53b5a3f7b8ab19865cfec06f44368dfeb2b4352a543dfe47c0b97475"
       ],
       "ocrSigningAddress": [
-        "0xaa1f0f4f78e1c2568a31d0508649423dc47f5c46"
+        "0xAa1F0F4F78e1C2568A31D0508649423dc47f5c46"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4539,7 +4539,7 @@
         "203f48358641952f6724c42f31624ddc530d38c9cda7d24e2200267ae8c67878"
       ],
       "ocrSigningAddress": [
-        "0x756f182e6f8efa9fdfede4e35e370db146504ffb"
+        "0x756F182e6F8eFA9Fdfede4e35E370dB146504ffb"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4564,7 +4564,7 @@
         "e506ed45f8662917629a69fb38c33d3c20c74767c7c49ca875358c815fe878f5"
       ],
       "ocrSigningAddress": [
-        "0x96079a87d162c0a651ebd5f4ac4016132f3a602b"
+        "0x96079A87D162C0A651eBd5f4aC4016132f3A602b"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4589,7 +4589,7 @@
         "05ed083f1b49d7524fc8a95b8e7a63b98e03c4f38491ffe047442f7486730a0c"
       ],
       "ocrSigningAddress": [
-        "0x623f61b04adac40a6cab8ce7cc28519db37a9b06"
+        "0x623f61B04AdAC40a6Cab8ce7cc28519DB37a9B06"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4614,7 +4614,7 @@
         "5519f5062567021782531f3f4c0e9b2606f4ece103647ddde03b613b8bde6cf2"
       ],
       "ocrSigningAddress": [
-        "0xafdbef6fd75dd426f928ccd1335a03cbf5ac2ec0"
+        "0xaFDBEF6FD75dd426f928cCD1335A03cBf5ac2EC0"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4639,7 +4639,7 @@
         "b250d793a030fe01ff20770de567d96dbe8a43b1dab3646f3f219e486f1755a4"
       ],
       "ocrSigningAddress": [
-        "0xd509434f75187f0ff0c5d58ec05107f907d4da55"
+        "0xd509434F75187F0fF0c5D58ec05107f907D4dA55"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4664,7 +4664,7 @@
         "08ae4123013010345f2766745aaab7fde3f4c55aecceceba4d651ba18cbc11bf"
       ],
       "ocrSigningAddress": [
-        "0x5022ec6c26108b729f05b1944c5510d86fabd4ce"
+        "0x5022Ec6c26108B729F05B1944c5510D86fABD4ce"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4689,7 +4689,7 @@
         "95c68c51ee88fb8b6e4db95f6544249a093886be7744f1b1595d161ec664f018"
       ],
       "ocrSigningAddress": [
-        "0x019dc38d36975da19d16da58db0608ca47878368"
+        "0x019dC38d36975dA19d16DA58dB0608Ca47878368"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4714,7 +4714,7 @@
         "9dec3f61246f8fbb0cfb281b32871cfca5f86a15f16b738f48e649fe7089b854"
       ],
       "ocrSigningAddress": [
-        "0x87d31455ca9ac1c8a2a15c3c6615f0ca122fab3a"
+        "0x87d31455CA9Ac1C8A2a15C3C6615F0ca122Fab3a"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4739,7 +4739,7 @@
         "9ad612099b1feede9525d0c2f83e0155bf96eff5240b0b749b929134309d0a04"
       ],
       "ocrSigningAddress": [
-        "0xf2a443442d079816bd8333d812ca4b088c507e14"
+        "0xF2A443442d079816Bd8333D812CA4B088c507e14"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
@@ -4764,7 +4764,7 @@
         "943c74bb92d59cfdaf146752109607a62be6db76c1acefdbd715551c8afe0d4c"
       ],
       "ocrSigningAddress": [
-        "0xd377faa1fde74409b5371bbd868605ff73d55d0e"
+        "0xD377FAa1FdE74409B5371bBD868605ff73d55D0E"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
