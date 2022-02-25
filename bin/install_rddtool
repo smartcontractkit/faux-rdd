@@ -1,0 +1,21 @@
+#!/bin/bash
+set -e
+
+# commit to checkout from github.com/smartcontractkit/rddtool
+export RDDTOOL_SHA=bee7d1a092ad7252594077c886af9290d38e6e06
+
+# install rddtool
+if [ -n "$GITHUB_SSH_KEY" ]
+then
+  export GIT_SSH_COMMAND="ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no"
+
+  mkdir -p ~/.ssh && echo -e "${GITHUB_SSH_KEY//_/\\n}" > ~/.ssh/id_rsa && chmod og-rwx ~/.ssh/id_rsa
+fi
+
+export GOPRIVATE=github.com/smartcontractkit/rddtool
+rm -rf /tmp/rddtool
+git clone git@github.com:smartcontractkit/rddtool.git /tmp/rddtool
+cd /tmp/rddtool
+git checkout --detach $RDDTOOL_SHA
+go install
+cd -

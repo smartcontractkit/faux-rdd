@@ -1,0 +1,25 @@
+#!/bin/bash
+set -e
+
+rddtool generate kovan directory-kovan.json
+rddtool generate rinkeby directory-rinkeby.json
+rddtool generate goerli directory-goerli.json
+
+# validate and generate files
+./bin/validate
+
+# copy files over for weiwatchers
+cp feeds*.json weiwatchers/
+cp nodes*.json weiwatchers/
+cp chain-monitor*.json weiwatchers/
+cp flux-emulator*.json weiwatchers/
+cp som-*.json weiwatchers/
+cp tom-*.json weiwatchers/
+
+# cleanup generated files
+rm feeds*.json
+rm nodes*.json
+rm chain-monitor*.json
+rm flux-emulator*.json
+rm som-*.json
+rm tom-*.json

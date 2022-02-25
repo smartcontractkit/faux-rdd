@@ -1,0 +1,9 @@
+#!/bin/bash
+set -e
+
+# install rddtool
+./bin/install_rddtool
+# ensure Go binaries are included in path
+export PATH=$PATH:$GOPATH/bin
+
+./bin/generate
