@@ -1,0 +1,6 @@
+#!/bin/bash
+set -e
+
+rddtool validate kovan directory-kovan.json
+rddtool validate rinkeby directory-rinkeby.json
+rddtool validate goerli directory-goerli.json
