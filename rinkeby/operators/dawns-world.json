@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x1C980903C26C0138D50b80698eB876bB7E5d1f11",
+  "displayName": "Dawns.World",
+  "nodeAddress": [
+    "0x7E994D5335fDbF4595C43F3b64d2cA551beA9E32"
+  ],
+  "ocrConfigPublicKey": [
+    "816676893881d6a5e0e5b394d4c18a7d31aabcbee81cf4f89fbeb0179b005630"
+  ],
+  "ocrNodeAddress": [
+    "0x7E994D5335fDbF4595C43F3b64d2cA551beA9E32"
+  ],
+  "ocrOffchainPublicKey": [
+    "72beb1cf924fa05c0994ece3983c584e7291fa40f52ed137f2d39475b5d37a1a"
+  ],
+  "ocrSigningAddress": [
+    "0xD519948274d13006B98b13bF38D849a8Abf814FE"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWQ4cG3rRRZ9mhTXhSqZmQ9iQA37pEzhpWbqRMFoQbFyhR"
+  ],
+  "status": "active",
+  "website": "https://dawns.world"
+}
