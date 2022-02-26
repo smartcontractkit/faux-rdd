@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xa79C4DC84b793074B366f9CBBAEFBa4346CD8C67",
+  "displayName": "NorthWestNodes",
+  "nodeAddress": [
+    "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3"
+  ],
+  "ocrConfigPublicKey": [
+    "9f976c8ccd85439ed5c855fff07c20bac110cdcca74f39b78abb4f79d5ab741e"
+  ],
+  "ocrNodeAddress": [
+    "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3"
+  ],
+  "ocrOffchainPublicKey": [
+    "26191ad296b2f9c1eded60fe250a0f8fe18a377a63d693bdd7eda475cff2616f"
+  ],
+  "ocrSigningAddress": [
+    "0x26A546e823125274ebEdAB3Ffce0fEC1Dde5B012"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWPprmXGYZSAikxkUv5LKREHF2wZzbKqkkff8PiHsH8vSu"
+  ],
+  "status": "active",
+  "website": "https://northwestnodes.com"
+}
