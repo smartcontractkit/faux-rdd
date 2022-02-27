@@ -1,0 +1,25 @@
+{
+    "adminAddress": "0xACaF1bc8e88dE055497EBdAfCDF44f342AB4CbfC",
+    "displayName": "Kusari",
+    "nodeAddress": [
+        "0xe35fbb862780E778fc3AB7177e863eCBc7DAE40E"
+    ],
+    "ocrConfigPublicKey": [
+        "0fac1a2a4c000524946c646005da56c9ff9710b2d542eafa81ea7a10255b9a4d"
+    ],
+    "ocrNodeAddress": [
+        "0xe35fbb862780E778fc3AB7177e863eCBc7DAE40E"
+    ],
+    "ocrOffchainPublicKey": [
+        "657539b002f7aa18779b72ad11c66b83ee86cb877c71f5da57afdb23811b8eb8"
+    ],
+    "ocrSigningAddress": [
+        "0xeaeb0E9154eD0237f279F64760Fe55e3b2818e8E"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "peerId": [
+        "12D3KooWLH9EcAPR2DjhAB6ZXQkzAKZ9BJHDAkGnrg5JancLQuYy"
+    ],
+    "status": "active",
+    "website": "https://kusari.finance"
+}
