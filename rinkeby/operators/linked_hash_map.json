@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xA1a4E9dB387Eca3ff5c19D001d616A9dfbcCfACD",
+  "displayName": "Linked Hash Map",
+  "nodeAddress": [
+    "0x8050C0526b4346911FeA03b91690998bb3e2d7f7"
+  ],
+  "ocrConfigPublicKey": [
+    "926ffa095341b4462d69374d4ec031f6ac8c9d3615e982c06c76be526206c512"
+  ],
+  "ocrNodeAddress": [
+    "0x8050C0526b4346911FeA03b91690998bb3e2d7f7"
+  ],
+  "ocrOffchainPublicKey": [
+    "27738021352bd28e580d29f0cd79d775a45731b99cfcf38725b1efda16deada1"
+  ],
+  "ocrSigningAddress": [
+    "0x3A6f283767c130327F353B252469540D1749DA03"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWKJjQT9nPsFApxG7UJQzUJseAmfRpESXRt3iLXyGV2HNr"
+  ],
+  "status": "active",
+  "website": "https://codelaw1.github.io/chainlink-node-operator/"
+}
