@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x2eeDA7BEa0E26284b8DeffAd2A8911E985426F8A",
+  "displayName": "Raftel",
+  "nodeAddress": [
+    "0x02c86eb54B5fa798F35A02A565551CA8C64185fe"
+  ],
+  "ocrConfigPublicKey": [
+    "9f976c8ccd85439ed5c855fff07c20bac110cdcca74f39b78abb4f79d5ab741e"
+  ],
+  "ocrNodeAddress": [
+    "0x3ad4Ffae996f4F72De3961D4D81c70C8af48aF70"
+  ],
+  "ocrOffchainPublicKey": [
+    "14dadd75feb2c83777b3539837cc983d58955f81cac7ec79a574e56861b789e9"
+  ],
+  "ocrSigningAddress": [
+    "0x011D827d09bfa10Cdc4368DB1BE9EFaF1A73d5Bc"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWMKDqzKbRbxV9Sy37qEHBpaf1ubCVFEMaAPPFwKtfHzws "
+  ],
+  "status": "active",
+  "website": "https://www.raftel.io"
+}
