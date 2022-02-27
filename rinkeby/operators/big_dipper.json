@@ -5,20 +5,20 @@
     "0x47A289EEB3763279dB716718b678dd1Ff12E759e"
   ],
   "ocrConfigPublicKey": [
-    "56aa184d1d1414512259887da9ff6beb7f71be30d0edc051560882dd06363f1f"
+    "2c3b7443c25956c4bd788dd37941d2e823a90ce58e3e1bcd055e9c878dd2b93f"
   ],
   "ocrNodeAddress": [
     "0x47A289EEB3763279dB716718b678dd1Ff12E759e"
   ],
   "ocrOffchainPublicKey": [
-    "9121a33f3e1b5be740ada14379e6306cc648f7d07a5563b66824e660181c1571"
+    "35478a527c1c1fbe3f56a6ced41169b23d326e3791e3cc5a69afc9b5ae47c199"
   ],
   "ocrSigningAddress": [
-    "0x59282456F4393Fb27630D93042c1B63993074E90"
+    "0x58BCB457C5695282f33F156F41682cF260880693"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWEEDmJnfrpfBX2M94zL861KpNmBWjUQfxFq2nctoytDZm"
+    "12D3KooWJ59avcS6S1SwFEwEWBLbPn3FKtxMmSSAedokniL8JsZ8"
   ],
   "status": "active",
   "website": "https://wall-e.github.io/chainlink-node-operator/"
