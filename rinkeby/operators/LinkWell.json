@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x2621Cfe046273198070966Bb82aA20B490FE3274",
+  "displayName": "LinkWell Trust",
+  "nodeAddress": [
+    "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD"
+  ],
+  "ocrConfigPublicKey": [
+    "6d23038706fb41722f30789ed1de719e8036660c026f93c275ba7de82855521b"
+  ],
+  "ocrNodeAddress": [
+    "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD"
+  ],
+  "ocrOffchainPublicKey": [
+    "e6961a77152ad2c2bf8c54d36f9230de0cc33f0d55996521f390e855e2b81b2f"
+  ],
+  "ocrSigningAddress": [
+    "0xBdC3FD8D8bcb2424b5cd957da760979506c9AAc8"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWHQM9gha9sbEQ2xxHyi1bgduV74GqQYTorXo3xCTDpDuJ"
+  ],
+  "status": "active",
+  "website": "https://linkwelltrust.org"
+}
