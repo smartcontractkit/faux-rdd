@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xe1E81e694e5c05881f8d758B7fC8D3096EfC0B3F",
+  "displayName": "StakeMachine",
+  "nodeAddress": [
+    "0xf75ee6522DAa2F3A7961c136c972EFaf29918B0e"
+  ],
+  "ocrConfigPublicKey": [
+    "63062779c3ab8518318665d7d78637a9940615b57c4e4ed2884c975f10bc6511"
+  ],
+  "ocrNodeAddress": [
+    "0xf75ee6522DAa2F3A7961c136c972EFaf29918B0e"
+  ],
+  "ocrOffchainPublicKey": [
+    "1c23cce1ef7d490f136333af8c20991e763b4a16454532d7b8b458c14c4da98b"
+  ],
+  "ocrSigningAddress": [
+    "0x82f079602A8CCF1C570B04C0c82fC183a7e618c1"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWLDqFuAQN6abzSYpbMz86jtEjwygnxJK7zXpYubw91NLo"
+  ],
+  "status": "active",
+  "website": "https://www.stakemachine.net"
+}
