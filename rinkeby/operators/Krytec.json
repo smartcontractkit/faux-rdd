@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x88A3CC638Ea1d58fe2C0d38BD81E786B46e75dC8",
+  "displayName": "Krytec",
+  "nodeAddress": [
+    "0xEd6090f3eF3a0e1053FA26B1fE04b68060CCf436"
+  ],
+  "ocrConfigPublicKey": [
+    "63530c0b4bea78e28056cd1abf7a2e5fc4825e4228d9ae61ddfe629d3ee66567"
+  ],
+  "ocrNodeAddress": [
+    "0xEd6090f3eF3a0e1053FA26B1fE04b68060CCf436"
+  ],
+  "ocrOffchainPublicKey": [
+    "7291ec6bec6c1800cc05f9a2abe3d8e8a370dccd5ef43821df3e7255445984aa"
+  ],
+  "ocrSigningAddress": [
+    "0xb18fb861ddae769ec02a49ce5d4832556cfe79a9"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWNTw5g8s2LFK1SPEPXEnMxS5MxrEipS2ksudGxciiA4oD"
+  ],
+  "status": "active",
+  "website": "https://krytec.ch/"
+}
