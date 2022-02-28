@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x300c3F42Ed60e688EAc111Af988697A1fE2FB6b0",
+  "displayName": "Block Farms",
+  "nodeAddress": [
+    "0xf999caE7B39883dBA8a5EAb5A520E81f52A7ACe1"
+  ],
+  "ocrConfigPublicKey": [
+    "b17144fad4a339064ecdda77d6ae222347213d4cade7a21f898eaf59fc03a74b"
+  ],
+  "ocrNodeAddress": [
+    "0xf999caE7B39883dBA8a5EAb5A520E81f52A7ACe1"
+  ],
+  "ocrOffchainPublicKey": [
+    "480b0e48924df4e7d3dbc153013efa2fa5999fc8a3f48c1c5865bb28aff05c01"
+  ],
+  "ocrSigningAddress": [
+    "0x55B86e12d6e065c1d2B8F790CF788F2bF3016a1A"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWPAZzWcush77SBjS3dzzdxFDQRggTZEpdPbvYYLrV6c3B"
+  ],
+  "status": "active",
+  "website": "https://www.block-farms.io"
+}
