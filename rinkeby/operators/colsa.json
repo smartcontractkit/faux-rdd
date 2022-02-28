@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x1e163c6E740782d0A3e0402A56C4694d397072B2",
+  "displayName": "COLSA",
+  "nodeAddress": [
+    "0x1DeB51cd2048cc02ffdf584420A03427cE252601"
+  ],
+  "ocrConfigPublicKey": [
+    "807c1d239c99f8d99eff77eca862b9318f7f5a4b64d8668b925db51523e3c93a"
+  ],
+  "ocrNodeAddress": [
+    "0x1DeB51cd2048cc02ffdf584420A03427cE252601"
+  ],
+  "ocrOffchainPublicKey": [
+    "403956da249983a3c14d323269ee23eb17f85913a428c47aa4e70f8e83341976"
+  ],
+  "ocrSigningAddress": [
+    "0x01281afb5363d5B1d584351604470B3F3F6F5C0d"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWDUtXJRjJFkXyJTWaKNgdzKnpANkgdH1xQynmUWfoBuRE"
+  ],
+  "status": "active",
+  "website": "https://www.colsa.com.ar"
+}
