@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x05577F7d4588085Bc5A57C12b79098C0d7687416",
+  "displayName": "DoubleBass",
+  "nodeAddress": [
+    "0xDC09384BC8594E4DBe6dDfA43c0f436F419B42e3"
+  ],
+  "ocrConfigPublicKey": [
+    "c867d88dab7db1ee79aceeb2b7ed40ff98e0d9a2b4233865eaf437e8f69d0b41"
+  ],
+  "ocrNodeAddress": [
+    "0xDC09384BC8594E4DBe6dDfA43c0f436F419B42e3"
+  ],
+  "ocrOffchainPublicKey": [
+    "f0cf17f6ada803749451f261caea88680eb68ccede9f49334c79a110a99c63d2"
+  ],
+  "ocrSigningAddress": [
+    "0x21A99F00DCB1041eA1d967f48256C20452991D99"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWAZpbSt37crNQrWoqPjhQN4a7PVYXYieSfXYizv1QTjZR"
+  ],
+  "status": "active",
+  "website": "https://www.doublebass.io"
+}
