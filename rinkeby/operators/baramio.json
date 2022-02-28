@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xBAADFaa744694Fc1134bc5D6318c453778c4209F",
+  "displayName": "BARAMIO",
+  "nodeAddress": [
+    "0xCEEdD63086b3556C9E3465d77F763DF2ce3FB77C"
+  ],
+  "ocrConfigPublicKey": [
+    "528d8cddc2f796c20c8b544d1cb3332f68a05e55812716b3de1726cc40e41e5d"
+  ],
+  "ocrNodeAddress": [
+    "0xCEEdD63086b3556C9E3465d77F763DF2ce3FB77C"
+  ],
+  "ocrOffchainPublicKey": [
+    "56c62c280ecea3a6468a6937177db32dc2f854c4dad9c69aa8bdbdb6de1a81fa"
+  ],
+  "ocrSigningAddress": [
+    "0x34baE73Ef0104917106C797Ff70E4F38e609570a"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWEGTwpBw3MRq2c8yqgc7vLfXLKKqHbLqBNZjTZ8mnc1jb"
+  ],
+  "status": "active",
+  "website": "https://www.baramio.com"
+}
