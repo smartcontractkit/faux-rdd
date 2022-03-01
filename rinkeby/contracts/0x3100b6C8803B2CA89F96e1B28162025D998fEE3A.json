@@ -4,14 +4,14 @@
     "microLinkPerEth": "102829",
     "observationPaymentLinkGwei": "10",
     "reasonableGasPriceGwei": "10",
-    "transmissionPaymentLinkGwei": "300"
+    "transmissionPaymentLinkGwei": "10"
   },
   "config": {
     "badEpochTimeout": "35s",
     "maxContractValueAge": "1h",
     "maxFaultyNodeCount": 3,
     "maxRoundCount": 6,
-    "observationGracePeriod": "12s",
+    "observationGracePeriod": "19s",
     "relativeDeviationThresholdPPB": "10000000",
     "resendInterval": "17s",
     "roundInterval": "30s",
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "NEAR",
+    "from": "FUSE",
     "to": "USD"
   },
   "marketing": {
@@ -40,96 +40,96 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "NEAR",
+      "FUSE",
       "USD"
     ],
-    "path": "near-usd"
+    "path": "fuse-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",
-  "name": "NEAR / USD",
+  "name": "FUSE / USD",
   "oracles": [
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop01"
+      "operator": "kusari"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop02"
+      "operator": "linked_hash_map"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop03"
+      "operator": "LinkWell"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop04"
+      "operator": "Nodable"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop05"
+      "operator": "NorthWestNodes"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop06"
+      "operator": "polychains"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop07"
+      "operator": "raftel"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop08"
+      "operator": "stakemachine"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop09"
+      "operator": "swiftstaking"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop10"
+      "operator": "throbacLabs"
     }
   ],
-  "status": "testing",
+  "status": "live",
   "validator": "0x0000000000000000000000000000000000000000"
 }

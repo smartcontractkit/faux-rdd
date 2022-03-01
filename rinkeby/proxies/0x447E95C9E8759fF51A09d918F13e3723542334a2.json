@@ -1,0 +1,11 @@
+{
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0x53a6f2d38E93eDEceeed2e0D7E42F7F8110F0b10",
+  "contractVersion": 4,
+  "ens": "ftm-usd",
+  "implementations": {
+    "primary": "0x53a6f2d38E93eDEceeed2e0D7E42F7F8110F0b10",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "FTM / USD"
+}

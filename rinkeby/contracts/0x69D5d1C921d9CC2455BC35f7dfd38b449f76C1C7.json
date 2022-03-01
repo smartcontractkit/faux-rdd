@@ -4,7 +4,7 @@
     "microLinkPerEth": "102829",
     "observationPaymentLinkGwei": "10",
     "reasonableGasPriceGwei": "10",
-    "transmissionPaymentLinkGwei": "300"
+    "transmissionPaymentLinkGwei": "10"
   },
   "config": {
     "badEpochTimeout": "35s",
@@ -130,6 +130,6 @@
       "operator": "doublebass"
     }
   ],
-  "status": "testing",
+  "status": "live",
   "validator": "0x0000000000000000000000000000000000000000"
 }

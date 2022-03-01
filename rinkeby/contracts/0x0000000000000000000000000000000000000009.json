@@ -51,83 +51,83 @@
   "oracles": [
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop01"
+      "operator": "krytec"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop02"
+      "operator": "kusari"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop03"
+      "operator": "linked_hash_map"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop04"
+      "operator": "LinkWell"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop05"
+      "operator": "Nodable"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop06"
+      "operator": "NorthWestNodes1"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop07"
+      "operator": "polychains"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop08"
+      "operator": "raftel"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop09"
+      "operator": "stakemachine"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop10"
+      "operator": "swiftstaking"
     }
   ],
   "status": "testing",

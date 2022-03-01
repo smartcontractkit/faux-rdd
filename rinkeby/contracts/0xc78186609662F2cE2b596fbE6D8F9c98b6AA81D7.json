@@ -4,14 +4,14 @@
     "microLinkPerEth": "102829",
     "observationPaymentLinkGwei": "10",
     "reasonableGasPriceGwei": "10",
-    "transmissionPaymentLinkGwei": "300"
+    "transmissionPaymentLinkGwei": "10"
   },
   "config": {
     "badEpochTimeout": "35s",
     "maxContractValueAge": "1h",
     "maxFaultyNodeCount": 3,
     "maxRoundCount": 6,
-    "observationGracePeriod": "19s",
+    "observationGracePeriod": "12s",
     "relativeDeviationThresholdPPB": "10000000",
     "resendInterval": "17s",
     "roundInterval": "30s",
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "FUSE",
+    "from": "OSMO",
     "to": "USD"
   },
   "marketing": {
@@ -40,63 +40,15 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "FUSE",
+      "OSMO",
       "USD"
     ],
-    "path": "fuse-usd"
+    "path": "osmo-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",
-  "name": "FUSE / USD",
+  "name": "OSMO / USD",
   "oracles": [
-    {
-      "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
-      ],
-      "operator": "kusari"
-    },
-    {
-      "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
-      ],
-      "operator": "linked_hash_map"
-    },
-    {
-      "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
-      ],
-      "operator": "LinkWell"
-    },
-    {
-      "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
-      ],
-      "operator": "Nodable"
-    },
-    {
-      "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
-      ],
-      "operator": "NorthWestNodes"
-    },
-    {
-      "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
-      ],
-      "operator": "polychains"
-    },
     {
       "api": [
         "dataProvider1",
@@ -128,8 +80,56 @@
         "dataProvider3"
       ],
       "operator": "throbacLabs"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "Unvetica"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "Zenithchain"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "baramio"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "big_dipper"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "binaryLink"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "Block_Farms"
     }
   ],
-  "status": "testing",
+  "status": "live",
   "validator": "0x0000000000000000000000000000000000000000"
 }
