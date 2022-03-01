@@ -1,0 +1,529 @@
+[
+  {
+    "contractAddress": "0x001177B105E8cCC27E27C5308BCdcB15827b3896",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "XLM / USD",
+    "symbol": "",
+    "pair": [
+      "XLM",
+      "USD"
+    ],
+    "path": "xlm-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x0124265999A6ad282c94126C848b7F5312E96354",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "ETC / USD",
+    "symbol": "",
+    "pair": [
+      "ETC",
+      "USD"
+    ],
+    "path": "etc-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x01641CCC28691AbAf06b9F3362f7d3316eE28A4e",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "SOL / USD",
+    "symbol": "",
+    "pair": [
+      "SOL",
+      "USD"
+    ],
+    "path": "sol-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x0Ea9A0bAf10cC6bC4bb4D0b47682adB8ab92d3b9",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "OSMO / USD",
+    "symbol": "",
+    "pair": [
+      "OSMO",
+      "USD"
+    ],
+    "path": "osmo-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x22859cC9c3445801f00550ad8f517558DC6d05ab",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "FTM / USD",
+    "symbol": "",
+    "pair": [
+      "FTM",
+      "USD"
+    ],
+    "path": "ftm-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x271D523771240122274cFb5eDD666fee5C5d0588",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "FUSE / USD",
+    "symbol": "",
+    "pair": [
+      "FUSE",
+      "USD"
+    ],
+    "path": "fuse-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x2914C071ae1a3d52fc49bD9EF723436d107837E4",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "ADA / USD",
+    "symbol": "",
+    "pair": [
+      "ADA",
+      "USD"
+    ],
+    "path": "ada-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x2cF0a52719AE3Cee8b10Ea2A87602E9eF1F3889b",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "NEAR / USD",
+    "symbol": "",
+    "pair": [
+      "NEAR",
+      "USD"
+    ],
+    "path": "near-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x31D23f95fABAf0594150f74B50159D94bD8C1487",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "USDT / USD",
+    "symbol": "",
+    "pair": [
+      "USDT",
+      "USD"
+    ],
+    "path": "usdt-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x3740500bC8fC255E0d2855b91cc72c283edE4188",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "ONE / USD",
+    "symbol": "",
+    "pair": [
+      "ONE",
+      "USD"
+    ],
+    "path": "one-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x40F338709eE35BeDb01cBB8C92fbB2f2Ba598955",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "BTC / USD",
+    "symbol": "",
+    "pair": [
+      "BTC",
+      "USD"
+    ],
+    "path": "btc-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x54b3ee148B7A4C55427D97094664f4ed85ea48EA",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "MATIC / USD",
+    "symbol": "",
+    "pair": [
+      "MATIC",
+      "USD"
+    ],
+    "path": "matic-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x5b635DFb1B8475A9b39c1Ef95b90A87456F950C6",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "LTC / USD",
+    "symbol": "",
+    "pair": [
+      "LTC",
+      "USD"
+    ],
+    "path": "ltc-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x6570b74208BDc855EA3da0BAA98266aB0438143b",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "ATOM / USD",
+    "symbol": "",
+    "pair": [
+      "ATOM",
+      "USD"
+    ],
+    "path": "atom-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "ETH / USD",
+    "symbol": "",
+    "pair": [
+      "ETH",
+      "USD"
+    ],
+    "path": "eth-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x84198DED91F46d7013EFcB0946d1414f680e0335",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "LUNA / USD",
+    "symbol": "",
+    "pair": [
+      "LUNA",
+      "USD"
+    ],
+    "path": "luna-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x84ac3a42e2Fb49958F9B5C81f976ee30780641D1",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "AVAX / USD",
+    "symbol": "",
+    "pair": [
+      "AVAX",
+      "USD"
+    ],
+    "path": "avax-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x863cE17BbfaB651e0D7eb7A8F806bC038B4ECE3A",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "TRX / USD",
+    "symbol": "",
+    "pair": [
+      "TRX",
+      "USD"
+    ],
+    "path": "trx-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x8b56F41B48B2809B663c52394e8FbAfc18989001",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "HNT / USD",
+    "symbol": "",
+    "pair": [
+      "HNT",
+      "USD"
+    ],
+    "path": "hnt-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x8dd263F98F818257695711C938e9131eB17fe546",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "KLAY / USD",
+    "symbol": "",
+    "pair": [
+      "KLAY",
+      "USD"
+    ],
+    "path": "klay-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x939E7dFC83a542E8fC3F3e8A8e93D4eFe4cd05A0",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "HBAR / USD",
+    "symbol": "",
+    "pair": [
+      "HBAR",
+      "USD"
+    ],
+    "path": "hbar-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xC08C7B3c71AE19C2715B4903585577A20AB5fA31",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "XRP / USD",
+    "symbol": "",
+    "pair": [
+      "XRP",
+      "USD"
+    ],
+    "path": "xrp-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "LINK / USD",
+    "symbol": "",
+    "pair": [
+      "LINK",
+      "USD"
+    ],
+    "path": "link-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xE65b5028afde67Fed9DDF6F885AF8b3331Ffe2CC",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "BNB / USD",
+    "symbol": "",
+    "pair": [
+      "BNB",
+      "USD"
+    ],
+    "path": "bnb-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xED9e00B49D3EA6fc0D358cdEF92866966E754b43",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "BCH / USD",
+    "symbol": "",
+    "pair": [
+      "BCH",
+      "USD"
+    ],
+    "path": "bch-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xaC28266405F7cEdA2042c0D1f98f209f40Bf33Cc",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "FIL / USD",
+    "symbol": "",
+    "pair": [
+      "FIL",
+      "USD"
+    ],
+    "path": "fil-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xb8213bFAd2104B3bBa5Be9a851592059c6e5D0D9",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "ROSE / USD",
+    "symbol": "",
+    "pair": [
+      "ROSE",
+      "USD"
+    ],
+    "path": "rose-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xe1D7213c487f0BfdCdC7422376B12A13A435F43B",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "UNI / USD",
+    "symbol": "",
+    "pair": [
+      "UNI",
+      "USD"
+    ],
+    "path": "uni-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xe4697d946DAb20b8A0c1C430be0C923A8d1B150f",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "XTZ / USD",
+    "symbol": "",
+    "pair": [
+      "XTZ",
+      "USD"
+    ],
+    "path": "xtz-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xeCfFE6E99Bb781a0bADf35D4531ba317E37A30B8",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "XMR / USD",
+    "symbol": "",
+    "pair": [
+      "XMR",
+      "USD"
+    ],
+    "path": "xmr-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xfbcFF97E89b33A8d6F1BF8CC201A9EF342596b9C",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "DOGE / USD",
+    "symbol": "",
+    "pair": [
+      "DOGE",
+      "USD"
+    ],
+    "path": "doge-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  }
+]
