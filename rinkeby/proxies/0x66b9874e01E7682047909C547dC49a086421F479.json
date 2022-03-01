@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0x3100b6C8803B2CA89F96e1B28162025D998fEE3A",
-    "contractVersion": 4,
-    "ens": "fuse-usd",
-    "implementations": {
-        "primary": "0x3100b6C8803B2CA89F96e1B28162025D998fEE3A",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "FUSE / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0x3100b6C8803B2CA89F96e1B28162025D998fEE3A",
+  "contractVersion": 4,
+  "ens": "fuse-usd",
+  "implementations": {
+    "primary": "0x3100b6C8803B2CA89F96e1B28162025D998fEE3A",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "FUSE / USD"
 }
