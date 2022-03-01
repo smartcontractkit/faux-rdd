@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x61e5c78C7c99b293583715deF9356474829bAE40",
+    "contractVersion": 4,
+    "ens": "ada-usd",
+    "implementations": {
+        "primary": "0x61e5c78C7c99b293583715deF9356474829bAE40",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "ADA / USD"
+}

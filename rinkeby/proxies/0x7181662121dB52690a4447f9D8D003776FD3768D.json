@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x5920eDF6806f80B1346F4EeF0f60c5C5167D4b4e",
+    "contractVersion": 4,
+    "ens": "one-usd",
+    "implementations": {
+        "primary": "0x5920eDF6806f80B1346F4EeF0f60c5C5167D4b4e",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "ONE / USD"
+}

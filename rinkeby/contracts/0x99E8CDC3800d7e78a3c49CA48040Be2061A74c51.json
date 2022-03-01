@@ -4,7 +4,7 @@
     "microLinkPerEth": "102829",
     "observationPaymentLinkGwei": "10",
     "reasonableGasPriceGwei": "10",
-    "transmissionPaymentLinkGwei": "300"
+    "transmissionPaymentLinkGwei": "10"
   },
   "config": {
     "badEpochTimeout": "35s",
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "FTM",
+    "from": "NEAR",
     "to": "USD"
   },
   "marketing": {
@@ -40,96 +40,96 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "FTM",
+      "NEAR",
       "USD"
     ],
-    "path": "ftm-usd"
+    "path": "near-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",
-  "name": "FTM / USD",
+  "name": "NEAR / USD",
   "oracles": [
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "dataSource",
+        "dataSource",
+        "dataSource"
       ],
-      "operator": "brickoracle"
+      "operator": "nop01"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "dataSource",
+        "dataSource",
+        "dataSource"
       ],
-      "operator": "caanodes"
+      "operator": "nop02"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "dataSource",
+        "dataSource",
+        "dataSource"
       ],
-      "operator": "colsa"
+      "operator": "nop03"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "dataSource",
+        "dataSource",
+        "dataSource"
       ],
-      "operator": "dawns-world"
+      "operator": "nop04"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "dataSource",
+        "dataSource",
+        "dataSource"
       ],
-      "operator": "digisense"
+      "operator": "nop05"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "dataSource",
+        "dataSource",
+        "dataSource"
       ],
-      "operator": "doublebass"
+      "operator": "nop06"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "dataSource",
+        "dataSource",
+        "dataSource"
       ],
-      "operator": "genesis"
+      "operator": "nop07"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "dataSource",
+        "dataSource",
+        "dataSource"
       ],
-      "operator": "glink"
+      "operator": "nop08"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "dataSource",
+        "dataSource",
+        "dataSource"
       ],
-      "operator": "interzone"
+      "operator": "nop09"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "dataSource",
+        "dataSource",
+        "dataSource"
       ],
-      "operator": "Krytec"
+      "operator": "nop10"
     }
   ],
-  "status": "testing",
+  "status": "live",
   "validator": "0x0000000000000000000000000000000000000000"
 }
