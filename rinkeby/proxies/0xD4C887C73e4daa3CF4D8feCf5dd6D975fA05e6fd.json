@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0x2cF0a52719AE3Cee8b10Ea2A87602E9eF1F3889b",
-    "contractVersion": 4,
-    "ens": "near-usd",
-    "implementations": {
-        "primary": "0x2cF0a52719AE3Cee8b10Ea2A87602E9eF1F3889b",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "NEAR / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0x2cF0a52719AE3Cee8b10Ea2A87602E9eF1F3889b",
+  "contractVersion": 4,
+  "ens": "near-usd",
+  "implementations": {
+    "primary": "0x2cF0a52719AE3Cee8b10Ea2A87602E9eF1F3889b",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "NEAR / USD"
 }

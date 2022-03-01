@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0x54b3ee148B7A4C55427D97094664f4ed85ea48EA",
-    "contractVersion": 4,
-    "ens": "matic-usd",
-    "implementations": {
-        "primary": "0x54b3ee148B7A4C55427D97094664f4ed85ea48EA",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "MATIC / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0x54b3ee148B7A4C55427D97094664f4ed85ea48EA",
+  "contractVersion": 4,
+  "ens": "matic-usd",
+  "implementations": {
+    "primary": "0x54b3ee148B7A4C55427D97094664f4ed85ea48EA",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "MATIC / USD"
 }

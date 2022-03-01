@@ -4273,6 +4273,31 @@
       "status": "active",
       "website": "https://linkwelltrust.org"
     },
+    "Nodable": {
+      "adminAddress": "0xd65A1360B404C301A7cf3784e8fCf8968785688a",
+      "displayName": "Nodable",
+      "nodeAddress": [
+        "0xE2C5F39b5169715339dd4164F0e0e9FDF2632F4c"
+      ],
+      "ocrConfigPublicKey": [
+        "f20ceab4098b74f69b0c736ee539f63d4d49ddcb21a712c4e8393230e2e1c33c"
+      ],
+      "ocrNodeAddress": [
+        "0xE2C5F39b5169715339dd4164F0e0e9FDF2632F4c"
+      ],
+      "ocrOffchainPublicKey": [
+        "1a77dd315ca76da8c58fac397d1c47a91c7c0f16251bf6a1139fe3b063cbf2df"
+      ],
+      "ocrSigningAddress": [
+        "0x929D75bCD170a3eb2CA71d09d6113628CFAecc05"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWE6N2insxUxN87nP1Qj7JoehrnpRMDM2rjPPYjEctM6Fe"
+      ],
+      "status": "active",
+      "website": "https://www.nodable.io"
+    },
     "NorthWestNodes": {
       "adminAddress": "0xa79C4DC84b793074B366f9CBBAEFBa4346CD8C67",
       "displayName": "NorthWestNodes",
@@ -4622,6 +4647,31 @@
       ],
       "status": "active",
       "website": "https://glink.solutions"
+    },
+    "interzone": {
+      "adminAddress": "0x2918A8f86aa11b63Bd139981BF76F2F7852a111b",
+      "displayName": "Interzone",
+      "nodeAddress": [
+        "0xef093094f668212F389f2C8D447607443dc40e69"
+      ],
+      "ocrConfigPublicKey": [
+        "b1528f449939af908187aad0d958fb47076b2ea0294f9fe71a817b0a705ab421"
+      ],
+      "ocrNodeAddress": [
+        "0xef093094f668212F389f2C8D447607443dc40e69"
+      ],
+      "ocrOffchainPublicKey": [
+        "612649b5d3957422d77ace07482bd078d9a581b1eaefdc83a2a3f045abf4710a"
+      ],
+      "ocrSigningAddress": [
+        "0x3b1e46Fe830e4f666C3618FAd5ab517D45b4C413"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWAbVEMfZz7Qw5nuqdLmUWJNTPU1SVfPtfyC7EZqXYeAtJ"
+      ],
+      "status": "active",
+      "website": "http://www.bane.sh"
     },
     "kusari": {
       "adminAddress": "0xACaF1bc8e88dE055497EBdAfCDF44f342AB4CbfC",
@@ -5796,6 +5846,28 @@
       ],
       "status": "active",
       "website": "https://www.stakemachine.net"
+    },
+    "susy": {
+      "adminAddress": "0x10F245699d55Cb1EA72DC308a6eE71a8C51f81b1",
+      "displayName": "SuSy",
+      "ocrConfigPublicKey": [
+        "fa54ea2c23119e4e59cfc72b23a791f8a3dbb5f7dc1c96124d6a8a69e512612b"
+      ],
+      "ocrNodeAddress": [
+        "0x846a5B0838e20bB892B943Ac25F60A01c154b451"
+      ],
+      "ocrOffchainPublicKey": [
+        "c00b20896e7318c496cc36b9e9d9e671dba9ff0e616b37d0abb9bd91af631564"
+      ],
+      "ocrSigningAddress": [
+        "0xeF14Bbc1fc1643F90dC2a3027534BAF79049C22E"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWP5bFi2CQvHHKSUrmtqF7YumDFE9UNR4x6fs9DpanKQLv"
+      ],
+      "status": "active",
+      "website": "https://susy.one"
     },
     "swiftstaking": {
       "adminAddress": "0x68a2096f9F40EaA0A41d53509b10403e76ff4f8C",

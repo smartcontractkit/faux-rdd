@@ -144,6 +144,18 @@
     "csaKeys": null
   },
   {
+    "id": "interzone",
+    "website": "http://www.bane.sh",
+    "name": "Interzone",
+    "status": "active",
+    "nodeAddress": [
+      "0xef093094f668212F389f2C8D447607443dc40e69",
+      "0xef093094f668212F389f2C8D447607443dc40e69"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
     "id": "Krytec",
     "website": "https://krytec.ch/",
     "name": "Krytec",
@@ -199,6 +211,18 @@
     "nodeAddress": [
       "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6",
       "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "Nodable",
+    "website": "https://www.nodable.io",
+    "name": "Nodable",
+    "status": "active",
+    "nodeAddress": [
+      "0xE2C5F39b5169715339dd4164F0e0e9FDF2632F4c",
+      "0xE2C5F39b5169715339dd4164F0e0e9FDF2632F4c"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -739,6 +763,17 @@
     "nodeAddress": [
       "0xf75ee6522DAa2F3A7961c136c972EFaf29918B0e",
       "0xf75ee6522DAa2F3A7961c136c972EFaf29918B0e"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "susy",
+    "website": "https://susy.one",
+    "name": "SuSy",
+    "status": "active",
+    "nodeAddress": [
+      "0x846a5B0838e20bB892B943Ac25F60A01c154b451"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null

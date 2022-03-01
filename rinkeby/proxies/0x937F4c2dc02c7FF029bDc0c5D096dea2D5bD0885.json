@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0x31D23f95fABAf0594150f74B50159D94bD8C1487",
-    "contractVersion": 4,
-    "ens": "usdt-usd",
-    "implementations": {
-        "primary": "0x31D23f95fABAf0594150f74B50159D94bD8C1487",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "USDT / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0x31D23f95fABAf0594150f74B50159D94bD8C1487",
+  "contractVersion": 4,
+  "ens": "usdt-usd",
+  "implementations": {
+    "primary": "0x31D23f95fABAf0594150f74B50159D94bD8C1487",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "USDT / USD"
 }

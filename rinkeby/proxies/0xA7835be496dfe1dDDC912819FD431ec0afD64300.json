@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0x0124265999A6ad282c94126C848b7F5312E96354",
-    "contractVersion": 4,
-    "ens": "etc-usd",
-    "implementations": {
-        "primary": "0x0124265999A6ad282c94126C848b7F5312E96354",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "ETC / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0x0124265999A6ad282c94126C848b7F5312E96354",
+  "contractVersion": 4,
+  "ens": "etc-usd",
+  "implementations": {
+    "primary": "0x0124265999A6ad282c94126C848b7F5312E96354",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "ETC / USD"
 }

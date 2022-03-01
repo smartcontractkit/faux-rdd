@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0x8dd263F98F818257695711C938e9131eB17fe546",
-    "contractVersion": 4,
-    "ens": "klay-usd",
-    "implementations": {
-        "primary": "0x8dd263F98F818257695711C938e9131eB17fe546",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "KLAY / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0x8dd263F98F818257695711C938e9131eB17fe546",
+  "contractVersion": 4,
+  "ens": "klay-usd",
+  "implementations": {
+    "primary": "0x8dd263F98F818257695711C938e9131eB17fe546",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "KLAY / USD"
 }

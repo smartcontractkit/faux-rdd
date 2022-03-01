@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
-    "contractVersion": 4,
-    "ens": "link-usd",
-    "implementations": {
-        "primary": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "LINK / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
+  "contractVersion": 4,
+  "ens": "link-usd",
+  "implementations": {
+    "primary": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "LINK / USD"
 }

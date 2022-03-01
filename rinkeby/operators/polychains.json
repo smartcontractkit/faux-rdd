@@ -17,10 +17,10 @@
     "0x2043C2335eb0aD535e5297D46B604467FB4547d4"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "payeeAddress": "0x245A19Bf7A6a04a7f08c4946837059560470E3a1",
   "peerId": [
     "12D3KooWMMT1K2qtwqFpiWyCXiQFQW2VcMrcPvyads3NyyjXEt5n"
   ],
-  "payeeAddress": "0x245A19Bf7A6a04a7f08c4946837059560470E3a1",
   "status": "active",
   "website": "http://www.polychains.io/"
 }
