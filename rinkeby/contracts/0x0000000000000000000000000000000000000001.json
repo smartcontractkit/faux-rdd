@@ -1,0 +1,135 @@
+{
+  "billing": {
+    "maxGasPriceGwei": "2000",
+    "microLinkPerEth": "102829",
+    "observationPaymentLinkGwei": "10",
+    "reasonableGasPriceGwei": "10",
+    "transmissionPaymentLinkGwei": "300"
+  },
+  "config": {
+    "badEpochTimeout": "35s",
+    "maxContractValueAge": "1h",
+    "maxFaultyNodeCount": 3,
+    "maxRoundCount": 6,
+    "observationGracePeriod": "19s",
+    "relativeDeviationThresholdPPB": "10000000",
+    "resendInterval": "17s",
+    "roundInterval": "30s",
+    "transmissionStageTimeout": "60s",
+    "transmissionStages": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  "contractVersion": 4,
+  "decimals": 8,
+  "externalAdapterRequestParams": {
+    "from": "SOL",
+    "to": "USD"
+  },
+  "marketing": {
+    "decimalPlaces": 3,
+    "formatDecimalPlaces": 0,
+    "history": true,
+    "pair": [
+      "SOL",
+      "USD"
+    ],
+    "path": "sol-usd"
+  },
+  "maxSubmissionValue": "1000000000000000",
+  "minSubmissionValue": "100",
+  "name": "SOL / USD",
+  "oracles": [
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "genesis"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "glink"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "interzone"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "Krytec"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "kusari"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "linked_hash_map"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "linkWell"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "Nodable"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "NorthWestNodes"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "polychains"
+    }
+  ],
+  "status": "testing",
+  "validator": "0x0000000000000000000000000000000000000000"
+}

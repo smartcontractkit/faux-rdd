@@ -1,0 +1,135 @@
+{
+  "billing": {
+    "maxGasPriceGwei": "2000",
+    "microLinkPerEth": "102829",
+    "observationPaymentLinkGwei": "10",
+    "reasonableGasPriceGwei": "10",
+    "transmissionPaymentLinkGwei": "300"
+  },
+  "config": {
+    "badEpochTimeout": "35s",
+    "maxContractValueAge": "1h",
+    "maxFaultyNodeCount": 3,
+    "maxRoundCount": 6,
+    "observationGracePeriod": "12s",
+    "relativeDeviationThresholdPPB": "10000000",
+    "resendInterval": "17s",
+    "roundInterval": "30s",
+    "transmissionStageTimeout": "60s",
+    "transmissionStages": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  "contractVersion": 4,
+  "decimals": 8,
+  "externalAdapterRequestParams": {
+    "from": "AVAX",
+    "to": "USD"
+  },
+  "marketing": {
+    "decimalPlaces": 3,
+    "formatDecimalPlaces": 0,
+    "history": true,
+    "pair": [
+      "AVAX",
+      "USD"
+    ],
+    "path": "avax-usd"
+  },
+  "maxSubmissionValue": "1000000000000000",
+  "minSubmissionValue": "100",
+  "name": "AVAX / USD",
+  "oracles": [
+    {
+      "api": [
+        "dataSource",
+        "dataSource",
+        "dataSource"
+      ],
+      "operator": "nop01"
+    },
+    {
+      "api": [
+        "dataSource",
+        "dataSource",
+        "dataSource"
+      ],
+      "operator": "nop02"
+    },
+    {
+      "api": [
+        "dataSource",
+        "dataSource",
+        "dataSource"
+      ],
+      "operator": "nop03"
+    },
+    {
+      "api": [
+        "dataSource",
+        "dataSource",
+        "dataSource"
+      ],
+      "operator": "nop04"
+    },
+    {
+      "api": [
+        "dataSource",
+        "dataSource",
+        "dataSource"
+      ],
+      "operator": "nop05"
+    },
+    {
+      "api": [
+        "dataSource",
+        "dataSource",
+        "dataSource"
+      ],
+      "operator": "nop06"
+    },
+    {
+      "api": [
+        "dataSource",
+        "dataSource",
+        "dataSource"
+      ],
+      "operator": "nop07"
+    },
+    {
+      "api": [
+        "dataSource",
+        "dataSource",
+        "dataSource"
+      ],
+      "operator": "nop08"
+    },
+    {
+      "api": [
+        "dataSource",
+        "dataSource",
+        "dataSource"
+      ],
+      "operator": "nop09"
+    },
+    {
+      "api": [
+        "dataSource",
+        "dataSource",
+        "dataSource"
+      ],
+      "operator": "nop10"
+    }
+  ],
+  "status": "testing",
+  "validator": "0x0000000000000000000000000000000000000000"
+}

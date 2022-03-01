@@ -1,0 +1,135 @@
+{
+  "billing": {
+    "maxGasPriceGwei": "2000",
+    "microLinkPerEth": "102829",
+    "observationPaymentLinkGwei": "10",
+    "reasonableGasPriceGwei": "10",
+    "transmissionPaymentLinkGwei": "300"
+  },
+  "config": {
+    "badEpochTimeout": "35s",
+    "maxContractValueAge": "1h",
+    "maxFaultyNodeCount": 3,
+    "maxRoundCount": 6,
+    "observationGracePeriod": "12s",
+    "relativeDeviationThresholdPPB": "10000000",
+    "resendInterval": "17s",
+    "roundInterval": "30s",
+    "transmissionStageTimeout": "60s",
+    "transmissionStages": [
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  "contractVersion": 4,
+  "decimals": 8,
+  "externalAdapterRequestParams": {
+    "from": "ETC",
+    "to": "USD"
+  },
+  "marketing": {
+    "decimalPlaces": 3,
+    "formatDecimalPlaces": 0,
+    "history": true,
+    "pair": [
+      "ETC",
+      "USD"
+    ],
+    "path": "etc-usd"
+  },
+  "maxSubmissionValue": "1000000000000000",
+  "minSubmissionValue": "100",
+  "name": "ETC / USD",
+  "oracles": [
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "baramio"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "big_dipper"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "binaryLink"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "Block_Farms"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "brickoracle"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "caanodes"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "colsa"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "dawns-world"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider"
+      ],
+      "operator": "digisense"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "doublebass"
+    }
+  ],
+  "status": "testing",
+  "validator": "0x0000000000000000000000000000000000000000"
+}
