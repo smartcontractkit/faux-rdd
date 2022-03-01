@@ -768,6 +768,18 @@
     "csaKeys": null
   },
   {
+    "id": "storm-nodes",
+    "website": "https://www.storm-nodes.com",
+    "name": "Storm-Nodes",
+    "status": "active",
+    "nodeAddress": [
+      "0xD77BcbaAdE60D0b68C1008dd83Bc096e6CB15739",
+      "0xD77BcbaAdE60D0b68C1008dd83Bc096e6CB15739"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
     "id": "susy",
     "website": "https://susy.one",
     "name": "SuSy",
