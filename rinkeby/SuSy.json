@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x10F245699d55Cb1EA72DC308a6eE71a8C51f81b1",
+  "displayName": "SuSy",
+  "nodeAddress": [
+    "0x846a5B0838e20bB892B943Ac25F60A01c154b451"
+  ],
+  "ocrConfigPublicKey": [
+    "fa54ea2c23119e4e59cfc72b23a791f8a3dbb5f7dc1c96124d6a8a69e512612b"
+  ],
+  "ocrNodeAddress": [
+    "0xef14bbc1fc1643f90dc2a3027534baf79049c22e"
+  ],
+  "ocrOffchainPublicKey": [
+    "c00b20896e7318c496cc36b9e9d9e671dba9ff0e616b37d0abb9bd91af631564"
+  ],
+  "ocrSigningAddress": [
+    "0xef14bbc1fc1643f90dc2a3027534baf79049c22e"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWP5bFi2CQvHHKSUrmtqF7YumDFE9UNR4x6fs9DpanKQLv"
+  ],
+  "status": "active",
+  "website": "https://susy.one"
+}
