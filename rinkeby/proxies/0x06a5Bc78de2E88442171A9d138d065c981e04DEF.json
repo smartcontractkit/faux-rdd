@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0xaC28266405F7cEdA2042c0D1f98f209f40Bf33Cc",
-    "contractVersion": 4,
-    "ens": "fil-usd",
-    "implementations": {
-        "primary": "0xaC28266405F7cEdA2042c0D1f98f209f40Bf33Cc",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "FIL / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0xaC28266405F7cEdA2042c0D1f98f209f40Bf33Cc",
+  "contractVersion": 4,
+  "ens": "fil-usd",
+  "implementations": {
+    "primary": "0xaC28266405F7cEdA2042c0D1f98f209f40Bf33Cc",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "FIL / USD"
 }

@@ -1,25 +1,25 @@
 {
-    "adminAddress": "0x5c2Bb8609C8F6d2a2e058B25Ba7d3f163845E906",
-    "displayName": "BinaryLink",
-    "nodeAddress": [
-        "0x67CdB9dB96a7930b72176F579d210750a2371c73"
-    ],
-    "ocrConfigPublicKey": [
-        "0310c7e5960c286e265a32b8aae717b927979c4882804ee8bea80a80cfdf8270"
-    ],
-    "ocrNodeAddress": [
-        "0x67CdB9dB96a7930b72176F579d210750a2371c73"
-    ],
-    "ocrOffchainPublicKey": [
-        "5ceb0e05b24d1eff0ee8095b902083d9378c23d8f2f3bcd15efc8fca8d546e9a"
-    ],
-    "ocrSigningAddress": [
-        "0x262A1d0032B184d96ba1D454513Bf287Bf720D81"
-    ],
-    "oracleAddress": "0x0000000000000000000000000000000000000000",
-    "peerId": [
-        "12D3KooWPPMX3k74bBsnkHCtpwBJyD1cMuTcWSzNnjzmkNt5p9SF"
-    ],
-    "status": "active",
-    "website": "https://www.binarylink.me/"
+  "adminAddress": "0x5c2Bb8609C8F6d2a2e058B25Ba7d3f163845E906",
+  "displayName": "BinaryLink",
+  "nodeAddress": [
+    "0x67CdB9dB96a7930b72176F579d210750a2371c73"
+  ],
+  "ocrConfigPublicKey": [
+    "0310c7e5960c286e265a32b8aae717b927979c4882804ee8bea80a80cfdf8270"
+  ],
+  "ocrNodeAddress": [
+    "0x67CdB9dB96a7930b72176F579d210750a2371c73"
+  ],
+  "ocrOffchainPublicKey": [
+    "5ceb0e05b24d1eff0ee8095b902083d9378c23d8f2f3bcd15efc8fca8d546e9a"
+  ],
+  "ocrSigningAddress": [
+    "0x262A1d0032B184d96ba1D454513Bf287Bf720D81"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWPPMX3k74bBsnkHCtpwBJyD1cMuTcWSzNnjzmkNt5p9SF"
+  ],
+  "status": "active",
+  "website": "https://www.binarylink.me/"
 }

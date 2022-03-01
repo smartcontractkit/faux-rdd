@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0xeCfFE6E99Bb781a0bADf35D4531ba317E37A30B8",
-    "contractVersion": 4,
-    "ens": "xmr-usd",
-    "implementations": {
-        "primary": "0xeCfFE6E99Bb781a0bADf35D4531ba317E37A30B8",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "XMR / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0xeCfFE6E99Bb781a0bADf35D4531ba317E37A30B8",
+  "contractVersion": 4,
+  "ens": "xmr-usd",
+  "implementations": {
+    "primary": "0xeCfFE6E99Bb781a0bADf35D4531ba317E37A30B8",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "XMR / USD"
 }
