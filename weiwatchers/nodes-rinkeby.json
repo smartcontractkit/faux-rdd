@@ -820,8 +820,8 @@
     "name": "unvetica-node",
     "status": "active",
     "nodeAddress": [
-      "0xE0D7Db44ba669861F5fe8686cD03c90b6de5cE40",
-      "0xE0D7Db44ba669861F5fe8686cD03c90b6de5cE40"
+      "0x238aF39f84716aAd5887b539d616a65E094a9613",
+      "0x238aF39f84716aAd5887b539d616a65E094a9613"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
