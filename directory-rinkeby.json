@@ -4223,6 +4223,31 @@
       "status": "active",
       "website": "https://www.block-farms.io"
     },
+    "Hyphen": {
+      "adminAddress": "0xB364c97bF01335Ab641eAF457F4393b7dF513367",
+      "displayName": "HyphenOCR",
+      "nodeAddress": [
+        "0x40F81553999CB220E37bCBe923A0440C5a94E158"
+      ],
+      "ocrConfigPublicKey": [
+        "d397f882836e393a15ae628cec0bad3778e7c20c9b7bd9105e7545537c290677"
+      ],
+      "ocrNodeAddress": [
+        "0x40F81553999CB220E37bCBe923A0440C5a94E158"
+      ],
+      "ocrOffchainPublicKey": [
+        "471d1e26a0fd5a6903ffee84ee5450f6c3fc6427f1ff00500471429230ce2f6a"
+      ],
+      "ocrSigningAddress": [
+        "0x07F9bF73BDB81F33f5113C182C7115bcf6FEE1A6"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWCEEzvYN7Gba3swdRpSC1Ve7MryzvHhYxVoXtCFDiKXtv"
+      ],
+      "status": "active",
+      "website": "https://www.hyphen.earth/"
+    },
     "Krytec": {
       "adminAddress": "0x88A3CC638Ea1d58fe2C0d38BD81E786B46e75dC8",
       "displayName": "Krytec",
