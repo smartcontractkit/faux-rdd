@@ -4,10 +4,10 @@
   "blockcypher": {},
   "coingecko": {},
   "coinpaprika": {},
-  "dataSource": {},
   "dataProvider1": {},
   "dataProvider2": {},
   "dataProvider3": {},
+  "dataSource": {},
   "ncfx": {},
   "nomics": {},
   "tiingo": {}

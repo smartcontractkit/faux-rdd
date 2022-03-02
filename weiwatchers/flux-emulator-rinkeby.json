@@ -4396,93 +4396,93 @@
     },
     "nodes": [
       {
-        "name": "nop01",
-        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "name": "Hyphen",
+        "address": "0x40F81553999CB220E37bCBe923A0440C5a94E158",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop02",
-        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "name": "Unvetica",
+        "address": "0x238aF39f84716aAd5887b539d616a65E094a9613",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop03",
-        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "name": "Zenithchain",
+        "address": "0x8B1A328724986f1d532ab6a1B542dED8a7aA570A",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop04",
-        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "name": "interzone",
+        "address": "0xef093094f668212F389f2C8D447607443dc40e69",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop05",
-        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "name": "kusari",
+        "address": "0xe35fbb862780E778fc3AB7177e863eCBc7DAE40E",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop06",
-        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "name": "polychains",
+        "address": "0x9Cec7715c742916FE06E40c89F10ec20ebE42430",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop07",
-        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "name": "storm-nodes",
+        "address": "0xD77BcbaAdE60D0b68C1008dd83Bc096e6CB15739",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop08",
-        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "name": "susy",
+        "address": "0x846a5B0838e20bB892B943Ac25F60A01c154b451",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop09",
-        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "name": "swiftstaking",
+        "address": "0xDE97f46F438029Bd6f1b52494524103B54D85559",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop10",
-        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "name": "throbacLabs",
+        "address": "0x97c5B7C71274679f9Ef69A9Ae4c3caE0ae8375dF",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       }
     ],
