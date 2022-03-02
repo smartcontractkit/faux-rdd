@@ -5,7 +5,9 @@
     "blockcypher": {},
     "coingecko": {},
     "coinpaprika": {},
-    "dataSource": {},
+    "dataProvider1": {},
+    "dataProvider2": {},
+    "dataProvider3": {},
     "ncfx": {},
     "nomics": {},
     "tiingo": {}
