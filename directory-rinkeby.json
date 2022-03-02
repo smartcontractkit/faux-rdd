@@ -8374,16 +8374,16 @@
       "website": "https://northwestnodes.com"
     },
     "Unvetica": {
-      "adminAddress": "0x238aF39f84716aAd5887b539d616a65E094a9613",
+      "adminAddress": "0x21532d4267648191bef7a33c813c43cf90a6fa78",
       "displayName": "unvetica-node",
       "nodeAddress": [
-        "0xE0D7Db44ba669861F5fe8686cD03c90b6de5cE40"
+        "0x238aF39f84716aAd5887b539d616a65E094a9613"
       ],
       "ocrConfigPublicKey": [
         "23b89ebcfc79d52ebc0a8954df7512c162869607534a52a5f54f770db7033c21"
       ],
       "ocrNodeAddress": [
-        "0xE0D7Db44ba669861F5fe8686cD03c90b6de5cE40"
+        "0x238aF39f84716aAd5887b539d616a65E094a9613"
       ],
       "ocrOffchainPublicKey": [
         "a28d21f71634ddfeda29dc40310237281fa84f8f0a7189d49263ba0e122bb7e4"
@@ -8543,7 +8543,7 @@
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
-        "12D3KooWJ4Nc5odrX55ikJKjBc74cndf27S4kPCCMiCVcZNArtZB"
+        "12D3KooWCGHvevy4afmq3wNkLbqUNNTPE1G6YqW9C57crUb3EXQb"
       ],
       "status": "active",
       "website": "https://www.nopSite.com"
