@@ -43,7 +43,7 @@
       "ETH",
       "USD"
     ],
-    "path": "eth-usd"
+    "path": "eth-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100000",

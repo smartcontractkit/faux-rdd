@@ -43,7 +43,7 @@
       "LUNA",
       "USD"
     ],
-    "path": "luna-usd"
+    "path": "luna-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

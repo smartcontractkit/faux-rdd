@@ -43,7 +43,7 @@
       "BTC",
       "USD"
     ],
-    "path": "btc-usd"
+    "path": "btc-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

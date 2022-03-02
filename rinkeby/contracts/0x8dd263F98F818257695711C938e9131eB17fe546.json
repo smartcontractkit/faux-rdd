@@ -43,7 +43,7 @@
       "KLAY",
       "USD"
     ],
-    "path": "klay-usd"
+    "path": "klay-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

@@ -43,7 +43,7 @@
       "USDT",
       "USD"
     ],
-    "path": "usdt-usd"
+    "path": "usdt-usd-test2"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",
@@ -130,6 +130,6 @@
       "operator": "nop10"
     }
   ],
-  "status": "live",
+  "status": "testing",
   "validator": "0x0000000000000000000000000000000000000000"
 }

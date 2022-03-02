@@ -103,7 +103,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "linkWell"
+      "operator": "LinkWell"
     },
     {
       "api": [

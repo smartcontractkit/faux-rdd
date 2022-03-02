@@ -117,7 +117,7 @@
       "api": [
         "dataProvider1",
         "dataProvider2",
-        "dataProvider"
+        "dataProvider3"
       ],
       "operator": "digisense"
     },

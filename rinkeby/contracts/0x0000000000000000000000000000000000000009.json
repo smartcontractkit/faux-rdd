@@ -55,7 +55,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "krytec"
+      "operator": "Krytec"
     },
     {
       "api": [
@@ -95,7 +95,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "NorthWestNodes1"
+      "operator": "NorthWestNodes"
     },
     {
       "api": [

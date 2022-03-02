@@ -43,7 +43,7 @@
       "FTM",
       "USD"
     ],
-    "path": "ftm-usd"
+    "path": "ftm-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

@@ -43,7 +43,7 @@
       "XLM",
       "USD"
     ],
-    "path": "xlm-usd"
+    "path": "xlm-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

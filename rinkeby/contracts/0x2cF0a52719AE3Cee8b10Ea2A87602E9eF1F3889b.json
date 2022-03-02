@@ -43,7 +43,7 @@
       "NEAR",
       "USD"
     ],
-    "path": "near-usd"
+    "path": "near-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

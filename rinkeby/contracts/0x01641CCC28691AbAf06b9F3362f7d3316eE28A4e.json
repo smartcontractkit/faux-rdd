@@ -43,7 +43,7 @@
       "SOL",
       "USD"
     ],
-    "path": "sol-usd"
+    "path": "sol-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

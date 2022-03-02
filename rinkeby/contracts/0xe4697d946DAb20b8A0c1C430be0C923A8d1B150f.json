@@ -43,7 +43,7 @@
       "XTZ",
       "USD"
     ],
-    "path": "xtz-usd"
+    "path": "xtz-usd-test2"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

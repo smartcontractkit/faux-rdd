@@ -43,7 +43,7 @@
       "USDT",
       "USD"
     ],
-    "path": "usdt-usd"
+    "path": "usdt-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

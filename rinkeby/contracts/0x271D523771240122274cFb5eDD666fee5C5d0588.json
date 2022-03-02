@@ -43,7 +43,7 @@
       "FUSE",
       "USD"
     ],
-    "path": "fuse-usd"
+    "path": "fuse-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

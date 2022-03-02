@@ -43,7 +43,7 @@
       "LTC",
       "USD"
     ],
-    "path": "ltc-usd"
+    "path": "ltc-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

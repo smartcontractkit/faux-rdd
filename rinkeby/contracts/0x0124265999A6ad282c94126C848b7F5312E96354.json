@@ -43,7 +43,7 @@
       "ETC",
       "USD"
     ],
-    "path": "etc-usd"
+    "path": "etc-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

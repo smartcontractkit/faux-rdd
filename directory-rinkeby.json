@@ -8,6 +8,7 @@
     "dataProvider1": {},
     "dataProvider2": {},
     "dataProvider3": {},
+    "dataSource": {},
     "ncfx": {},
     "nomics": {},
     "tiingo": {}
@@ -118,7 +119,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "linkWell"
+          "operator": "LinkWell"
         },
         {
           "api": [
@@ -205,7 +206,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "krytec"
+          "operator": "Krytec"
         },
         {
           "api": [
@@ -245,7 +246,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "NorthWestNodes1"
+          "operator": "NorthWestNodes"
         },
         {
           "api": [
@@ -3028,7 +3029,7 @@
           "ETC",
           "USD"
         ],
-        "path": "etc-usd"
+        "path": "etc-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -3163,7 +3164,7 @@
           "SOL",
           "USD"
         ],
-        "path": "sol-usd"
+        "path": "sol-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -3298,7 +3299,7 @@
           "OSMO",
           "USD"
         ],
-        "path": "osmo-usd"
+        "path": "osmo-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -3433,7 +3434,7 @@
           "FTM",
           "USD"
         ],
-        "path": "ftm-usd"
+        "path": "ftm-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -3568,7 +3569,7 @@
           "FUSE",
           "USD"
         ],
-        "path": "fuse-usd"
+        "path": "fuse-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -3703,7 +3704,7 @@
           "ADA",
           "USD"
         ],
-        "path": "ada-usd"
+        "path": "ada-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -3838,7 +3839,7 @@
           "NEAR",
           "USD"
         ],
-        "path": "near-usd"
+        "path": "near-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -4108,7 +4109,7 @@
           "USDT",
           "USD"
         ],
-        "path": "usdt-usd"
+        "path": "usdt-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -4243,7 +4244,7 @@
           "ONE",
           "USD"
         ],
-        "path": "one-usd"
+        "path": "one-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -4378,7 +4379,7 @@
           "BTC",
           "USD"
         ],
-        "path": "btc-usd"
+        "path": "btc-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -4513,7 +4514,7 @@
           "XLM",
           "USD"
         ],
-        "path": "xlm-usd"
+        "path": "xlm-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -4783,7 +4784,7 @@
           "MATIC",
           "USD"
         ],
-        "path": "matic-usd"
+        "path": "matic-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -4918,7 +4919,7 @@
           "ONE",
           "USD"
         ],
-        "path": "one-usd"
+        "path": "one-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -5053,7 +5054,7 @@
           "LTC",
           "USD"
         ],
-        "path": "ltc-usd"
+        "path": "ltc-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -5188,7 +5189,7 @@
           "ADA",
           "USD"
         ],
-        "path": "ada-usd"
+        "path": "ada-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -5275,7 +5276,7 @@
           "operator": "nop10"
         }
       ],
-      "status": "live",
+      "status": "testing",
       "validator": "0x0000000000000000000000000000000000000000"
     },
     "0x6570b74208BDc855EA3da0BAA98266aB0438143b": {
@@ -5323,7 +5324,7 @@
           "ATOM",
           "USD"
         ],
-        "path": "atom-usd"
+        "path": "atom-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -5532,7 +5533,7 @@
           "api": [
             "dataProvider1",
             "dataProvider2",
-            "dataProvider"
+            "dataProvider3"
           ],
           "operator": "digisense"
         },
@@ -5593,7 +5594,7 @@
           "ETH",
           "USD"
         ],
-        "path": "eth-usd"
+        "path": "eth-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100000",
@@ -5728,7 +5729,7 @@
           "USDT",
           "USD"
         ],
-        "path": "usdt-usd"
+        "path": "usdt-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -5815,7 +5816,7 @@
           "operator": "nop10"
         }
       ],
-      "status": "live",
+      "status": "testing",
       "validator": "0x0000000000000000000000000000000000000000"
     },
     "0x84198DED91F46d7013EFcB0946d1414f680e0335": {
@@ -5863,7 +5864,7 @@
           "LUNA",
           "USD"
         ],
-        "path": "luna-usd"
+        "path": "luna-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -5998,7 +5999,7 @@
           "AVAX",
           "USD"
         ],
-        "path": "avax-usd"
+        "path": "avax-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -6133,7 +6134,7 @@
           "TRX",
           "USD"
         ],
-        "path": "trx-usd"
+        "path": "trx-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -6268,7 +6269,7 @@
           "HNT",
           "USD"
         ],
-        "path": "hnt-usd"
+        "path": "hnt-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -6403,7 +6404,7 @@
           "KLAY",
           "USD"
         ],
-        "path": "klay-usd"
+        "path": "klay-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -6538,7 +6539,7 @@
           "HBAR",
           "USD"
         ],
-        "path": "hbar-usd"
+        "path": "hbar-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -6673,7 +6674,7 @@
           "NEAR",
           "USD"
         ],
-        "path": "near-usd"
+        "path": "near-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -6760,7 +6761,7 @@
           "operator": "nop10"
         }
       ],
-      "status": "live",
+      "status": "testing",
       "validator": "0x0000000000000000000000000000000000000000"
     },
     "0xC08C7B3c71AE19C2715B4903585577A20AB5fA31": {
@@ -6808,7 +6809,7 @@
           "XRP",
           "USD"
         ],
-        "path": "xrp-usd"
+        "path": "xrp-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -6943,7 +6944,7 @@
           "LINK",
           "USD"
         ],
-        "path": "link-usd"
+        "path": "link-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100000",
@@ -7078,7 +7079,7 @@
           "BNB",
           "USD"
         ],
-        "path": "bnb-usd"
+        "path": "bnb-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -7213,7 +7214,7 @@
           "BCH",
           "USD"
         ],
-        "path": "bch-usd"
+        "path": "bch-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -7348,7 +7349,7 @@
           "FIL",
           "USD"
         ],
-        "path": "fil-usd"
+        "path": "fil-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -7483,7 +7484,7 @@
           "ROSE",
           "USD"
         ],
-        "path": "rose-usd"
+        "path": "rose-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -7753,7 +7754,7 @@
           "UNI",
           "USD"
         ],
-        "path": "uni-usd"
+        "path": "uni-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -7888,7 +7889,7 @@
           "XTZ",
           "USD"
         ],
-        "path": "xtz-usd"
+        "path": "xtz-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -8023,7 +8024,7 @@
           "XMR",
           "USD"
         ],
-        "path": "xmr-usd"
+        "path": "xmr-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -8158,7 +8159,7 @@
           "DOGE",
           "USD"
         ],
-        "path": "doge-usd"
+        "path": "doge-usd-test2"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -10415,17 +10416,6 @@
         "proposed": "0x0000000000000000000000000000000000000000"
       },
       "name": "UNI / USD"
-    },
-    "0xe399B354B27b24D7FdF708F610779d2c9485EA48": {
-      "accessController": "0x0000000000000000000000000000000000000000",
-      "aggregator": "0x001177B105E8cCC27E27C5308BCdcB15827b3896",
-      "contractVersion": 4,
-      "ens": "xlm-usd",
-      "implementations": {
-        "primary": "0x001177B105E8cCC27E27C5308BCdcB15827b3896",
-        "proposed": "0x0000000000000000000000000000000000000000"
-      },
-      "name": "XLM / USD"
     }
   }
 }

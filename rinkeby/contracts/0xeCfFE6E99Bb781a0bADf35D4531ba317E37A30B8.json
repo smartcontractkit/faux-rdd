@@ -43,7 +43,7 @@
       "XMR",
       "USD"
     ],
-    "path": "xmr-usd"
+    "path": "xmr-usd-test2"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",

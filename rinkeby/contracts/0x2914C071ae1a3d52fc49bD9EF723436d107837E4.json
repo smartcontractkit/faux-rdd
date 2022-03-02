@@ -43,7 +43,7 @@
       "ADA",
       "USD"
     ],
-    "path": "ada-usd"
+    "path": "ada-usd-test"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",
