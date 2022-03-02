@@ -144,6 +144,18 @@
     "csaKeys": null
   },
   {
+    "id": "Hyphen",
+    "website": "https://www.hyphen.earth/",
+    "name": "HyphenOCR",
+    "status": "active",
+    "nodeAddress": [
+      "0x40F81553999CB220E37bCBe923A0440C5a94E158",
+      "0x40F81553999CB220E37bCBe923A0440C5a94E158"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
     "id": "interzone",
     "website": "http://www.bane.sh",
     "name": "Interzone",
