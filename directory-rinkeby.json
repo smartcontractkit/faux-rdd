@@ -4927,83 +4927,83 @@
       "oracles": [
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "nop01"
+          "operator": "throbacLabs"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "nop02"
+          "operator": "Unvetica"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "nop03"
+          "operator": "Zenithchain"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "nop04"
+          "operator": "Hyphen"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "nop05"
+          "operator": "storm-nodes"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "nop06"
+          "operator": "susy"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "nop07"
+          "operator": "swiftstaking"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "nop08"
+          "operator": "interzone"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "nop09"
+          "operator": "kusari"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "nop10"
+          "operator": "polychains"
         }
       ],
       "status": "testing",
