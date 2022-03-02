@@ -51,81 +51,81 @@
   "oracles": [
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "throbacLabs"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "Unvetica"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "Zenithchain"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "Hyphen"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "storm-nodes"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "susy"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "swiftstaking"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "interzone"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "kusari"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "polychains"
     }

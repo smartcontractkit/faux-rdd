@@ -1,13 +1,13 @@
 {
   "apis": {
+    "NOP_OlympicsDP1": {},
+    "NOP_Olympics_DP2": {},
+    "NOP_Olympics_DP3": {},
     "bitcoin-json-rpc": {},
     "blockchainCom": {},
     "blockcypher": {},
     "coingecko": {},
     "coinpaprika": {},
-    "dataProvider1": {},
-    "dataProvider2": {},
-    "dataProvider3": {},
     "dataSource": {},
     "ncfx": {},
     "nomics": {},
@@ -67,81 +67,81 @@
       "oracles": [
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "genesis"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "glink"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "interzone"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Krytec"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "kusari"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "linked_hash_map"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "LinkWell"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Nodable"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "NorthWestNodes"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "polychains"
         }
@@ -202,81 +202,81 @@
       "oracles": [
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Krytec"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "kusari"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "linked_hash_map"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "LinkWell"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Nodable"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "NorthWestNodes"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "polychains"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "raftel"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "stakemachine"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "swiftstaking"
         }
@@ -3982,81 +3982,81 @@
       "oracles": [
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "kusari"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "linked_hash_map"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "LinkWell"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Nodable"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "NorthWestNodes"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "polychains"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "raftel"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "stakemachine"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "swiftstaking"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "throbacLabs"
         }
@@ -4657,81 +4657,81 @@
       "oracles": [
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "brickoracle"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "caanodes"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "colsa"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "dawns-world"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "digisense"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "doublebass"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "genesis"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "glink"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "interzone"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Krytec"
         }
@@ -4927,81 +4927,81 @@
       "oracles": [
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "throbacLabs"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Unvetica"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Zenithchain"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Hyphen"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "storm-nodes"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "susy"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "swiftstaking"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "interzone"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "kusari"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "polychains"
         }
@@ -5467,81 +5467,81 @@
       "oracles": [
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "baramio"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "big_dipper"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "binaryLink"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Block_Farms"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "brickoracle"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "caanodes"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "colsa"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "dawns-world"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "digisense"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "doublebass"
         }
@@ -7627,81 +7627,81 @@
       "oracles": [
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "raftel"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "stakemachine"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "swiftstaking"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "throbacLabs"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Unvetica"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Zenithchain"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "baramio"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "big_dipper"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "binaryLink"
         },
         {
           "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
+            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
           "operator": "Block_Farms"
         }

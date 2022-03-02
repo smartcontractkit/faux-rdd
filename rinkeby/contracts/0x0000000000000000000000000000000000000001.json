@@ -51,81 +51,81 @@
   "oracles": [
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "genesis"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "glink"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "interzone"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "Krytec"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "kusari"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "linked_hash_map"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "LinkWell"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "Nodable"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "NorthWestNodes"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "polychains"
     }

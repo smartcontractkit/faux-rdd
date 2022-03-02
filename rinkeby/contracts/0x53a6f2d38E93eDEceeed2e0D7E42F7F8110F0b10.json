@@ -51,81 +51,81 @@
   "oracles": [
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "brickoracle"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "caanodes"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "colsa"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "dawns-world"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "digisense"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "doublebass"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "genesis"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "glink"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "interzone"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "Krytec"
     }

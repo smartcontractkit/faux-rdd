@@ -51,81 +51,81 @@
   "oracles": [
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "kusari"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "linked_hash_map"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "LinkWell"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "Nodable"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "NorthWestNodes"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "polychains"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "raftel"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "stakemachine"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "swiftstaking"
     },
     {
       "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
+        "NOP_OlympicsDP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
       "operator": "throbacLabs"
     }
