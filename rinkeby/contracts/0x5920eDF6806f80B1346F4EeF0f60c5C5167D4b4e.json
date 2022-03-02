@@ -130,6 +130,6 @@
       "operator": "polychains"
     }
   ],
-  "status": "testing",
+  "status": "live",
   "validator": "0x0000000000000000000000000000000000000000"
 }

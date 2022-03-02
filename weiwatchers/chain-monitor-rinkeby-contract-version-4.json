@@ -626,7 +626,7 @@
     ],
     "path": "one-usd-test2",
     "nodeCount": 10,
-    "status": "testing"
+    "status": "live"
   },
   {
     "contractAddress": "0x5b635DFb1B8475A9b39c1Ef95b90A87456F950C6",
