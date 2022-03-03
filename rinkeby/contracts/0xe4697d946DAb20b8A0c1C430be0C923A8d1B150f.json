@@ -51,83 +51,83 @@
   "oracles": [
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop01"
+      "operator": "polychains"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop02"
+      "operator": "raftel"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop03"
+      "operator": "stakemachine"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop04"
+      "operator": "storm-nodes"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop05"
+      "operator": "susy"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop06"
+      "operator": "swiftstaking"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop07"
+      "operator": "throbacLabs"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop08"
+      "operator": "Unvetica"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop09"
+      "operator": "Zenithchain"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop10"
+      "operator": "baramio"
     }
   ],
   "status": "testing",

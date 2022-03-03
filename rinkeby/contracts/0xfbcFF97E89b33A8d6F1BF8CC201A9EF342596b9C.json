@@ -51,83 +51,83 @@
   "oracles": [
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop01"
+      "operator": "baramio"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop02"
+      "operator": "big_dipper"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop03"
+      "operator": "binaryLink"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop04"
+      "operator": "Block_Farms"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop05"
+      "operator": "brickoracle"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop06"
+      "operator": "caanodes"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop07"
+      "operator": "colsa"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop08"
+      "operator": "dawns-world"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop09"
+      "operator": "digisense"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop10"
+      "operator": "doublebass"
     }
   ],
   "status": "testing",

@@ -51,83 +51,83 @@
   "oracles": [
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop01"
+      "operator": "genesis"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop02"
+      "operator": "glink"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop03"
+      "operator": "Hyphen"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop04"
+      "operator": "interzone"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop05"
+      "operator": "Krytec"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop06"
+      "operator": "kusari"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop07"
+      "operator": "linked_hash_map"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop08"
+      "operator": "LinkWell"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop09"
+      "operator": "Nodable"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "NOP_Olympics_DP1",
+        "NOP_Olympics_DP2",
+        "NOP_Olympics_DP3"
       ],
-      "operator": "nop10"
+      "operator": "NorthWestNodes"
     }
   ],
   "status": "testing",

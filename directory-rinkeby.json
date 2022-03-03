@@ -1,6 +1,6 @@
 {
   "apis": {
-    "NOP_OlympicsDP1": {},
+    "NOP_Olympics_DP1": {},
     "NOP_Olympics_DP2": {},
     "NOP_Olympics_DP3": {},
     "bitcoin-json-rpc": {},
@@ -67,7 +67,7 @@
       "oracles": [
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -75,7 +75,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -83,7 +83,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -91,7 +91,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -99,7 +99,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -107,7 +107,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -115,7 +115,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -123,7 +123,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -131,7 +131,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -139,7 +139,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -202,7 +202,7 @@
       "oracles": [
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -210,7 +210,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -218,7 +218,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -226,7 +226,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -234,7 +234,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -242,7 +242,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -250,7 +250,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -258,7 +258,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -266,7 +266,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -274,7 +274,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -3982,7 +3982,7 @@
       "oracles": [
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -3990,7 +3990,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -3998,7 +3998,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4006,7 +4006,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4014,7 +4014,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4022,7 +4022,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4030,7 +4030,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4038,7 +4038,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4046,7 +4046,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4054,7 +4054,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4657,7 +4657,7 @@
       "oracles": [
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4665,7 +4665,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4673,7 +4673,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4681,7 +4681,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4689,7 +4689,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4697,7 +4697,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4705,7 +4705,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4713,7 +4713,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4721,7 +4721,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4729,7 +4729,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4927,7 +4927,7 @@
       "oracles": [
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4935,7 +4935,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4943,7 +4943,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4951,7 +4951,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4959,7 +4959,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4967,7 +4967,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4975,7 +4975,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4983,7 +4983,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4991,7 +4991,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -4999,7 +4999,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -5467,7 +5467,7 @@
       "oracles": [
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -5475,7 +5475,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -5483,7 +5483,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -5491,7 +5491,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -5499,7 +5499,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -5507,7 +5507,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -5515,7 +5515,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -5523,7 +5523,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -5531,7 +5531,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -5539,7 +5539,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7627,7 +7627,7 @@
       "oracles": [
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7635,7 +7635,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7643,7 +7643,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7651,7 +7651,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7659,7 +7659,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7667,7 +7667,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7675,7 +7675,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7683,7 +7683,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7691,7 +7691,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7699,7 +7699,7 @@
         },
         {
           "api": [
-            "NOP_OlympicsDP1",
+            "NOP_Olympics_DP1",
             "NOP_Olympics_DP2",
             "NOP_Olympics_DP3"
           ],
@@ -7897,83 +7897,83 @@
       "oracles": [
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop01"
+          "operator": "polychains"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop02"
+          "operator": "raftel"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop03"
+          "operator": "stakemachine"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop04"
+          "operator": "storm-nodes"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop05"
+          "operator": "susy"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop06"
+          "operator": "swiftstaking"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop07"
+          "operator": "throbacLabs"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop08"
+          "operator": "Unvetica"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop09"
+          "operator": "Zenithchain"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop10"
+          "operator": "baramio"
         }
       ],
       "status": "testing",
@@ -8032,83 +8032,83 @@
       "oracles": [
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop01"
+          "operator": "genesis"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop02"
+          "operator": "glink"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop03"
+          "operator": "Hyphen"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop04"
+          "operator": "interzone"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop05"
+          "operator": "Krytec"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop06"
+          "operator": "kusari"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop07"
+          "operator": "linked_hash_map"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop08"
+          "operator": "LinkWell"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop09"
+          "operator": "Nodable"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop10"
+          "operator": "NorthWestNodes"
         }
       ],
       "status": "testing",
@@ -8167,83 +8167,83 @@
       "oracles": [
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop01"
+          "operator": "baramio"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop02"
+          "operator": "big_dipper"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop03"
+          "operator": "binaryLink"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop04"
+          "operator": "Block_Farms"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop05"
+          "operator": "brickoracle"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop06"
+          "operator": "caanodes"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop07"
+          "operator": "colsa"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop08"
+          "operator": "dawns-world"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop09"
+          "operator": "digisense"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
           ],
-          "operator": "nop10"
+          "operator": "doublebass"
         }
       ],
       "status": "testing",
