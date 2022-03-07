@@ -161,8 +161,8 @@
     "name": "Interzone",
     "status": "active",
     "nodeAddress": [
-      "0xef093094f668212F389f2C8D447607443dc40e69",
-      "0xef093094f668212F389f2C8D447607443dc40e69"
+      "0x2B50a69c39De7225f9b760FbB7A8e1314753c448",
+      "0x2B50a69c39De7225f9b760FbB7A8e1314753c448"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null

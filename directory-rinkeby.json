@@ -4677,23 +4677,23 @@
       "adminAddress": "0x2918A8f86aa11b63Bd139981BF76F2F7852a111b",
       "displayName": "Interzone",
       "nodeAddress": [
-        "0xef093094f668212F389f2C8D447607443dc40e69"
+        "0x2B50a69c39De7225f9b760FbB7A8e1314753c448"
       ],
       "ocrConfigPublicKey": [
         "b1528f449939af908187aad0d958fb47076b2ea0294f9fe71a817b0a705ab421"
       ],
       "ocrNodeAddress": [
-        "0xef093094f668212F389f2C8D447607443dc40e69"
+        "0x2B50a69c39De7225f9b760FbB7A8e1314753c448"
       ],
       "ocrOffchainPublicKey": [
-        "612649b5d3957422d77ace07482bd078d9a581b1eaefdc83a2a3f045abf4710a"
+        "b207c0a568726dcf8443f7a36630a4e0a3749934eb8896953ef850e80355fc80"
       ],
       "ocrSigningAddress": [
-        "0x3b1e46Fe830e4f666C3618FAd5ab517D45b4C413"
+        "0xD72D1456a9e5dC3aDe0B1ee9D17e462142c91747"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
-        "12D3KooWAbVEMfZz7Qw5nuqdLmUWJNTPU1SVfPtfyC7EZqXYeAtJ"
+        "12D3KooWQdd9PmJarg9YSRJMws8M315dUNkq8cL9bf7vVVD6CXMB"
       ],
       "status": "active",
       "website": "http://www.bane.sh"
