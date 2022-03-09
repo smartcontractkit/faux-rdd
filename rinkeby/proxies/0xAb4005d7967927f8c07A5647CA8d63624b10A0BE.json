@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x508B90F270bAbBF1A3103698e73317E591d2AD39",
+    "contractVersion": 4,
+    "ens": "usdc-usd",
+    "implementations": {
+        "primary": "0x508B90F270bAbBF1A3103698e73317E591d2AD39",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "USDC / USD"
+}

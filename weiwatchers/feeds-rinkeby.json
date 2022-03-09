@@ -511,7 +511,7 @@
     "contractType": "",
     "contractVersion": 4,
     "decimalPlaces": 3,
-    "ens": null,
+    "ens": "ust-usd",
     "formatDecimalPlaces": 0,
     "healthPrice": "",
     "heartbeat": 45,
@@ -523,7 +523,7 @@
       "USD"
     ],
     "path": "ust-usd",
-    "proxyAddress": null,
+    "proxyAddress": "0x7ae0152Da18692560E96A36fE7D069D31569Fd7F",
     "threshold": 1,
     "valuePrefix": ""
   },
@@ -643,7 +643,7 @@
     "contractType": "",
     "contractVersion": 4,
     "decimalPlaces": 3,
-    "ens": null,
+    "ens": "usdt-usd",
     "formatDecimalPlaces": 0,
     "healthPrice": "",
     "heartbeat": 45,
@@ -655,7 +655,7 @@
       "USD"
     ],
     "path": "usdt-usd",
-    "proxyAddress": null,
+    "proxyAddress": "0x82A36D441dcD678bAbbBaeD1D964cc6852734677",
     "threshold": 1,
     "valuePrefix": ""
   },
@@ -731,7 +731,7 @@
     "contractType": "",
     "contractVersion": 4,
     "decimalPlaces": 3,
-    "ens": null,
+    "ens": "usdc-usd",
     "formatDecimalPlaces": 0,
     "healthPrice": "",
     "heartbeat": 45,
@@ -743,7 +743,7 @@
       "USD"
     ],
     "path": "usdc-usd",
-    "proxyAddress": null,
+    "proxyAddress": "0xAb4005d7967927f8c07A5647CA8d63624b10A0BE",
     "threshold": 1,
     "valuePrefix": ""
   },

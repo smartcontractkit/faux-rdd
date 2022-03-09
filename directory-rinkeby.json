@@ -10244,6 +10244,28 @@
       },
       "name": "BCH / USD"
     },
+    "0x7ae0152Da18692560E96A36fE7D069D31569Fd7F": {
+      "accessController": "0x0000000000000000000000000000000000000000",
+      "aggregator": "0x25C475D3a7F0737c54d35DaDD6BA7D4f78f898f4",
+      "contractVersion": 4,
+      "ens": "ust-usd",
+      "implementations": {
+        "primary": "0x25C475D3a7F0737c54d35DaDD6BA7D4f78f898f4",
+        "proposed": "0x0000000000000000000000000000000000000000"
+      },
+      "name": "UST / USD"
+    },
+    "0x82A36D441dcD678bAbbBaeD1D964cc6852734677": {
+      "accessController": "0x0000000000000000000000000000000000000000",
+      "aggregator": "0x33eB7c519b01Dc2D3e1B1065955256673Aa51E96",
+      "contractVersion": 4,
+      "ens": "usdt-usd",
+      "implementations": {
+        "primary": "0x33eB7c519b01Dc2D3e1B1065955256673Aa51E96",
+        "proposed": "0x0000000000000000000000000000000000000000"
+      },
+      "name": "USDT / USD"
+    },
     "0x89B6cf17dCD97Ef421a129A6044eCBa970EF8993": {
       "accessController": "0x0000000000000000000000000000000000000000",
       "aggregator": "0x863cE17BbfaB651e0D7eb7A8F806bC038B4ECE3A",
@@ -10331,6 +10353,17 @@
         "proposed": "0x0000000000000000000000000000000000000000"
       },
       "name": "KLAY / USD"
+    },
+    "0xAb4005d7967927f8c07A5647CA8d63624b10A0BE": {
+      "accessController": "0x0000000000000000000000000000000000000000",
+      "aggregator": "0x508B90F270bAbBF1A3103698e73317E591d2AD39",
+      "contractVersion": 4,
+      "ens": "usdc-usd",
+      "implementations": {
+        "primary": "0x508B90F270bAbBF1A3103698e73317E591d2AD39",
+        "proposed": "0x0000000000000000000000000000000000000000"
+      },
+      "name": "USDC / USD"
     },
     "0xB2C4f32dd62946b2ed62B020f411814C27701c68": {
       "accessController": "0x0000000000000000000000000000000000000000",

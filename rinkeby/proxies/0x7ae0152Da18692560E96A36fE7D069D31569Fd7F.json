@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0x25C475D3a7F0737c54d35DaDD6BA7D4f78f898f4",
+    "contractVersion": 4,
+    "ens": "ust-usd",
+    "implementations": {
+        "primary": "0x25C475D3a7F0737c54d35DaDD6BA7D4f78f898f4",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "UST / USD"
+}
