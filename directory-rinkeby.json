@@ -2579,411 +2579,6 @@
       "status": "testing",
       "validator": "0x0000000000000000000000000000000000000000"
     },
-    "0x0000000000000000000000000000000000000027": {
-      "billing": {
-        "maxGasPriceGwei": "2000",
-        "microLinkPerEth": "102829",
-        "observationPaymentLinkGwei": "10",
-        "reasonableGasPriceGwei": "10",
-        "transmissionPaymentLinkGwei": "300"
-      },
-      "config": {
-        "badEpochTimeout": "35s",
-        "maxContractValueAge": "45s",
-        "maxFaultyNodeCount": 3,
-        "maxRoundCount": 6,
-        "observationGracePeriod": "12s",
-        "relativeDeviationThresholdPPB": "10000000",
-        "resendInterval": "17s",
-        "roundInterval": "30s",
-        "transmissionStageTimeout": "60s",
-        "transmissionStages": [
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      },
-      "contractVersion": 4,
-      "decimals": 8,
-      "externalAdapterRequestParams": {
-        "from": "USDT",
-        "to": "USD"
-      },
-      "marketing": {
-        "decimalPlaces": 3,
-        "formatDecimalPlaces": 0,
-        "history": true,
-        "pair": [
-          "USDT",
-          "USD"
-        ],
-        "path": "usdt-usd"
-      },
-      "maxSubmissionValue": "1000000000000000",
-      "minSubmissionValue": "100",
-      "name": "USDT / USD",
-      "oracles": [
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "polychains"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "raftel"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "stakemachine"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "storm-nodes"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "susy"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "swiftstaking"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "throbacLabs"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "Unvetica"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "Zenithchain"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "kusari"
-        }
-      ],
-      "status": "testing",
-      "validator": "0x0000000000000000000000000000000000000000"
-    },
-    "0x0000000000000000000000000000000000000028": {
-      "billing": {
-        "maxGasPriceGwei": "2000",
-        "microLinkPerEth": "102829",
-        "observationPaymentLinkGwei": "10",
-        "reasonableGasPriceGwei": "10",
-        "transmissionPaymentLinkGwei": "300"
-      },
-      "config": {
-        "badEpochTimeout": "35s",
-        "maxContractValueAge": "45s",
-        "maxFaultyNodeCount": 3,
-        "maxRoundCount": 6,
-        "observationGracePeriod": "12s",
-        "relativeDeviationThresholdPPB": "10000000",
-        "resendInterval": "17s",
-        "roundInterval": "30s",
-        "transmissionStageTimeout": "60s",
-        "transmissionStages": [
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      },
-      "contractVersion": 4,
-      "decimals": 8,
-      "externalAdapterRequestParams": {
-        "from": "USDC",
-        "to": "USD"
-      },
-      "marketing": {
-        "decimalPlaces": 3,
-        "formatDecimalPlaces": 0,
-        "history": true,
-        "pair": [
-          "USDC",
-          "USD"
-        ],
-        "path": "usdc-usd"
-      },
-      "maxSubmissionValue": "1000000000000000",
-      "minSubmissionValue": "100",
-      "name": "USDC / USD",
-      "oracles": [
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "genesis"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "glink"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "Hyphen"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "interzone"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "Krytec"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "kusari"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "linked_hash_map"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "LinkWell"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "Nodable"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "NorthWestNodes"
-        }
-      ],
-      "status": "testing",
-      "validator": "0x0000000000000000000000000000000000000000"
-    },
-    "0x0000000000000000000000000000000000000029": {
-      "billing": {
-        "maxGasPriceGwei": "2000",
-        "microLinkPerEth": "102829",
-        "observationPaymentLinkGwei": "10",
-        "reasonableGasPriceGwei": "10",
-        "transmissionPaymentLinkGwei": "300"
-      },
-      "config": {
-        "badEpochTimeout": "35s",
-        "maxContractValueAge": "45s",
-        "maxFaultyNodeCount": 3,
-        "maxRoundCount": 6,
-        "observationGracePeriod": "19s",
-        "relativeDeviationThresholdPPB": "10000000",
-        "resendInterval": "17s",
-        "roundInterval": "30s",
-        "transmissionStageTimeout": "60s",
-        "transmissionStages": [
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      },
-      "contractVersion": 4,
-      "decimals": 8,
-      "externalAdapterRequestParams": {
-        "from": "UST",
-        "to": "USD"
-      },
-      "marketing": {
-        "decimalPlaces": 3,
-        "formatDecimalPlaces": 0,
-        "history": true,
-        "pair": [
-          "UST",
-          "USD"
-        ],
-        "path": "ust-usd"
-      },
-      "maxSubmissionValue": "1000000000000000",
-      "minSubmissionValue": "100",
-      "name": "UST / USD",
-      "oracles": [
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "baramio"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "big_dipper"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "binaryLink"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "Block_Farms"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "brickoracle"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "caanodes"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "colsa"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "dawns-world"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "digisense"
-        },
-        {
-          "api": [
-            "NOP_Olympics_DP1",
-            "NOP_Olympics_DP2",
-            "NOP_Olympics_DP3"
-          ],
-          "operator": "doublebass"
-        }
-      ],
-      "status": "testing",
-      "validator": "0x0000000000000000000000000000000000000000"
-    },
     "0x0124265999A6ad282c94126C848b7F5312E96354": {
       "billing": {
         "maxGasPriceGwei": "2000",
@@ -3519,6 +3114,141 @@
             "dataSource"
           ],
           "operator": "nop10"
+        }
+      ],
+      "status": "testing",
+      "validator": "0x0000000000000000000000000000000000000000"
+    },
+    "0x25C475D3a7F0737c54d35DaDD6BA7D4f78f898f4": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "10",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "300"
+      },
+      "config": {
+        "badEpochTimeout": "35s",
+        "maxContractValueAge": "45s",
+        "maxFaultyNodeCount": 3,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "19s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "30s",
+        "transmissionStageTimeout": "60s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "UST",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "UST",
+          "USD"
+        ],
+        "path": "ust-usd"
+      },
+      "maxSubmissionValue": "1000000000000000",
+      "minSubmissionValue": "100",
+      "name": "UST / USD",
+      "oracles": [
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "baramio"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "big_dipper"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "binaryLink"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "Block_Farms"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "brickoracle"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "caanodes"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "colsa"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "dawns-world"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "digisense"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "doublebass"
         }
       ],
       "status": "testing",
@@ -4199,6 +3929,141 @@
       "status": "testing",
       "validator": "0x0000000000000000000000000000000000000000"
     },
+    "0x33eB7c519b01Dc2D3e1B1065955256673Aa51E96": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "10",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "300"
+      },
+      "config": {
+        "badEpochTimeout": "35s",
+        "maxContractValueAge": "45s",
+        "maxFaultyNodeCount": 3,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "12s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "30s",
+        "transmissionStageTimeout": "60s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "USDT",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "USDT",
+          "USD"
+        ],
+        "path": "usdt-usd"
+      },
+      "maxSubmissionValue": "1000000000000000",
+      "minSubmissionValue": "100",
+      "name": "USDT / USD",
+      "oracles": [
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "polychains"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "raftel"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "stakemachine"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "storm-nodes"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "susy"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "swiftstaking"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "throbacLabs"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "Unvetica"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "Zenithchain"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "kusari"
+        }
+      ],
+      "status": "testing",
+      "validator": "0x0000000000000000000000000000000000000000"
+    },
     "0x3740500bC8fC255E0d2855b91cc72c283edE4188": {
       "billing": {
         "maxGasPriceGwei": "2000",
@@ -4599,6 +4464,141 @@
             "dataSource"
           ],
           "operator": "nop10"
+        }
+      ],
+      "status": "testing",
+      "validator": "0x0000000000000000000000000000000000000000"
+    },
+    "0x508B90F270bAbBF1A3103698e73317E591d2AD39": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "10",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "300"
+      },
+      "config": {
+        "badEpochTimeout": "35s",
+        "maxContractValueAge": "45s",
+        "maxFaultyNodeCount": 3,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "12s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "30s",
+        "transmissionStageTimeout": "60s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "USDC",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "USDC",
+          "USD"
+        ],
+        "path": "usdc-usd"
+      },
+      "maxSubmissionValue": "1000000000000000",
+      "minSubmissionValue": "100",
+      "name": "USDC / USD",
+      "oracles": [
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "genesis"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "glink"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "Hyphen"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "interzone"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "Krytec"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "kusari"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "linked_hash_map"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "LinkWell"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "Nodable"
+        },
+        {
+          "api": [
+            "NOP_Olympics_DP1",
+            "NOP_Olympics_DP2",
+            "NOP_Olympics_DP3"
+          ],
+          "operator": "NorthWestNodes"
         }
       ],
       "status": "testing",

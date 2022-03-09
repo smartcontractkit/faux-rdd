@@ -323,57 +323,6 @@
     "status": "testing"
   },
   {
-    "contractAddress": "0x0000000000000000000000000000000000000027",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "heartbeat": 45,
-    "history": false,
-    "multiply": "100000000",
-    "name": "USDT / USD",
-    "symbol": "",
-    "pair": [
-      "USDT",
-      "USD"
-    ],
-    "path": "usdt-usd",
-    "nodeCount": 10,
-    "status": "testing"
-  },
-  {
-    "contractAddress": "0x0000000000000000000000000000000000000028",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "heartbeat": 45,
-    "history": false,
-    "multiply": "100000000",
-    "name": "USDC / USD",
-    "symbol": "",
-    "pair": [
-      "USDC",
-      "USD"
-    ],
-    "path": "usdc-usd",
-    "nodeCount": 10,
-    "status": "testing"
-  },
-  {
-    "contractAddress": "0x0000000000000000000000000000000000000029",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "heartbeat": 45,
-    "history": false,
-    "multiply": "100000000",
-    "name": "UST / USD",
-    "symbol": "",
-    "pair": [
-      "UST",
-      "USD"
-    ],
-    "path": "ust-usd",
-    "nodeCount": 10,
-    "status": "testing"
-  },
-  {
     "contractAddress": "0x0124265999A6ad282c94126C848b7F5312E96354",
     "contractVersion": 4,
     "decimalPlaces": 3,
@@ -438,6 +387,23 @@
       "USD"
     ],
     "path": "ftm-usd-test",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x25C475D3a7F0737c54d35DaDD6BA7D4f78f898f4",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 45,
+    "history": false,
+    "multiply": "100000000",
+    "name": "UST / USD",
+    "symbol": "",
+    "pair": [
+      "UST",
+      "USD"
+    ],
+    "path": "ust-usd",
     "nodeCount": 10,
     "status": "testing"
   },
@@ -527,6 +493,23 @@
     "status": "testing"
   },
   {
+    "contractAddress": "0x33eB7c519b01Dc2D3e1B1065955256673Aa51E96",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 45,
+    "history": false,
+    "multiply": "100000000",
+    "name": "USDT / USD",
+    "symbol": "",
+    "pair": [
+      "USDT",
+      "USD"
+    ],
+    "path": "usdt-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
     "contractAddress": "0x3740500bC8fC255E0d2855b91cc72c283edE4188",
     "contractVersion": 4,
     "decimalPlaces": 3,
@@ -574,6 +557,23 @@
       "USD"
     ],
     "path": "xlm-usd-test",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x508B90F270bAbBF1A3103698e73317E591d2AD39",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 45,
+    "history": false,
+    "multiply": "100000000",
+    "name": "USDC / USD",
+    "symbol": "",
+    "pair": [
+      "USDC",
+      "USD"
+    ],
+    "path": "usdc-usd",
     "nodeCount": 10,
     "status": "testing"
   },

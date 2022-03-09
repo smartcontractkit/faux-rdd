@@ -5350,7 +5350,7 @@
     "category": "undefined"
   },
   {
-    "address": "0x0000000000000000000000000000000000000028",
+    "address": "0x508B90F270bAbBF1A3103698e73317E591d2AD39",
     "name": "USDC / USD",
     "contractVersion": 4,
     "data": {
@@ -5457,7 +5457,7 @@
     "category": "undefined"
   },
   {
-    "address": "0x0000000000000000000000000000000000000027",
+    "address": "0x33eB7c519b01Dc2D3e1B1065955256673Aa51E96",
     "name": "USDT / USD",
     "contractVersion": 4,
     "data": {
@@ -5778,7 +5778,7 @@
     "category": "undefined"
   },
   {
-    "address": "0x0000000000000000000000000000000000000029",
+    "address": "0x25C475D3a7F0737c54d35DaDD6BA7D4f78f898f4",
     "name": "UST / USD",
     "contractVersion": 4,
     "data": {

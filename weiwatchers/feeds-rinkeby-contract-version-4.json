@@ -419,72 +419,6 @@
   },
   {
     "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000027",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 45,
-    "history": true,
-    "multiply": "100000000",
-    "name": "USDT / USD",
-    "pair": [
-      "USDT",
-      "USD"
-    ],
-    "path": "usdt-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000028",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 45,
-    "history": true,
-    "multiply": "100000000",
-    "name": "USDC / USD",
-    "pair": [
-      "USDC",
-      "USD"
-    ],
-    "path": "usdc-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000029",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 45,
-    "history": true,
-    "multiply": "100000000",
-    "name": "UST / USD",
-    "pair": [
-      "UST",
-      "USD"
-    ],
-    "path": "ust-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
     "contractAddress": "0x0124265999A6ad282c94126C848b7F5312E96354",
     "contractType": "",
     "contractVersion": 4,
@@ -568,6 +502,28 @@
     ],
     "path": "ftm-usd-test",
     "proxyAddress": "0x19d17bA0F25969abaDC2be7f6530F46E5E831995",
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x25C475D3a7F0737c54d35DaDD6BA7D4f78f898f4",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 45,
+    "history": true,
+    "multiply": "100000000",
+    "name": "UST / USD",
+    "pair": [
+      "UST",
+      "USD"
+    ],
+    "path": "ust-usd",
+    "proxyAddress": null,
     "threshold": 1,
     "valuePrefix": ""
   },
@@ -683,6 +639,28 @@
   },
   {
     "compareOffchain": "",
+    "contractAddress": "0x33eB7c519b01Dc2D3e1B1065955256673Aa51E96",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 45,
+    "history": true,
+    "multiply": "100000000",
+    "name": "USDT / USD",
+    "pair": [
+      "USDT",
+      "USD"
+    ],
+    "path": "usdt-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
     "contractAddress": "0x3740500bC8fC255E0d2855b91cc72c283edE4188",
     "contractType": "",
     "contractVersion": 4,
@@ -743,6 +721,28 @@
       "USD"
     ],
     "path": "xlm-usd-test",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x508B90F270bAbBF1A3103698e73317E591d2AD39",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 45,
+    "history": true,
+    "multiply": "100000000",
+    "name": "USDC / USD",
+    "pair": [
+      "USDC",
+      "USD"
+    ],
+    "path": "usdc-usd",
     "proxyAddress": null,
     "threshold": 1,
     "valuePrefix": ""
