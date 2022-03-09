@@ -329,13 +329,13 @@
     "heartbeat": 45,
     "history": false,
     "multiply": "100000000",
-    "name": "XMR / USD",
+    "name": "USDT / USD",
     "symbol": "",
     "pair": [
-      "XMR",
+      "USDT",
       "USD"
     ],
-    "path": "xmr-usd",
+    "path": "usdt-usd",
     "nodeCount": 10,
     "status": "testing"
   },
@@ -346,13 +346,13 @@
     "heartbeat": 45,
     "history": false,
     "multiply": "100000000",
-    "name": "BCH / USD",
+    "name": "USDC / USD",
     "symbol": "",
     "pair": [
-      "BCH",
+      "USDC",
       "USD"
     ],
-    "path": "bch-usd",
+    "path": "usdc-usd",
     "nodeCount": 10,
     "status": "testing"
   },
@@ -363,13 +363,13 @@
     "heartbeat": 45,
     "history": false,
     "multiply": "100000000",
-    "name": "DOGE / USD",
+    "name": "UST / USD",
     "symbol": "",
     "pair": [
-      "DOGE",
+      "UST",
       "USD"
     ],
-    "path": "doge-usd",
+    "path": "ust-usd",
     "nodeCount": 10,
     "status": "testing"
   },

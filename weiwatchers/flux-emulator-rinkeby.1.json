@@ -1070,113 +1070,6 @@
     "category": "undefined"
   },
   {
-    "address": "0x0000000000000000000000000000000000000029",
-    "name": "DOGE / USD",
-    "contractVersion": 4,
-    "data": {
-      "from": "DOGE",
-      "to": "USD"
-    },
-    "nodes": [
-      {
-        "name": "Block_Farms",
-        "address": "0xf999caE7B39883dBA8a5EAb5A520E81f52A7ACe1",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "baramio",
-        "address": "0xCEEdD63086b3556C9E3465d77F763DF2ce3FB77C",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "big_dipper",
-        "address": "0x47A289EEB3763279dB716718b678dd1Ff12E759e",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "binaryLink",
-        "address": "0x67CdB9dB96a7930b72176F579d210750a2371c73",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "brickoracle",
-        "address": "0x9f3D6586a20718a67A4D5D16E0174D6Ed7f754b7",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "caanodes",
-        "address": "0x1B932e2d41Ea52c24A51011056971a35fc5aC458",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "colsa",
-        "address": "0x1DeB51cd2048cc02ffdf584420A03427cE252601",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "dawns-world",
-        "address": "0x7E994D5335fDbF4595C43F3b64d2cA551beA9E32",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "digisense",
-        "address": "0x948F851b8cf83355c8CF3C43C07EebDe01C0Fa02",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "doublebass",
-        "address": "0xDC09384BC8594E4DBe6dDfA43c0f436F419B42e3",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      }
-    ],
-    "precision": 8,
-    "deviationThreshold": 1,
-    "symbol": "",
-    "path": "doge-usd",
-    "status": "testing",
-    "category": "undefined"
-  },
-  {
     "address": "0x0124265999A6ad282c94126C848b7F5312E96354",
     "name": "ETC / USD",
     "contractVersion": 4,
@@ -3317,6 +3210,113 @@
     "category": "undefined"
   },
   {
+    "address": "0x0000000000000000000000000000000000000027",
+    "name": "USDT / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "USDT",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "Unvetica",
+        "address": "0x238aF39f84716aAd5887b539d616a65E094a9613",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "Zenithchain",
+        "address": "0x8B1A328724986f1d532ab6a1B542dED8a7aA570A",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "kusari",
+        "address": "0xe35fbb862780E778fc3AB7177e863eCBc7DAE40E",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "polychains",
+        "address": "0x9Cec7715c742916FE06E40c89F10ec20ebE42430",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "raftel",
+        "address": "0x02c86eb54B5fa798F35A02A565551CA8C64185fe",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "stakemachine",
+        "address": "0xf75ee6522DAa2F3A7961c136c972EFaf29918B0e",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "storm-nodes",
+        "address": "0xD77BcbaAdE60D0b68C1008dd83Bc096e6CB15739",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "susy",
+        "address": "0x846a5B0838e20bB892B943Ac25F60A01c154b451",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "swiftstaking",
+        "address": "0xDE97f46F438029Bd6f1b52494524103B54D85559",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "throbacLabs",
+        "address": "0x97c5B7C71274679f9Ef69A9Ae4c3caE0ae8375dF",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "usdt-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
     "address": "0x743272Cb9DB0a676a22B126A900aA64C048bc338",
     "name": "USDT / USD",
     "contractVersion": 4,
@@ -3420,6 +3420,113 @@
     "deviationThreshold": 0.5,
     "symbol": "",
     "path": "usdt-usd-test2",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000029",
+    "name": "UST / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "UST",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "Block_Farms",
+        "address": "0xf999caE7B39883dBA8a5EAb5A520E81f52A7ACe1",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "baramio",
+        "address": "0xCEEdD63086b3556C9E3465d77F763DF2ce3FB77C",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "big_dipper",
+        "address": "0x47A289EEB3763279dB716718b678dd1Ff12E759e",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "binaryLink",
+        "address": "0x67CdB9dB96a7930b72176F579d210750a2371c73",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "brickoracle",
+        "address": "0x9f3D6586a20718a67A4D5D16E0174D6Ed7f754b7",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "caanodes",
+        "address": "0x1B932e2d41Ea52c24A51011056971a35fc5aC458",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "colsa",
+        "address": "0x1DeB51cd2048cc02ffdf584420A03427cE252601",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "dawns-world",
+        "address": "0x7E994D5335fDbF4595C43F3b64d2cA551beA9E32",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "digisense",
+        "address": "0x948F851b8cf83355c8CF3C43C07EebDe01C0Fa02",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "doublebass",
+        "address": "0xDC09384BC8594E4DBe6dDfA43c0f436F419B42e3",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "ust-usd",
     "status": "testing",
     "category": "undefined"
   },
@@ -3634,113 +3741,6 @@
     "deviationThreshold": 1,
     "symbol": "",
     "path": "xlm-usd-test",
-    "status": "testing",
-    "category": "undefined"
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000027",
-    "name": "XMR / USD",
-    "contractVersion": 4,
-    "data": {
-      "from": "XMR",
-      "to": "USD"
-    },
-    "nodes": [
-      {
-        "name": "Unvetica",
-        "address": "0x238aF39f84716aAd5887b539d616a65E094a9613",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "Zenithchain",
-        "address": "0x8B1A328724986f1d532ab6a1B542dED8a7aA570A",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "kusari",
-        "address": "0xe35fbb862780E778fc3AB7177e863eCBc7DAE40E",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "polychains",
-        "address": "0x9Cec7715c742916FE06E40c89F10ec20ebE42430",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "raftel",
-        "address": "0x02c86eb54B5fa798F35A02A565551CA8C64185fe",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "stakemachine",
-        "address": "0xf75ee6522DAa2F3A7961c136c972EFaf29918B0e",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "storm-nodes",
-        "address": "0xD77BcbaAdE60D0b68C1008dd83Bc096e6CB15739",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "susy",
-        "address": "0x846a5B0838e20bB892B943Ac25F60A01c154b451",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "swiftstaking",
-        "address": "0xDE97f46F438029Bd6f1b52494524103B54D85559",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "throbacLabs",
-        "address": "0x97c5B7C71274679f9Ef69A9Ae4c3caE0ae8375dF",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      }
-    ],
-    "precision": 8,
-    "deviationThreshold": 1,
-    "symbol": "",
-    "path": "xmr-usd",
     "status": "testing",
     "category": "undefined"
   }

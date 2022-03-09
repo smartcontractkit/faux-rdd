@@ -1,112 +1,5 @@
 [
   {
-    "address": "0x0000000000000000000000000000000000000028",
-    "name": "BCH / USD",
-    "contractVersion": 4,
-    "data": {
-      "from": "BCH",
-      "to": "USD"
-    },
-    "nodes": [
-      {
-        "name": "Hyphen",
-        "address": "0x40F81553999CB220E37bCBe923A0440C5a94E158",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "Krytec",
-        "address": "0xEd6090f3eF3a0e1053FA26B1fE04b68060CCf436",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "LinkWell",
-        "address": "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "Nodable",
-        "address": "0xE2C5F39b5169715339dd4164F0e0e9FDF2632F4c",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "NorthWestNodes",
-        "address": "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "genesis",
-        "address": "0xDB0743eD0bFD82eE7871B5C782efF559D8D961a4",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "glink",
-        "address": "0x8a361a06F8F7B976447328492C4F7f18F2Fec59F",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "interzone",
-        "address": "0x2B50a69c39De7225f9b760FbB7A8e1314753c448",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "kusari",
-        "address": "0xe35fbb862780E778fc3AB7177e863eCBc7DAE40E",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      },
-      {
-        "name": "linked_hash_map",
-        "address": "0x8050C0526b4346911FeA03b91690998bb3e2d7f7",
-        "dataProviders": [
-          "NOP_Olympics_DP1",
-          "NOP_Olympics_DP2",
-          "NOP_Olympics_DP3"
-        ]
-      }
-    ],
-    "precision": 8,
-    "deviationThreshold": 1,
-    "symbol": "",
-    "path": "bch-usd",
-    "status": "testing",
-    "category": "undefined"
-  },
-  {
     "address": "0x0000000000000000000000000000000000000026",
     "name": "BNB / USD",
     "contractVersion": 4,
@@ -2243,6 +2136,113 @@
     "deviationThreshold": 1,
     "symbol": "",
     "path": "uni-usd-test2",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000028",
+    "name": "USDC / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "USDC",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "Hyphen",
+        "address": "0x40F81553999CB220E37bCBe923A0440C5a94E158",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "Krytec",
+        "address": "0xEd6090f3eF3a0e1053FA26B1fE04b68060CCf436",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "LinkWell",
+        "address": "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "Nodable",
+        "address": "0xE2C5F39b5169715339dd4164F0e0e9FDF2632F4c",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "NorthWestNodes",
+        "address": "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "genesis",
+        "address": "0xDB0743eD0bFD82eE7871B5C782efF559D8D961a4",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "glink",
+        "address": "0x8a361a06F8F7B976447328492C4F7f18F2Fec59F",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "interzone",
+        "address": "0x2B50a69c39De7225f9b760FbB7A8e1314753c448",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "kusari",
+        "address": "0xe35fbb862780E778fc3AB7177e863eCBc7DAE40E",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      },
+      {
+        "name": "linked_hash_map",
+        "address": "0x8050C0526b4346911FeA03b91690998bb3e2d7f7",
+        "dataProviders": [
+          "NOP_Olympics_DP1",
+          "NOP_Olympics_DP2",
+          "NOP_Olympics_DP3"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "usdc-usd",
     "status": "testing",
     "category": "undefined"
   },

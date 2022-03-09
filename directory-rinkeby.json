@@ -2613,7 +2613,7 @@
       "contractVersion": 4,
       "decimals": 8,
       "externalAdapterRequestParams": {
-        "from": "XMR",
+        "from": "USDT",
         "to": "USD"
       },
       "marketing": {
@@ -2621,14 +2621,14 @@
         "formatDecimalPlaces": 0,
         "history": true,
         "pair": [
-          "XMR",
+          "USDT",
           "USD"
         ],
-        "path": "xmr-usd"
+        "path": "usdt-usd"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
-      "name": "XMR / USD",
+      "name": "USDT / USD",
       "oracles": [
         {
           "api": [
@@ -2748,7 +2748,7 @@
       "contractVersion": 4,
       "decimals": 8,
       "externalAdapterRequestParams": {
-        "from": "BCH",
+        "from": "USDC",
         "to": "USD"
       },
       "marketing": {
@@ -2756,14 +2756,14 @@
         "formatDecimalPlaces": 0,
         "history": true,
         "pair": [
-          "BCH",
+          "USDC",
           "USD"
         ],
-        "path": "bch-usd"
+        "path": "usdc-usd"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
-      "name": "BCH / USD",
+      "name": "USDC / USD",
       "oracles": [
         {
           "api": [
@@ -2883,7 +2883,7 @@
       "contractVersion": 4,
       "decimals": 8,
       "externalAdapterRequestParams": {
-        "from": "DOGE",
+        "from": "UST",
         "to": "USD"
       },
       "marketing": {
@@ -2891,14 +2891,14 @@
         "formatDecimalPlaces": 0,
         "history": true,
         "pair": [
-          "DOGE",
+          "UST",
           "USD"
         ],
-        "path": "doge-usd"
+        "path": "ust-usd"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
-      "name": "DOGE / USD",
+      "name": "UST / USD",
       "oracles": [
         {
           "api": [
