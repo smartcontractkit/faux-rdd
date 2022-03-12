@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x21A39B91637cFED5B79b5270499D8667b7646571",
+  "displayName": "BrickOracle",
+  "nodeAddress": [
+    "0x9f3D6586a20718a67A4D5D16E0174D6Ed7f754b7"
+  ],
+  "ocrConfigPublicKey": [
+    "d6aaed36368fb6ca4edb9a87e7b0ef6e5374c618d0f181d4e975cf3c6577d239"
+  ],
+  "ocrNodeAddress": [
+    "0x9f3D6586a20718a67A4D5D16E0174D6Ed7f754b7"
+  ],
+  "ocrOffchainPublicKey": [
+    "32a4ef6cb6c2fbb0c4ef72cd387d7d779cf5862621a5873bd68bd8d444f63145"
+  ],
+  "ocrSigningAddress": [
+    "0xB4334696Ec1216Ab1401dEaDf83649a1C3B68003"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWKmKhvpuPvZnM4Nc4svmnKFipaKy7wYJsHsAy9dU3xUUX"
+  ],
+  "status": "active",
+  "website": "https://www.brickoracle.io"
+}

@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x3A088DB2e3eF198dD9B47705492578E2a4768Fc5",
+  "displayName": "digisense",
+  "nodeAddress": [
+    "0x948F851b8cf83355c8CF3C43C07EebDe01C0Fa02"
+  ],
+  "ocrConfigPublicKey": [
+    "bfcc3d9cbdc766eae70102fe77c341182cdb9fe744f530a6c0e9caa0926d884e"
+  ],
+  "ocrNodeAddress": [
+    "0x948F851b8cf83355c8CF3C43C07EebDe01C0Fa02"
+  ],
+  "ocrOffchainPublicKey": [
+    "aa3079fcba190f7dd0c87854db1286d9f14c2a6fd6794cd3443a19308504a30b"
+  ],
+  "ocrSigningAddress": [
+    "0x6ef0B9dD390d30797d756816D18c11a6300Bf516"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWC8mXVM33V4UrdNhkDVH4MRmGvLv1E8e63dYRHQ4FK7ps"
+  ],
+  "status": "active",
+  "website": "https://digisense.fi/"
+}

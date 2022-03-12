@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0xe1D7213c487f0BfdCdC7422376B12A13A435F43B",
-    "contractVersion": 4,
-    "ens": "uni-usd",
-    "implementations": {
-        "primary": "0xe1D7213c487f0BfdCdC7422376B12A13A435F43B",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "UNI / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0xe1D7213c487f0BfdCdC7422376B12A13A435F43B",
+  "contractVersion": 4,
+  "ens": "uni-usd",
+  "implementations": {
+    "primary": "0xe1D7213c487f0BfdCdC7422376B12A13A435F43B",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "UNI / USD"
 }

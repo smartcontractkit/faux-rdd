@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0x3740500bC8fC255E0d2855b91cc72c283edE4188",
-    "contractVersion": 4,
-    "ens": "one-usd",
-    "implementations": {
-        "primary": "0x3740500bC8fC255E0d2855b91cc72c283edE4188",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "ONE / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0x3740500bC8fC255E0d2855b91cc72c283edE4188",
+  "contractVersion": 4,
+  "ens": "one-usd",
+  "implementations": {
+    "primary": "0x3740500bC8fC255E0d2855b91cc72c283edE4188",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "ONE / USD"
 }

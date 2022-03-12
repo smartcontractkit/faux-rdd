@@ -1,0 +1,1500 @@
+[
+  {
+    "address": "0xfbcFF97E89b33A8d6F1BF8CC201A9EF342596b9C",
+    "name": "DOGE / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "DOGE",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "doge-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0x939E7dFC83a542E8fC3F3e8A8e93D4eFe4cd05A0",
+    "name": "HBAR / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "HBAR",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "hbar-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0x8dd263F98F818257695711C938e9131eB17fe546",
+    "name": "KLAY / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "KLAY",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "klay-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
+    "name": "LINK / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "LINK",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "munichRe",
+        "address": "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "link-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0x84198DED91F46d7013EFcB0946d1414f680e0335",
+    "name": "LUNA / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "LUNA",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "luna-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0x54b3ee148B7A4C55427D97094664f4ed85ea48EA",
+    "name": "MATIC / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "MATIC",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "matic-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0x0Ea9A0bAf10cC6bC4bb4D0b47682adB8ab92d3b9",
+    "name": "OSMO / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "OSMO",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "osmo-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0xb8213bFAd2104B3bBa5Be9a851592059c6e5D0D9",
+    "name": "ROSE / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "ROSE",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "rose-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0xe1D7213c487f0BfdCdC7422376B12A13A435F43B",
+    "name": "UNI / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "UNI",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "uni-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0x31D23f95fABAf0594150f74B50159D94bD8C1487",
+    "name": "USDT / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "USDT",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 0.5,
+    "symbol": "",
+    "path": "usdt-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0x001177B105E8cCC27E27C5308BCdcB15827b3896",
+    "name": "XLM / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "XLM",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "munichRe",
+        "address": "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "xlm-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0xeCfFE6E99Bb781a0bADf35D4531ba317E37A30B8",
+    "name": "XMR / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "XMR",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "xmr-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0xC08C7B3c71AE19C2715B4903585577A20AB5fA31",
+    "name": "XRP / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "XRP",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "xrp-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0xe4697d946DAb20b8A0c1C430be0C923A8d1B150f",
+    "name": "XTZ / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "XTZ",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "nop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop02",
+        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop03",
+        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop04",
+        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop05",
+        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop06",
+        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop07",
+        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop08",
+        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop09",
+        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "nop10",
+        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "xtz-usd",
+    "status": "testing",
+    "category": "undefined"
+  }
+]

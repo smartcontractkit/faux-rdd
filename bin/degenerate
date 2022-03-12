@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
 
-rddtool degenerate kovan directory-kovan.json
+# rddtool degenerate kovan directory-kovan.json
 rddtool degenerate rinkeby directory-rinkeby.json
-rddtool degenerate goerli directory-goerli.json
+# rddtool degenerate goerli directory-goerli.json

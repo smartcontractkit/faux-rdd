@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x0000000000000000000000000000000000000040",
+  "displayName": "Storm-Nodes",
+  "nodeAddress": [
+    "0xD77BcbaAdE60D0b68C1008dd83Bc096e6CB15739"
+  ],
+  "ocrConfigPublicKey": [
+    "f473fde154f0dd723cf235f252b078bf62ce5f76e166435f6ab29c6415111251"
+  ],
+  "ocrNodeAddress": [
+    "0xD77BcbaAdE60D0b68C1008dd83Bc096e6CB15739"
+  ],
+  "ocrOffchainPublicKey": [
+    "9e9f5ae4664b75ea0d85bfb48e7118c65e01d94c83936d52d21e6b8e5141ed57"
+  ],
+  "ocrSigningAddress": [
+    "0x5A1694D27490D39Ed8E0113cC344E3BCd55dDD6B"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWFM65eXQU5SP3BEBHV1DLnYmotrZr1panYL3afwbgXB7b"
+  ],
+  "status": "active",
+  "website": "https://www.storm-nodes.com"
+}

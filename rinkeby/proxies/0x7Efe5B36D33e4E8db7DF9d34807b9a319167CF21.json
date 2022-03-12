@@ -1,11 +1,11 @@
 {
-    "accessController": "0x0000000000000000000000000000000000000000",
-    "aggregator": "0xED9e00B49D3EA6fc0D358cdEF92866966E754b43",
-    "contractVersion": 4,
-    "ens": "bch-usd",
-    "implementations": {
-        "primary": "0xED9e00B49D3EA6fc0D358cdEF92866966E754b43",
-        "proposed": "0x0000000000000000000000000000000000000000"
-    },
-    "name": "BCH / USD"
+  "accessController": "0x0000000000000000000000000000000000000000",
+  "aggregator": "0xED9e00B49D3EA6fc0D358cdEF92866966E754b43",
+  "contractVersion": 4,
+  "ens": "bch-usd",
+  "implementations": {
+    "primary": "0xED9e00B49D3EA6fc0D358cdEF92866966E754b43",
+    "proposed": "0x0000000000000000000000000000000000000000"
+  },
+  "name": "BCH / USD"
 }

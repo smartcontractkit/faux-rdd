@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x7CFc3bABf232f1199c8C7816529878D51f17A6dc",
+  "displayName": "glink01",
+  "nodeAddress": [
+    "0x8a361a06F8F7B976447328492C4F7f18F2Fec59F"
+  ],
+  "ocrConfigPublicKey": [
+    "c59ce6d1a85a076f4f61df2f085a9bc68683e93607b0159879cc56c10a5f1512"
+  ],
+  "ocrNodeAddress": [
+    "0x8a361a06F8F7B976447328492C4F7f18F2Fec59F"
+  ],
+  "ocrOffchainPublicKey": [
+    "d1beb542f4f475894a5a0c67a682a14ce1ce6ec7cdd910ef02feeff55d3997e4"
+  ],
+  "ocrSigningAddress": [
+    "0xabB1822194F56bc541212dBeC29F64179261CFC6"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWQJBftW4NSJmLUY4CtcNDKXpTPEkrWjLBLYKsmofLBDA7"
+  ],
+  "status": "active",
+  "website": "https://glink.solutions"
+}
