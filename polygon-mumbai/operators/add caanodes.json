@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x72b623BB2E6b800Aa0efced5EfD8561D32a7c678",
+  "displayName": "caanodes",
+  "nodeAddress": [
+    "0xEA7e095f49bfBAaE935F4b52daDc66F10fFb2F8F"
+  ],
+  "ocrConfigPublicKey": [
+    "eacb6ed7ffdc65a901238f1ef8c50eb2662c4973e1a90867be4f6cd24ab3f275"
+  ],
+  "ocrNodeAddress": [
+    "0xEA7e095f49bfBAaE935F4b52daDc66F10fFb2F8F"
+  ],
+  "ocrOffchainPublicKey": [
+    "1ab599e0eee434cab82716388e2193cbf4f924c7e8b08544a0d6465d18e31995"
+  ],
+  "ocrSigningAddress": [
+    "0xBEe608069c9b46ca998969fA5B274A0379b7eb63"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWF3Zi5G8RgwerYQLtnS6GCxqMeeWQgCuBybnttcXsHexR"
+  ],
+  "status": "active",
+  "website": "https://www.nopSite.com"
+}
