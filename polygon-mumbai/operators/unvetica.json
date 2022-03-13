@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x21532d4267648191bef7a33c813c43cf90a6fa78",
+  "displayName": "unvetica-node",
+  "nodeAddress": [
+    "0x122b6c8aCe155a1b83e5D781baf1b805f0138f18"
+  ],
+  "ocrConfigPublicKey": [
+    "e523b4c3ed6122adb3fc3a4cb02e733ea49d25b1298dd660dce3860b81ff2730"
+  ],
+  "ocrNodeAddress": [
+    "0x122b6c8aCe155a1b83e5D781baf1b805f0138f18"
+  ],
+  "ocrOffchainPublicKey": [
+    "1ace0e0432f739f97fadbd68e23727a41548630f0b74914c1ed5153a019d0075"
+  ],
+  "ocrSigningAddress": [
+    "0x4c6211a8B446326AE6Fa57831C006235b651FAf6"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWEtEdPzsDpxqNwdCzG9SdravA2YYKrFRpd18RWbKVnybU"
+  ],
+  "status": "active",
+  "website": "https://www.unvetica.com/"
+}
