@@ -11,10 +11,10 @@
     "maxContractValueAge": "1h",
     "maxFaultyNodeCount": 3,
     "maxRoundCount": 6,
-    "observationGracePeriod": "19s",
+    "observationGracePeriod": "12s",
     "relativeDeviationThresholdPPB": "10000000",
     "resendInterval": "17s",
-    "roundInterval": "30s",
+    "roundInterval": "20s",
     "transmissionStageTimeout": "60s",
     "transmissionStages": [
       1,
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "BTC",
+    "from": "OSMO",
     "to": "USD"
   },
   "marketing": {
@@ -40,96 +40,96 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "BTC",
+      "OSMO",
       "USD"
     ],
-    "path": "btc-usd"
+    "path": "osmo-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",
-  "name": "BTC / USD",
+  "name": "OSMO / USD",
   "oracles": [
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop01"
+      "operator": "baramio"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop02"
+      "operator": "bigDipper"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop03"
+      "operator": "binaryLink"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop04"
+      "operator": "BlockFarms"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop05"
+      "operator": "brickOracle"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop06"
+      "operator": "caanodes"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop07"
+      "operator": "COLSA"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop08"
+      "operator": "dawnsWorld"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop09"
+      "operator": "digisense"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop10"
+      "operator": "doublebass"
     }
   ],
-  "status": "testing",
+  "status": "live",
   "validator": "0x0000000000000000000000000000000000000000"
 }

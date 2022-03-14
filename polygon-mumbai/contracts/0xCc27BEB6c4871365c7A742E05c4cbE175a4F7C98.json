@@ -11,10 +11,10 @@
     "maxContractValueAge": "1h",
     "maxFaultyNodeCount": 3,
     "maxRoundCount": 6,
-    "observationGracePeriod": "12s",
+    "observationGracePeriod": "19s",
     "relativeDeviationThresholdPPB": "10000000",
     "resendInterval": "17s",
-    "roundInterval": "30s",
+    "roundInterval": "20s",
     "transmissionStageTimeout": "60s",
     "transmissionStages": [
       1,
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "OSMO",
+    "from": "BTC",
     "to": "USD"
   },
   "marketing": {
@@ -40,96 +40,96 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "OSMO",
+      "BTC",
       "USD"
     ],
-    "path": "osmo-usd"
+    "path": "btc-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",
-  "name": "OSMO / USD",
+  "name": "BTC / USD",
   "oracles": [
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop01"
+      "operator": "Storm-Nodes"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop02"
+      "operator": "susy"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop03"
+      "operator": "swiftstaking"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop04"
+      "operator": "throbacLabs"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop05"
+      "operator": "unvetica"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop06"
+      "operator": "zenithChain"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop07"
+      "operator": "baramio"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop08"
+      "operator": "bigDipper"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop09"
+      "operator": "binaryLink"
     },
     {
       "api": [
-        "dataProvider",
-        "dataProvider",
-        "dataProvider"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop10"
+      "operator": "BlockFarms"
     }
   ],
-  "status": "testing",
+  "status": "live",
   "validator": "0x0000000000000000000000000000000000000000"
 }
