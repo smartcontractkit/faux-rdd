@@ -51,81 +51,81 @@
   "oracles": [
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider",
+        "dataProvider",
+        "dataProvider"
       ],
       "operator": "nop01"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider",
+        "dataProvider",
+        "dataProvider"
       ],
       "operator": "nop02"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider",
+        "dataProvider",
+        "dataProvider"
       ],
       "operator": "nop03"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider",
+        "dataProvider",
+        "dataProvider"
       ],
       "operator": "nop04"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider",
+        "dataProvider",
+        "dataProvider"
       ],
       "operator": "nop05"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider",
+        "dataProvider",
+        "dataProvider"
       ],
       "operator": "nop06"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider",
+        "dataProvider",
+        "dataProvider"
       ],
       "operator": "nop07"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider",
+        "dataProvider",
+        "dataProvider"
       ],
       "operator": "nop08"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider",
+        "dataProvider",
+        "dataProvider"
       ],
       "operator": "nop09"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider",
+        "dataProvider",
+        "dataProvider"
       ],
       "operator": "nop10"
     }
