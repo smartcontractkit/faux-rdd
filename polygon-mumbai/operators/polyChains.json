@@ -1,0 +1,26 @@
+{
+  "adminAddress": "0xeb3837257764565530ddD0faBcFeef559AD3B801",
+  "displayName": "PolyChains",
+  "nodeAddress": [
+    "0x6f087541B04e9413428f9950daC090Ab6f8A4De5"
+  ],
+  "ocrConfigPublicKey": [
+    "814510b9a1b484338e8164984a23ac2cc155671625696790375b2d43d981561e"
+  ],
+  "ocrNodeAddress": [
+    "0x6f087541B04e9413428f9950daC090Ab6f8A4De5"
+  ],
+  "ocrOffchainPublicKey": [
+    "364508d3519fb96abf9d40edd93e05eb21a36cd1c381afc621d63731b5b9019d"
+  ],
+  "ocrSigningAddress": [
+    "0xB86a8d2E6e77DBF24c05b16549c101a7C1494dc3"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "payeeAddress": "0x870193B539E114BA0073d8F6B9C783d54D9d6EBE",
+  "peerId": [
+    "12D3KooWRopZe9aw1ZPM9Qf84t5uYmZUZPVWg2GArAQU1dmnH6YJ"
+  ],
+  "status": "active",
+  "website": "http://www.polychains.io/"
+}
