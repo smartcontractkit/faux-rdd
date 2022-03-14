@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xaF497FF72118d885deFf61364d58De155f544751",
+  "displayName": "Genesis",
+  "nodeAddress": [
+    "0x7a93E7eAc3292d13AE1D3391c248AcDf34210526"
+  ],
+  "ocrConfigPublicKey": [
+    "e2a3b4302d7c32be6eb77a8a02e4f95b287dacca819b3839233515f0f58bd375"
+  ],
+  "ocrNodeAddress": [
+    "0x7a93E7eAc3292d13AE1D3391c248AcDf34210526"
+  ],
+  "ocrOffchainPublicKey": [
+    "ed48b8c43a7899f4cbcdf88c6a473195ac1a3e4a8c6f877d3fb81b75638631a8"
+  ],
+  "ocrSigningAddress": [
+    "0xB744c8efAFA3546A28e08BF4877C5ECfF7F9fd10"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "p2p_12D3KooWJ63tCyWXxAGuhQaBhpQzCEPuspPWEfGjXTyYRRGUTyRC"
+  ],
+  "status": "active",
+  "website": "https://althaea.xyz"
+}
