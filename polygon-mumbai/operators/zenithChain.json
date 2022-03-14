@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x5192E47A2f304Db5b92A6Bf6bbe0FdB2D72CaEBE",
+  "displayName": "ZenithChain",
+  "nodeAddress": [
+    "0x427978fD39E15c4241434b47F9A2d17cA9e7985B"
+  ],
+  "ocrConfigPublicKey": [
+    "bc013bf2f7a822a3837b86a210ecc3ff5506fdd5a9dd97df11568740b355b01d"
+  ],
+  "ocrNodeAddress": [
+    "0x427978fD39E15c4241434b47F9A2d17cA9e7985B"
+  ],
+  "ocrOffchainPublicKey": [
+    "95001ae9b08880a23b3d145e3b8631d80cfe0637db457b43efe0d53574d549a7"
+  ],
+  "ocrSigningAddress": [
+    "0x2cD9133cB17df086a7C39Ef3CADD03dB352CBc83"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWK9fC1wJAurdTjkxitcFxYXgMznyk5tmg9w7Xb26d31Fs"
+  ],
+  "status": "active",
+  "website": "https://zenithchain.io"
+}
