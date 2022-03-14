@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x68a2096f9F40EaA0A41d53509b10403e76ff4f8C",
+  "displayName": "swiftstaking",
+  "nodeAddress": [
+    "0x150BE620774e48A77835EB440d03B0e146c2c9EE"
+  ],
+  "ocrConfigPublicKey": [
+    "148c29e65a5849c6f5bc30e70725b03099c8e9ff074b01028827fca25638a801"
+  ],
+  "ocrNodeAddress": [
+    "0x150BE620774e48A77835EB440d03B0e146c2c9EE"
+  ],
+  "ocrOffchainPublicKey": [
+    "16dd3b72067ce3da1dcfcc240c1bb939879f426164408b1263e869fb65d7e68b"
+  ],
+  "ocrSigningAddress": [
+    "0x227af2035f95Df0585A24Cd6419717B7765C921a"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWHgN8kLbN6PTkURU8KZP5sa4vPaz9pZLLVyNmG4t58YfF"
+  ],
+  "status": "active",
+  "website": "https://www.swiftstaking.com"
+}
