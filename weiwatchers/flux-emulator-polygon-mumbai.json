@@ -535,7 +535,7 @@
     "category": "undefined"
   },
   {
-    "address": "0x0000000000000000000000000000000000000003",
+    "address": "0xCc27BEB6c4871365c7A742E05c4cbE175a4F7C98",
     "name": "BTC / USD",
     "contractVersion": 4,
     "data": {
@@ -544,93 +544,93 @@
     },
     "nodes": [
       {
-        "name": "nop01",
-        "address": "0x0000000000000000000000000000000000000001",
+        "name": "BlockFarms",
+        "address": "0xF17e985F2e8eA42D73d3775f722eD3930fD6C9fa",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop02",
-        "address": "0x0000000000000000000000000000000000000002",
+        "name": "Storm-Nodes",
+        "address": "0xa56d6E870f2C230228EB8Ddb1BBc50706DCFD512",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop03",
-        "address": "0x0000000000000000000000000000000000000003",
+        "name": "baramio",
+        "address": "0x435B5c79a5E89BB8a7e90CF06E63D01e2b581999",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop04",
-        "address": "0x0000000000000000000000000000000000000004",
+        "name": "bigDipper",
+        "address": "0x3144a3EA0Ffe000ac1DdF94b94b1F94AE2Ec8C74",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop05",
-        "address": "0x0000000000000000000000000000000000000005",
+        "name": "binaryLink",
+        "address": "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop06",
-        "address": "0x0000000000000000000000000000000000000006",
+        "name": "susy",
+        "address": "0x846a5B0838e20bB892B943Ac25F60A01c154b451",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop07",
-        "address": "0x0000000000000000000000000000000000000007",
+        "name": "swiftstaking",
+        "address": "0x150BE620774e48A77835EB440d03B0e146c2c9EE",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop08",
-        "address": "0x0000000000000000000000000000000000000008",
+        "name": "throbacLabs",
+        "address": "0x7b0143fAbdd70f2650C51de1Ecb8f3bc6E987fD0",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop09",
-        "address": "0x0000000000000000000000000000000000000009",
+        "name": "unvetica",
+        "address": "0x122b6c8aCe155a1b83e5D781baf1b805f0138f18",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop10",
-        "address": "0x0000000000000000000000000000000000000010",
+        "name": "zenithChain",
+        "address": "0x427978fD39E15c4241434b47F9A2d17cA9e7985B",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       }
     ],
@@ -638,7 +638,7 @@
     "deviationThreshold": 1,
     "symbol": "",
     "path": "btc-usd",
-    "status": "testing",
+    "status": "live",
     "category": "undefined"
   },
   {
@@ -1177,7 +1177,7 @@
     "category": "undefined"
   },
   {
-    "address": "0x0000000000000000000000000000000000000005",
+    "address": "0x055Ce255FEFAdE7557d5EAB5E630276A4Bae1755",
     "name": "FUSE / USD",
     "contractVersion": 4,
     "data": {
@@ -1186,93 +1186,93 @@
     },
     "nodes": [
       {
-        "name": "nop01",
-        "address": "0x0000000000000000000000000000000000000001",
+        "name": "LinkWell",
+        "address": "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop02",
-        "address": "0x0000000000000000000000000000000000000002",
+        "name": "genesis",
+        "address": "0x7a93E7eAc3292d13AE1D3391c248AcDf34210526",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop03",
-        "address": "0x0000000000000000000000000000000000000003",
+        "name": "glink",
+        "address": "0x45c993cB3cceC3Ea529b5eA4e2263d54d25D3Ee6",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop04",
-        "address": "0x0000000000000000000000000000000000000004",
+        "name": "hyphen",
+        "address": "0x4992CE1388dDAc97e39bAc8F303068A6237c2238",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop05",
-        "address": "0x0000000000000000000000000000000000000005",
+        "name": "kusari",
+        "address": "0x75EE649a9e0970d8Ae9c23BDe47Bcc42Eef2e794",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop06",
-        "address": "0x0000000000000000000000000000000000000006",
+        "name": "linkedHashMap",
+        "address": "0xD11759C69CAA2Acb772fD9c75Ceb976FF4e059b8",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop07",
-        "address": "0x0000000000000000000000000000000000000007",
+        "name": "nodable",
+        "address": "0x876Bb08742b33c1927b8cB80591EdEfe0BA14601",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop08",
-        "address": "0x0000000000000000000000000000000000000008",
+        "name": "northWestNodes",
+        "address": "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop09",
-        "address": "0x0000000000000000000000000000000000000009",
+        "name": "polyChains",
+        "address": "0x6f087541B04e9413428f9950daC090Ab6f8A4De5",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop10",
-        "address": "0x0000000000000000000000000000000000000010",
+        "name": "raftel",
+        "address": "0x01c096EAf39A96c1D6039d95f36A3287956104B8",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       }
     ],
@@ -1280,7 +1280,7 @@
     "deviationThreshold": 1,
     "symbol": "",
     "path": "fuse-usd",
-    "status": "testing",
+    "status": "live",
     "category": "undefined"
   },
   {
@@ -2247,7 +2247,7 @@
     "category": "undefined"
   },
   {
-    "address": "0x0000000000000000000000000000000000000004",
+    "address": "0x7B7359cA357E440e2e5E8505991cfe03Ae00Edc9",
     "name": "OSMO / USD",
     "contractVersion": 4,
     "data": {
@@ -2256,93 +2256,93 @@
     },
     "nodes": [
       {
-        "name": "nop01",
-        "address": "0x0000000000000000000000000000000000000001",
+        "name": "BlockFarms",
+        "address": "0xF17e985F2e8eA42D73d3775f722eD3930fD6C9fa",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop02",
-        "address": "0x0000000000000000000000000000000000000002",
+        "name": "COLSA",
+        "address": "0x22543cf908f7112A963c8A0F2EefD689DF40928D",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop03",
-        "address": "0x0000000000000000000000000000000000000003",
+        "name": "baramio",
+        "address": "0x435B5c79a5E89BB8a7e90CF06E63D01e2b581999",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop04",
-        "address": "0x0000000000000000000000000000000000000004",
+        "name": "bigDipper",
+        "address": "0x3144a3EA0Ffe000ac1DdF94b94b1F94AE2Ec8C74",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop05",
-        "address": "0x0000000000000000000000000000000000000005",
+        "name": "binaryLink",
+        "address": "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop06",
-        "address": "0x0000000000000000000000000000000000000006",
+        "name": "brickOracle",
+        "address": "0x2b860718104bB7c7c47A21ADd4352199065cC36E",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop07",
-        "address": "0x0000000000000000000000000000000000000007",
+        "name": "caanodes",
+        "address": "0xEA7e095f49bfBAaE935F4b52daDc66F10fFb2F8F",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop08",
-        "address": "0x0000000000000000000000000000000000000008",
+        "name": "dawnsWorld",
+        "address": "0xc6BB9D192f24dE898B704E7492BDc8348B1126a1",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop09",
-        "address": "0x0000000000000000000000000000000000000009",
+        "name": "digisense",
+        "address": "0xA20E2FcaD2B42a30dd94E2c481FBfc4b2F3d00db",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop10",
-        "address": "0x0000000000000000000000000000000000000010",
+        "name": "doublebass",
+        "address": "0x41A04B989c963139D841B0BaAdDd64B26E618d83",
         "dataProviders": [
-          "dataProvider",
-          "dataProvider",
-          "dataProvider"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       }
     ],
@@ -2350,7 +2350,7 @@
     "deviationThreshold": 1,
     "symbol": "",
     "path": "osmo-usd",
-    "status": "testing",
+    "status": "live",
     "category": "undefined"
   },
   {

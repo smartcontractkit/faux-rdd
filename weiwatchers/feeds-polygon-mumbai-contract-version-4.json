@@ -1,72 +1,6 @@
 [
   {
     "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000003",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "BTC / USD",
-    "pair": [
-      "BTC",
-      "USD"
-    ],
-    "path": "btc-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000004",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "OSMO / USD",
-    "pair": [
-      "OSMO",
-      "USD"
-    ],
-    "path": "osmo-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000005",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "FUSE / USD",
-    "pair": [
-      "FUSE",
-      "USD"
-    ],
-    "path": "fuse-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
     "contractAddress": "0x0000000000000000000000000000000000000006",
     "contractType": "",
     "contractVersion": 4,
@@ -617,6 +551,28 @@
   },
   {
     "compareOffchain": "",
+    "contractAddress": "0x055Ce255FEFAdE7557d5EAB5E630276A4Bae1755",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "FUSE / USD",
+    "pair": [
+      "FUSE",
+      "USD"
+    ],
+    "path": "fuse-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
     "contractAddress": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
     "contractType": "",
     "contractVersion": 4,
@@ -634,6 +590,50 @@
     ],
     "path": "eth-usd",
     "proxyAddress": "0x84198DED91F46d7013EFcB0946d1414f680e0335",
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x7B7359cA357E440e2e5E8505991cfe03Ae00Edc9",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "OSMO / USD",
+    "pair": [
+      "OSMO",
+      "USD"
+    ],
+    "path": "osmo-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0xCc27BEB6c4871365c7A742E05c4cbE175a4F7C98",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "BTC / USD",
+    "pair": [
+      "BTC",
+      "USD"
+    ],
+    "path": "btc-usd",
+    "proxyAddress": null,
     "threshold": 1,
     "valuePrefix": ""
   },

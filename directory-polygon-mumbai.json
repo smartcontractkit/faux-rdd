@@ -3390,142 +3390,7 @@
       "status": "testing",
       "validator": "0x0000000000000000000000000000000000000000"
     },
-    "0x001177B105E8cCC27E27C5308BCdcB15827b3896": {
-      "billing": {
-        "maxGasPriceGwei": "2000",
-        "microLinkPerEth": "102829",
-        "observationPaymentLinkGwei": "10",
-        "reasonableGasPriceGwei": "10",
-        "transmissionPaymentLinkGwei": "300"
-      },
-      "config": {
-        "badEpochTimeout": "35s",
-        "maxContractValueAge": "1h",
-        "maxFaultyNodeCount": 3,
-        "maxRoundCount": 6,
-        "observationGracePeriod": "12s",
-        "relativeDeviationThresholdPPB": "10000000",
-        "resendInterval": "17s",
-        "roundInterval": "20s",
-        "transmissionStageTimeout": "60s",
-        "transmissionStages": [
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      },
-      "contractVersion": 4,
-      "decimals": 8,
-      "externalAdapterRequestParams": {
-        "from": "OSMO",
-        "to": "USD"
-      },
-      "marketing": {
-        "decimalPlaces": 3,
-        "formatDecimalPlaces": 0,
-        "history": true,
-        "pair": [
-          "OSMO",
-          "USD"
-        ],
-        "path": "osmo-usd"
-      },
-      "maxSubmissionValue": "1000000000000000",
-      "minSubmissionValue": "100",
-      "name": "OSMO / USD",
-      "oracles": [
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "baramino"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "bigDipper"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "binaryLink"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "BlockFarms"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "brickOracle"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "caanodes"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "COLSA"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "dawnsWorld"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "digisense"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "doublebass"
-        }
-      ],
-      "status": "live",
-      "validator": "0x0000000000000000000000000000000000000000"
-    },
-    "0x22859cC9c3445801f00550ad8f517558DC6d05ab": {
+    "0x055Ce255FEFAdE7557d5EAB5E630276A4Bae1755": {
       "billing": {
         "maxGasPriceGwei": "2000",
         "microLinkPerEth": "102829",
@@ -3795,6 +3660,276 @@
       "status": "live",
       "validator": "0x0000000000000000000000000000000000000000"
     },
+    "0x7B7359cA357E440e2e5E8505991cfe03Ae00Edc9": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "10",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "300"
+      },
+      "config": {
+        "badEpochTimeout": "35s",
+        "maxContractValueAge": "1h",
+        "maxFaultyNodeCount": 3,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "12s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "20s",
+        "transmissionStageTimeout": "60s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "OSMO",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "OSMO",
+          "USD"
+        ],
+        "path": "osmo-usd"
+      },
+      "maxSubmissionValue": "1000000000000000",
+      "minSubmissionValue": "100",
+      "name": "OSMO / USD",
+      "oracles": [
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "baramio"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "bigDipper"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "binaryLink"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "BlockFarms"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "brickOracle"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "caanodes"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "COLSA"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "dawnsWorld"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "digisense"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "doublebass"
+        }
+      ],
+      "status": "live",
+      "validator": "0x0000000000000000000000000000000000000000"
+    },
+    "0xCc27BEB6c4871365c7A742E05c4cbE175a4F7C98": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "10",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "300"
+      },
+      "config": {
+        "badEpochTimeout": "35s",
+        "maxContractValueAge": "1h",
+        "maxFaultyNodeCount": 3,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "19s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "20s",
+        "transmissionStageTimeout": "60s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "BTC",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "BTC",
+          "USD"
+        ],
+        "path": "btc-usd"
+      },
+      "maxSubmissionValue": "1000000000000000",
+      "minSubmissionValue": "100",
+      "name": "BTC / USD",
+      "oracles": [
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "Storm-Nodes"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "susy"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "swiftstaking"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "throbacLabs"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "unvetica"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "zenithChain"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "baramio"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "bigDipper"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "binaryLink"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "BlockFarms"
+        }
+      ],
+      "status": "live",
+      "validator": "0x0000000000000000000000000000000000000000"
+    },
     "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b": {
       "billing": {
         "maxGasPriceGwei": "2000",
@@ -3928,141 +4063,6 @@
         }
       ],
       "status": "testing",
-      "validator": "0x0000000000000000000000000000000000000000"
-    },
-    "0xED9e00B49D3EA6fc0D358cdEF92866966E754b43": {
-      "billing": {
-        "maxGasPriceGwei": "2000",
-        "microLinkPerEth": "102829",
-        "observationPaymentLinkGwei": "10",
-        "reasonableGasPriceGwei": "10",
-        "transmissionPaymentLinkGwei": "300"
-      },
-      "config": {
-        "badEpochTimeout": "35s",
-        "maxContractValueAge": "1h",
-        "maxFaultyNodeCount": 3,
-        "maxRoundCount": 6,
-        "observationGracePeriod": "19s",
-        "relativeDeviationThresholdPPB": "10000000",
-        "resendInterval": "17s",
-        "roundInterval": "20s",
-        "transmissionStageTimeout": "60s",
-        "transmissionStages": [
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      },
-      "contractVersion": 4,
-      "decimals": 8,
-      "externalAdapterRequestParams": {
-        "from": "BTC",
-        "to": "USD"
-      },
-      "marketing": {
-        "decimalPlaces": 3,
-        "formatDecimalPlaces": 0,
-        "history": true,
-        "pair": [
-          "BTC",
-          "USD"
-        ],
-        "path": "btc-usd"
-      },
-      "maxSubmissionValue": "1000000000000000",
-      "minSubmissionValue": "100",
-      "name": "BTC / USD",
-      "oracles": [
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "Storm-Nodes"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "susy"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "swiftstaking"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "throbacLabs"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "unvetica"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "zenithChain"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "baramio"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "bigDipper"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "binaryLink"
-        },
-        {
-          "api": [
-            "dataProvider1",
-            "dataProvider2",
-            "dataProvider3"
-          ],
-          "operator": "BlockFarms"
-        }
-      ],
-      "status": "live",
       "validator": "0x0000000000000000000000000000000000000000"
     },
     "0xfbcFF97E89b33A8d6F1BF8CC201A9EF342596b9C": {

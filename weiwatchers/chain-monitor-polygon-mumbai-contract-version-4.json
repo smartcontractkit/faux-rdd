@@ -1,56 +1,5 @@
 [
   {
-    "contractAddress": "0x0000000000000000000000000000000000000003",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "heartbeat": 3600,
-    "history": false,
-    "multiply": "100000000",
-    "name": "BTC / USD",
-    "symbol": "",
-    "pair": [
-      "BTC",
-      "USD"
-    ],
-    "path": "btc-usd",
-    "nodeCount": 10,
-    "status": "testing"
-  },
-  {
-    "contractAddress": "0x0000000000000000000000000000000000000004",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "heartbeat": 3600,
-    "history": false,
-    "multiply": "100000000",
-    "name": "OSMO / USD",
-    "symbol": "",
-    "pair": [
-      "OSMO",
-      "USD"
-    ],
-    "path": "osmo-usd",
-    "nodeCount": 10,
-    "status": "testing"
-  },
-  {
-    "contractAddress": "0x0000000000000000000000000000000000000005",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "heartbeat": 3600,
-    "history": false,
-    "multiply": "100000000",
-    "name": "FUSE / USD",
-    "symbol": "",
-    "pair": [
-      "FUSE",
-      "USD"
-    ],
-    "path": "fuse-usd",
-    "nodeCount": 10,
-    "status": "testing"
-  },
-  {
     "contractAddress": "0x0000000000000000000000000000000000000006",
     "contractVersion": 4,
     "decimalPlaces": 3,
@@ -476,6 +425,23 @@
     "status": "testing"
   },
   {
+    "contractAddress": "0x055Ce255FEFAdE7557d5EAB5E630276A4Bae1755",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "FUSE / USD",
+    "symbol": "",
+    "pair": [
+      "FUSE",
+      "USD"
+    ],
+    "path": "fuse-usd",
+    "nodeCount": 10,
+    "status": "live"
+  },
+  {
     "contractAddress": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
     "contractVersion": 4,
     "decimalPlaces": 3,
@@ -489,6 +455,40 @@
       "USD"
     ],
     "path": "eth-usd",
+    "nodeCount": 10,
+    "status": "live"
+  },
+  {
+    "contractAddress": "0x7B7359cA357E440e2e5E8505991cfe03Ae00Edc9",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "OSMO / USD",
+    "symbol": "",
+    "pair": [
+      "OSMO",
+      "USD"
+    ],
+    "path": "osmo-usd",
+    "nodeCount": 10,
+    "status": "live"
+  },
+  {
+    "contractAddress": "0xCc27BEB6c4871365c7A742E05c4cbE175a4F7C98",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "BTC / USD",
+    "symbol": "",
+    "pair": [
+      "BTC",
+      "USD"
+    ],
+    "path": "btc-usd",
     "nodeCount": 10,
     "status": "live"
   },
