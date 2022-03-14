@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xB21Bb2441d47538D70DeAEF945d771A003778948",
+  "displayName": "Big Dipper",
+  "nodeAddress": [
+    "0x3144a3EA0Ffe000ac1DdF94b94b1F94AE2Ec8C74"
+  ],
+  "ocrConfigPublicKey": [
+    "5dbbae039a702b844055013bc9f754b5f07d03748e913810bab67a7a004a8d65"
+  ],
+  "ocrNodeAddress": [
+    "0x3144a3EA0Ffe000ac1DdF94b94b1F94AE2Ec8C74"
+  ],
+  "ocrOffchainPublicKey": [
+    "c31a481ab2de0622196f5e7fb15a7948d008ce7e32d84b32f8771ef88772481e"
+  ],
+  "ocrSigningAddress": [
+    "0xaf3cd86D182B66B52FAB4484223d14Fd17436943"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWJo12p6YGbkfAQBCpKmw5bfGQZGY8soKi11eoY6RdMqRi"
+  ],
+  "status": "active",
+  "website": "https://wall-e.github.io/chainlink-node-operator/"
+}
