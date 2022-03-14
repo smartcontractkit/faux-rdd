@@ -5,6 +5,7 @@
     "blockcypher": {},
     "coingecko": {},
     "coinpaprika": {},
+    "dataSource": {},
     "ncfx": {},
     "nomics": {},
     "tiingo": {}
@@ -4197,6 +4198,456 @@
     }
   },
   "operators": {
+    "BlockFarms": {
+      "adminAddress": "0x300c3F42Ed60e688EAc111Af988697A1fE2FB6b0",
+      "displayName": "BlockFarms",
+      "nodeAddress": [
+        "0xF17e985F2e8eA42D73d3775f722eD3930fD6C9fa"
+      ],
+      "ocrConfigPublicKey": [
+        "763ebab63e59dfce744b7cbd29b42dbd30bd0f5c93eeaca4523c2c96e640fd28"
+      ],
+      "ocrNodeAddress": [
+        "0xF17e985F2e8eA42D73d3775f722eD3930fD6C9fa"
+      ],
+      "ocrOffchainPublicKey": [
+        "ede7c651d91539428aba66fea13af364a4091caad365f0c3a52b80258971cc36"
+      ],
+      "ocrSigningAddress": [
+        "0xC96688B3516E43387e0e37668A177E06719Fa4a9"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWCCRAYVcDNwXMvr7mZas9CWbjXdTpNJcwQMXkbJABQBN2"
+      ],
+      "status": "active",
+      "website": "https://www.block-farms.io"
+    },
+    "COLSA": {
+      "adminAddress": "0x43e009505Ac98DC7336e074Cf04Fd35F169cB6f7",
+      "displayName": "COLSA",
+      "nodeAddress": [
+        "0x22543cf908f7112A963c8A0F2EefD689DF40928D"
+      ],
+      "ocrConfigPublicKey": [
+        "7fa4809b45d4fbf95ca7c086751c65f1f95ed529249eee938be1b896842d3a23"
+      ],
+      "ocrNodeAddress": [
+        "0x22543cf908f7112A963c8A0F2EefD689DF40928D"
+      ],
+      "ocrOffchainPublicKey": [
+        "dda0b1fa8e21faffe3ec2745cacf92642810665f631797a6ae35a0ba3ddff9a4"
+      ],
+      "ocrSigningAddress": [
+        "0xb5cD0DF5E8A508D31Aaa62F28e1807f31520A928"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWKv8h11sqF2ZgZcBgZ31WGPRDiSsKPpjWMdLvp5XRMMck"
+      ],
+      "status": "active",
+      "website": "https://www.colsa.com.ar"
+    },
+    "LinkWell": {
+      "adminAddress": "0x2621Cfe046273198070966Bb82aA20B490FE3274",
+      "displayName": "LinkWell Trust",
+      "nodeAddress": [
+        "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD"
+      ],
+      "ocrConfigPublicKey": [
+        "6d23038706fb41722f30789ed1de719e8036660c026f93c275ba7de82855521b"
+      ],
+      "ocrNodeAddress": [
+        "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD"
+      ],
+      "ocrOffchainPublicKey": [
+        "e6961a77152ad2c2bf8c54d36f9230de0cc33f0d55996521f390e855e2b81b2f"
+      ],
+      "ocrSigningAddress": [
+        "0xBdC3FD8D8bcb2424b5cd957da760979506c9AAc8"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWHQM9gha9sbEQ2xxHyi1bgduV74GqQYTorXo3xCTDpDuJ"
+      ],
+      "status": "active",
+      "website": "https://linkwelltrust.org"
+    },
+    "Storm-Nodes": {
+      "adminAddress": "0xB215D54E8C2aDA33cF4D046FfE46804Df3b5e51C",
+      "displayName": "Storm-Nodes",
+      "nodeAddress": [
+        "0xa56d6E870f2C230228EB8Ddb1BBc50706DCFD512"
+      ],
+      "ocrConfigPublicKey": [
+        "5f45be10249cba03e808870aba99aece07ab7493817bb65d1faf747204231d75"
+      ],
+      "ocrNodeAddress": [
+        "0xa56d6E870f2C230228EB8Ddb1BBc50706DCFD512"
+      ],
+      "ocrOffchainPublicKey": [
+        "a22dee09f4efb4b097c1017aa62fb092e192c00a162beff7b33f5ab3bc9aa459"
+      ],
+      "ocrSigningAddress": [
+        "0xC80947Ea787d0ceC7db8913FAE1F086F2a247AA2"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWQdm1ZtLithCM2qdvzWzhcLjRE8MVt5vWx16rovsF7hs6"
+      ],
+      "status": "active",
+      "website": "https://www.storm-nodes.com"
+    },
+    "baramio": {
+      "adminAddress": "0xBAADFaa744694Fc1134bc5D6318c453778c4209F",
+      "displayName": "BARAMIO",
+      "nodeAddress": [
+        "0x435B5c79a5E89BB8a7e90CF06E63D01e2b581999"
+      ],
+      "ocrConfigPublicKey": [
+        "d3e8eb0aad66e40ba9fbccc0ec90ae5a663646fd184e453d1aaff1e3d322120b"
+      ],
+      "ocrNodeAddress": [
+        "0x435B5c79a5E89BB8a7e90CF06E63D01e2b581999"
+      ],
+      "ocrOffchainPublicKey": [
+        "2a6b85f055b3f1e3117c32aa61021cd6c6ee310c13599cdeed8f7232ddd716c4"
+      ],
+      "ocrSigningAddress": [
+        "0x41423FEB87A4821E6b005b58eC9c64987ce5AD45"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWBcrE48yfmwJ9CCCXGffHWMhmwj1a4aUWYWnEBoHzBrxL"
+      ],
+      "status": "active",
+      "website": "https://www.baramio.com"
+    },
+    "bigDipper": {
+      "adminAddress": "0xB21Bb2441d47538D70DeAEF945d771A003778948",
+      "displayName": "Big Dipper",
+      "nodeAddress": [
+        "0x3144a3EA0Ffe000ac1DdF94b94b1F94AE2Ec8C74"
+      ],
+      "ocrConfigPublicKey": [
+        "5dbbae039a702b844055013bc9f754b5f07d03748e913810bab67a7a004a8d65"
+      ],
+      "ocrNodeAddress": [
+        "0x3144a3EA0Ffe000ac1DdF94b94b1F94AE2Ec8C74"
+      ],
+      "ocrOffchainPublicKey": [
+        "c31a481ab2de0622196f5e7fb15a7948d008ce7e32d84b32f8771ef88772481e"
+      ],
+      "ocrSigningAddress": [
+        "0xaf3cd86D182B66B52FAB4484223d14Fd17436943"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWJo12p6YGbkfAQBCpKmw5bfGQZGY8soKi11eoY6RdMqRi"
+      ],
+      "status": "active",
+      "website": "https://wall-e.github.io/chainlink-node-operator/"
+    },
+    "brickOracle": {
+      "adminAddress": "0x21A39B91637cFED5B79b5270499D8667b7646571",
+      "displayName": "BrickOracle",
+      "nodeAddress": [
+        "0x2b860718104bB7c7c47A21ADd4352199065cC36E"
+      ],
+      "ocrConfigPublicKey": [
+        "c234c3c169d035e494f2e0a231b3a688414adad55bd5c75ceea9a6afc10f7308"
+      ],
+      "ocrNodeAddress": [
+        "0x2b860718104bB7c7c47A21ADd4352199065cC36E"
+      ],
+      "ocrOffchainPublicKey": [
+        "ed23f08230c645dcbc19094960906b0ea38e5bc6d92ead445b8d49ac69f55e8b"
+      ],
+      "ocrSigningAddress": [
+        "0x76e34E4b584ed49d486493b26c1644B9c93455f3"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWA34GkuWCj7s9qSmPiUwWbAChxm2BAmgZwnHDJcwshQdg"
+      ],
+      "status": "active",
+      "website": "https://www.brickoracle.io"
+    },
+    "caanodes": {
+      "adminAddress": "0x72b623BB2E6b800Aa0efced5EfD8561D32a7c678",
+      "displayName": "caanodes",
+      "nodeAddress": [
+        "0xEA7e095f49bfBAaE935F4b52daDc66F10fFb2F8F"
+      ],
+      "ocrConfigPublicKey": [
+        "eacb6ed7ffdc65a901238f1ef8c50eb2662c4973e1a90867be4f6cd24ab3f275"
+      ],
+      "ocrNodeAddress": [
+        "0xEA7e095f49bfBAaE935F4b52daDc66F10fFb2F8F"
+      ],
+      "ocrOffchainPublicKey": [
+        "1ab599e0eee434cab82716388e2193cbf4f924c7e8b08544a0d6465d18e31995"
+      ],
+      "ocrSigningAddress": [
+        "0xBEe608069c9b46ca998969fA5B274A0379b7eb63"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWF3Zi5G8RgwerYQLtnS6GCxqMeeWQgCuBybnttcXsHexR"
+      ],
+      "status": "active",
+      "website": "https://www.nopSite.com"
+    },
+    "dawnsWorld": {
+      "adminAddress": "0x1C980903C26C0138D50b80698eB876bB7E5d1f11",
+      "displayName": "Dawns.World",
+      "nodeAddress": [
+        "0xc6BB9D192f24dE898B704E7492BDc8348B1126a1"
+      ],
+      "ocrConfigPublicKey": [
+        "007318cd614c2399922db98fb36f3be4d96afe0984fbd96826b2397d20ca0209"
+      ],
+      "ocrNodeAddress": [
+        "0xc6BB9D192f24dE898B704E7492BDc8348B1126a1"
+      ],
+      "ocrOffchainPublicKey": [
+        "b208abfbacb9118a602c65b679802cb4e3042c4c9ea0f9615524ee6c9adaf43f"
+      ],
+      "ocrSigningAddress": [
+        "0x427c40F34780C5469E39Ad2870DED15a3Bd331ab"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWBcGtyzoGfz2DL9zGG7vcTZER8oU3336SKRFp6SEKednY"
+      ],
+      "status": "active",
+      "website": "https://dawns.world"
+    },
+    "digisense": {
+      "adminAddress": "0x3A088DB2e3eF198dD9B47705492578E2a4768Fc5",
+      "displayName": "digisense",
+      "nodeAddress": [
+        "0xA20E2FcaD2B42a30dd94E2c481FBfc4b2F3d00db"
+      ],
+      "ocrConfigPublicKey": [
+        "1e4306eabaf0cd970f0d6c2ff6c431f4dd52a0fb72b33f547365948a14dc5d5b"
+      ],
+      "ocrNodeAddress": [
+        "0xA20E2FcaD2B42a30dd94E2c481FBfc4b2F3d00db"
+      ],
+      "ocrOffchainPublicKey": [
+        "b7a67d86ec6e2c058a71d9e34146cb4a31e6bcdc58b15c8a08ec65e85c090116"
+      ],
+      "ocrSigningAddress": [
+        "0xf99D2906874ac3ff260942664d2250e68c486A2F"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWSnZnN1HedVQUwP3P88CvP6jqKatHcSwup6yUsojyewto"
+      ],
+      "status": "active",
+      "website": "https://digisense.fi/"
+    },
+    "doublebass": {
+      "adminAddress": "0xDebBFD733902B20EF680aBAe2D8b827dD6c9343B",
+      "displayName": "DoubleBass",
+      "nodeAddress": [
+        "0x41A04B989c963139D841B0BaAdDd64B26E618d83"
+      ],
+      "ocrConfigPublicKey": [
+        "540959d47cd695ad3c6be7b7f9eb34488fad3172e07e6f78757d8e12609eff7a"
+      ],
+      "ocrNodeAddress": [
+        "0x41A04B989c963139D841B0BaAdDd64B26E618d83"
+      ],
+      "ocrOffchainPublicKey": [
+        "dbaea4f8d079e9f67ff1596fa2308b8da6cc38e7ddb7585d50f7f14425266907"
+      ],
+      "ocrSigningAddress": [
+        "0xb775e181A888A531d6310D261f429B54fc060D2d"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWMR2VL452x8imALkhYkku3zcif8BMRLogHM8Am5Uq1eR3"
+      ],
+      "status": "active",
+      "website": "https://www.doublebass.io"
+    },
+    "genesis": {
+      "adminAddress": "0xaF497FF72118d885deFf61364d58De155f544751",
+      "displayName": "Genesis",
+      "nodeAddress": [
+        "0x7a93E7eAc3292d13AE1D3391c248AcDf34210526"
+      ],
+      "ocrConfigPublicKey": [
+        "e2a3b4302d7c32be6eb77a8a02e4f95b287dacca819b3839233515f0f58bd375"
+      ],
+      "ocrNodeAddress": [
+        "0x7a93E7eAc3292d13AE1D3391c248AcDf34210526"
+      ],
+      "ocrOffchainPublicKey": [
+        "ed48b8c43a7899f4cbcdf88c6a473195ac1a3e4a8c6f877d3fb81b75638631a8"
+      ],
+      "ocrSigningAddress": [
+        "0xB744c8efAFA3546A28e08BF4877C5ECfF7F9fd10"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWJ63tCyWXxAGuhQaBhpQzCEPuspPWEfGjXTyYRRGUTyRC"
+      ],
+      "status": "active",
+      "website": "https://althaea.xyz"
+    },
+    "glink": {
+      "adminAddress": "0x7CFc3bABf232f1199c8C7816529878D51f17A6dc",
+      "displayName": "glink02",
+      "nodeAddress": [
+        "0x45c993cB3cceC3Ea529b5eA4e2263d54d25D3Ee6"
+      ],
+      "ocrConfigPublicKey": [
+        "487a5b349737e03b58658651810ca5503f9cdbf6f66e7b5e9ce65ca4ccabd950"
+      ],
+      "ocrNodeAddress": [
+        "0x45c993cB3cceC3Ea529b5eA4e2263d54d25D3Ee6"
+      ],
+      "ocrOffchainPublicKey": [
+        "c51e122632248bb5b49b4d9b7d42e376e7baa495be9ee5d14fd6d429b1e58ca3"
+      ],
+      "ocrSigningAddress": [
+        "0x419b2889a06D43544DFf128573a731b3B7cB244a"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWRZ5DPDWdQxJbe9VaTkZXr9vDxjfPEv2xkinn6r2kiRRR"
+      ],
+      "status": "active",
+      "website": "https://glink.solutions"
+    },
+    "hyphen": {
+      "adminAddress": "0xdb0970682D4312a8c84174d74c006dC2759C21B3",
+      "displayName": "HyphenMumbaiOCR",
+      "nodeAddress": [
+        "0x4992CE1388dDAc97e39bAc8F303068A6237c2238"
+      ],
+      "ocrConfigPublicKey": [
+        "932b68e7c572d2a767a18b3a348acf20764868f617ebd02d171613dc2eca926b"
+      ],
+      "ocrNodeAddress": [
+        "0x4992CE1388dDAc97e39bAc8F303068A6237c2238"
+      ],
+      "ocrOffchainPublicKey": [
+        "1d95c54bb8a6954ebe71ab7865d6429499f9142ba44d5da4ab0036fd49501786"
+      ],
+      "ocrSigningAddress": [
+        "0xb537cf0532d3eDA4fc7944C6c2d66a8282b0283b"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWBJWsbM7zKD3ULzVevCtTJtr7myaPCrotm8QMngv3qeRL"
+      ],
+      "status": "active",
+      "website": "https://www.hyphen.earth/"
+    },
+    "kusari": {
+      "adminAddress": "0xACaF1bc8e88dE055497EBdAfCDF44f342AB4CbfC",
+      "displayName": "Kusari",
+      "nodeAddress": [
+        "0x75EE649a9e0970d8Ae9c23BDe47Bcc42Eef2e794"
+      ],
+      "ocrConfigPublicKey": [
+        "c8296aa27019f0b2f367f12c2a8596de5df520ce196f0122e25323eed47ae603"
+      ],
+      "ocrNodeAddress": [
+        "0x75EE649a9e0970d8Ae9c23BDe47Bcc42Eef2e794"
+      ],
+      "ocrOffchainPublicKey": [
+        "e0c4853637426d473f2589a460142499a5282a3ca975a2d1f4c19bf8886909fe"
+      ],
+      "ocrSigningAddress": [
+        "0xFb0F6fCd5aB62f3602ea2bbE3fD73a5c15eB7b71"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWLib7Y6b1Rbk4pn842GJkpn21Ar1unsRTAoWcRUnwZmSW"
+      ],
+      "status": "active",
+      "website": "https://kusari.finance"
+    },
+    "linkedHashMap": {
+      "adminAddress": "0xA1a4E9dB387Eca3ff5c19D001d616A9dfbcCfACD",
+      "displayName": "LinkedHashMap",
+      "nodeAddress": [
+        "0xD11759C69CAA2Acb772fD9c75Ceb976FF4e059b8"
+      ],
+      "ocrConfigPublicKey": [
+        "7efd4478c15f31e418db35ef073eae7a3d984ba761aff7e9be6010d2680c1622"
+      ],
+      "ocrNodeAddress": [
+        "0xD11759C69CAA2Acb772fD9c75Ceb976FF4e059b8"
+      ],
+      "ocrOffchainPublicKey": [
+        "9087aaaeb6f55c9c1304f17decdd9cdb7f819842d8d0185e61fb5986d7bc0593"
+      ],
+      "ocrSigningAddress": [
+        "0x0C2fC3d7c3bEf4A1372eACdE4194Fd165915a6b2"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWNRUtAxj49PNt1cG1ZCz4nnLrNECkTSS82Rm8GiEhuhja"
+      ],
+      "status": "active",
+      "website": "https://codelaw1.github.io/chainlink-node-operator/"
+    },
+    "mumbai-binaryLink": {
+      "adminAddress": "0x5c2Bb8609C8F6d2a2e058B25Ba7d3f163845E906",
+      "displayName": "BinaryLink",
+      "nodeAddress": [
+        "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8"
+      ],
+      "ocrConfigPublicKey": [
+        "a3332cac93e50dbc033c7530052e3d52f091e3b7e67dc065c89b6a919a43eb31"
+      ],
+      "ocrNodeAddress": [
+        "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8"
+      ],
+      "ocrOffchainPublicKey": [
+        "dec406dcb609c1df14a727b0e12213d517f85588afc019c924205f8e80ab2240"
+      ],
+      "ocrSigningAddress": [
+        "0x61F02753E8C689765285Ca03ceac04f8Df2e5DB0"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWK62EnkvuupHgQSCKnSyzbNXuRzJkrrBBLZ8QwtkV2K98"
+      ],
+      "status": "active",
+      "website": "https://www.binarylink.me/"
+    },
+    "nodable": {
+      "adminAddress": "0xd65A1360B404C301A7cf3784e8fCf8968785688a",
+      "displayName": "Nodable",
+      "nodeAddress": [
+        "0x876Bb08742b33c1927b8cB80591EdEfe0BA14601"
+      ],
+      "ocrConfigPublicKey": [
+        "fb40940313c666202f24f397e9f88a2cce6a179fcd80a9286d7278e34142177f"
+      ],
+      "ocrNodeAddress": [
+        "0x876Bb08742b33c1927b8cB80591EdEfe0BA14601"
+      ],
+      "ocrOffchainPublicKey": [
+        "dacb657a9eb9f9ac69ef3d7c874f172aa57303f5dd2aecf09414b1675c5c234d"
+      ],
+      "ocrSigningAddress": [
+        "0x8fC2Bb8EA4d05628020F1e2681A5b84558bFc95E"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWFwdTjMhjYhU3ECU2kaNTzYJXQj77rgtwkDt77ifKGHYP"
+      ],
+      "status": "active",
+      "website": "https://www.nodable.io"
+    },
     "nop01": {
       "adminAddress": "0x0000000000000000000000000000000000000001",
       "displayName": "nop01",
@@ -5196,19 +5647,208 @@
       ],
       "status": "active",
       "website": "https://www.fake.com"
+    },
+    "northWestNodes": {
+      "adminAddress": "0xa79C4DC84b793074B366f9CBBAEFBa4346CD8C67",
+      "displayName": "NorthWestNodes",
+      "nodeAddress": [
+        "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3"
+      ],
+      "ocrConfigPublicKey": [
+        "9f976c8ccd85439ed5c855fff07c20bac110cdcca74f39b78abb4f79d5ab741e"
+      ],
+      "ocrNodeAddress": [
+        "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3"
+      ],
+      "ocrOffchainPublicKey": [
+        "26191ad296b2f9c1eded60fe250a0f8fe18a377a63d693bdd7eda475cff2616f"
+      ],
+      "ocrSigningAddress": [
+        "0x26A546e823125274ebEdAB3Ffce0fEC1Dde5B012"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWPprmXGYZSAikxkUv5LKREHF2wZzbKqkkff8PiHsH8vSu"
+      ],
+      "status": "active",
+      "website": "https://northwestnodes.com"
+    },
+    "polyChains": {
+      "adminAddress": "0xeb3837257764565530ddD0faBcFeef559AD3B801",
+      "displayName": "PolyChains",
+      "nodeAddress": [
+        "0x6f087541B04e9413428f9950daC090Ab6f8A4De5"
+      ],
+      "ocrConfigPublicKey": [
+        "814510b9a1b484338e8164984a23ac2cc155671625696790375b2d43d981561e"
+      ],
+      "ocrNodeAddress": [
+        "0x6f087541B04e9413428f9950daC090Ab6f8A4De5"
+      ],
+      "ocrOffchainPublicKey": [
+        "364508d3519fb96abf9d40edd93e05eb21a36cd1c381afc621d63731b5b9019d"
+      ],
+      "ocrSigningAddress": [
+        "0xB86a8d2E6e77DBF24c05b16549c101a7C1494dc3"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "payeeAddress": "0x870193B539E114BA0073d8F6B9C783d54D9d6EBE",
+      "peerId": [
+        "12D3KooWRopZe9aw1ZPM9Qf84t5uYmZUZPVWg2GArAQU1dmnH6YJ"
+      ],
+      "status": "active",
+      "website": "http://www.polychains.io/"
+    },
+    "raftel": {
+      "adminAddress": "0x42DB3625AEa3C69409B6176d7187dF921084988d",
+      "displayName": "raftel",
+      "nodeAddress": [
+        "0x01c096EAf39A96c1D6039d95f36A3287956104B8"
+      ],
+      "ocrConfigPublicKey": [
+        "e8ba4b4b48abbf19fcade5fe29b48c4ae58da17f029d2b06c5951918d8667057"
+      ],
+      "ocrNodeAddress": [
+        "0x01c096EAf39A96c1D6039d95f36A3287956104B8"
+      ],
+      "ocrOffchainPublicKey": [
+        "f9a7e46871e0ad68f69f1455b93071257f91582f9fef618d22b2d5646fdcb18f"
+      ],
+      "ocrSigningAddress": [
+        "0x25EFd13db093Bf3AdA1d2FE3a1Ad41eBa64D8cDe"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWPb73imWck7s6rWj8mPF8NgJtvoh1wVqQ5JfzUyrQjYms"
+      ],
+      "status": "active",
+      "website": "https://www.raftel.io"
+    },
+    "susy": {
+      "adminAddress": "0x10F245699d55Cb1EA72DC308a6eE71a8C51f81b1",
+      "displayName": "SuSyMumbaiOCR",
+      "nodeAddress": [
+        "0x846a5B0838e20bB892B943Ac25F60A01c154b451"
+      ],
+      "ocrConfigPublicKey": [
+        "fa54ea2c23119e4e59cfc72b23a791f8a3dbb5f7dc1c96124d6a8a69e512612b"
+      ],
+      "ocrNodeAddress": [
+        "0x846a5B0838e20bB892B943Ac25F60A01c154b451"
+      ],
+      "ocrOffchainPublicKey": [
+        "c00b20896e7318c496cc36b9e9d9e671dba9ff0e616b37d0abb9bd91af631564"
+      ],
+      "ocrSigningAddress": [
+        "0xeF14Bbc1fc1643F90dC2a3027534BAF79049C22E"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWP5bFi2CQvHHKSUrmtqF7YumDFE9UNR4x6fs9DpanKQLv"
+      ],
+      "status": "active",
+      "website": "https://susy.one/"
+    },
+    "swiftstaking": {
+      "adminAddress": "0x68a2096f9F40EaA0A41d53509b10403e76ff4f8C",
+      "displayName": "swiftstaking",
+      "nodeAddress": [
+        "0x150BE620774e48A77835EB440d03B0e146c2c9EE"
+      ],
+      "ocrConfigPublicKey": [
+        "148c29e65a5849c6f5bc30e70725b03099c8e9ff074b01028827fca25638a801"
+      ],
+      "ocrNodeAddress": [
+        "0x150BE620774e48A77835EB440d03B0e146c2c9EE"
+      ],
+      "ocrOffchainPublicKey": [
+        "16dd3b72067ce3da1dcfcc240c1bb939879f426164408b1263e869fb65d7e68b"
+      ],
+      "ocrSigningAddress": [
+        "0x227af2035f95Df0585A24Cd6419717B7765C921a"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWHgN8kLbN6PTkURU8KZP5sa4vPaz9pZLLVyNmG4t58YfF"
+      ],
+      "status": "active",
+      "website": "https://www.swiftstaking.com"
+    },
+    "throbacLabs": {
+      "adminAddress": "0x279f2b4A218Af672220D3ce02fD3E17770dCaF85",
+      "displayName": "ThrobacLabs",
+      "nodeAddress": [
+        "0x7b0143fAbdd70f2650C51de1Ecb8f3bc6E987fD0"
+      ],
+      "ocrConfigPublicKey": [
+        "74b94c98e9ea5e50b88b007434f3189878ac17cae1169c6a806da730e08f2f5f"
+      ],
+      "ocrNodeAddress": [
+        "0x7b0143fAbdd70f2650C51de1Ecb8f3bc6E987fD0"
+      ],
+      "ocrOffchainPublicKey": [
+        "8517b2e548daa4c414523752887e6501c2e109e1098e4301f378e5c9724448e8"
+      ],
+      "ocrSigningAddress": [
+        "0x853bAC5F6C311cA1aFb5B9d91d236ba18D537594"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWLzTthM2BUFixc6RN4mo8T8ym2bFksneULAjhuBZkCq1K"
+      ],
+      "status": "active",
+      "website": "https://www.throbaclabs.io"
+    },
+    "unvetica": {
+      "adminAddress": "0x21532d4267648191bef7a33c813c43cf90a6fa78",
+      "displayName": "unvetica-node",
+      "nodeAddress": [
+        "0x122b6c8aCe155a1b83e5D781baf1b805f0138f18"
+      ],
+      "ocrConfigPublicKey": [
+        "e523b4c3ed6122adb3fc3a4cb02e733ea49d25b1298dd660dce3860b81ff2730"
+      ],
+      "ocrNodeAddress": [
+        "0x122b6c8aCe155a1b83e5D781baf1b805f0138f18"
+      ],
+      "ocrOffchainPublicKey": [
+        "1ace0e0432f739f97fadbd68e23727a41548630f0b74914c1ed5153a019d0075"
+      ],
+      "ocrSigningAddress": [
+        "0x4c6211a8B446326AE6Fa57831C006235b651FAf6"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWEtEdPzsDpxqNwdCzG9SdravA2YYKrFRpd18RWbKVnybU"
+      ],
+      "status": "active",
+      "website": "https://www.unvetica.com/"
+    },
+    "zenithChain": {
+      "adminAddress": "0x5192E47A2f304Db5b92A6Bf6bbe0FdB2D72CaEBE",
+      "displayName": "ZenithChain",
+      "nodeAddress": [
+        "0x427978fD39E15c4241434b47F9A2d17cA9e7985B"
+      ],
+      "ocrConfigPublicKey": [
+        "bc013bf2f7a822a3837b86a210ecc3ff5506fdd5a9dd97df11568740b355b01d"
+      ],
+      "ocrNodeAddress": [
+        "0x427978fD39E15c4241434b47F9A2d17cA9e7985B"
+      ],
+      "ocrOffchainPublicKey": [
+        "95001ae9b08880a23b3d145e3b8631d80cfe0637db457b43efe0d53574d549a7"
+      ],
+      "ocrSigningAddress": [
+        "0x2cD9133cB17df086a7C39Ef3CADD03dB352CBc83"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWK9fC1wJAurdTjkxitcFxYXgMznyk5tmg9w7Xb26d31Fs"
+      ],
+      "status": "active",
+      "website": "https://zenithchain.io"
     }
   },
-  "proxies": {
-    "0x0000000000000000000000000000000000000000": {
-      "accessController": "0x0000000000000000000000000000000000000000",
-      "aggregator": "0x04c5046A1f4E3fFf094c26dFCAA75eF293932f18",
-      "contractVersion": 4,
-      "ens": "eth-usd",
-      "implementations": {
-        "primary": "0x04c5046A1f4E3fFf094c26dFCAA75eF293932f18",
-        "proposed": "0x0000000000000000000000000000000000000000"
-      },
-      "name": "ETH / USD"
-    }
-  }
+  "proxies": {}
 }

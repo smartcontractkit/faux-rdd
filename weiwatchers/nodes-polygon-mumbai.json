@@ -1,0 +1,794 @@
+[
+  {
+    "id": "baramio",
+    "website": "https://www.baramio.com",
+    "name": "BARAMIO",
+    "status": "active",
+    "nodeAddress": [
+      "0x435B5c79a5E89BB8a7e90CF06E63D01e2b581999",
+      "0x435B5c79a5E89BB8a7e90CF06E63D01e2b581999"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "bigDipper",
+    "website": "https://wall-e.github.io/chainlink-node-operator/",
+    "name": "Big Dipper",
+    "status": "active",
+    "nodeAddress": [
+      "0x3144a3EA0Ffe000ac1DdF94b94b1F94AE2Ec8C74",
+      "0x3144a3EA0Ffe000ac1DdF94b94b1F94AE2Ec8C74"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "BlockFarms",
+    "website": "https://www.block-farms.io",
+    "name": "BlockFarms",
+    "status": "active",
+    "nodeAddress": [
+      "0xF17e985F2e8eA42D73d3775f722eD3930fD6C9fa",
+      "0xF17e985F2e8eA42D73d3775f722eD3930fD6C9fa"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "brickOracle",
+    "website": "https://www.brickoracle.io",
+    "name": "BrickOracle",
+    "status": "active",
+    "nodeAddress": [
+      "0x2b860718104bB7c7c47A21ADd4352199065cC36E",
+      "0x2b860718104bB7c7c47A21ADd4352199065cC36E"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "caanodes",
+    "website": "https://www.nopSite.com",
+    "name": "caanodes",
+    "status": "active",
+    "nodeAddress": [
+      "0xEA7e095f49bfBAaE935F4b52daDc66F10fFb2F8F",
+      "0xEA7e095f49bfBAaE935F4b52daDc66F10fFb2F8F"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "COLSA",
+    "website": "https://www.colsa.com.ar",
+    "name": "COLSA",
+    "status": "active",
+    "nodeAddress": [
+      "0x22543cf908f7112A963c8A0F2EefD689DF40928D",
+      "0x22543cf908f7112A963c8A0F2EefD689DF40928D"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dawnsWorld",
+    "website": "https://dawns.world",
+    "name": "Dawns.World",
+    "status": "active",
+    "nodeAddress": [
+      "0xc6BB9D192f24dE898B704E7492BDc8348B1126a1",
+      "0xc6BB9D192f24dE898B704E7492BDc8348B1126a1"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "digisense",
+    "website": "https://digisense.fi/",
+    "name": "digisense",
+    "status": "active",
+    "nodeAddress": [
+      "0xA20E2FcaD2B42a30dd94E2c481FBfc4b2F3d00db",
+      "0xA20E2FcaD2B42a30dd94E2c481FBfc4b2F3d00db"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "doublebass",
+    "website": "https://www.doublebass.io",
+    "name": "DoubleBass",
+    "status": "active",
+    "nodeAddress": [
+      "0x41A04B989c963139D841B0BaAdDd64B26E618d83",
+      "0x41A04B989c963139D841B0BaAdDd64B26E618d83"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "genesis",
+    "website": "https://althaea.xyz",
+    "name": "Genesis",
+    "status": "active",
+    "nodeAddress": [
+      "0x7a93E7eAc3292d13AE1D3391c248AcDf34210526",
+      "0x7a93E7eAc3292d13AE1D3391c248AcDf34210526"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "glink",
+    "website": "https://glink.solutions",
+    "name": "glink02",
+    "status": "active",
+    "nodeAddress": [
+      "0x45c993cB3cceC3Ea529b5eA4e2263d54d25D3Ee6",
+      "0x45c993cB3cceC3Ea529b5eA4e2263d54d25D3Ee6"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "hyphen",
+    "website": "https://www.hyphen.earth/",
+    "name": "HyphenMumbaiOCR",
+    "status": "active",
+    "nodeAddress": [
+      "0x4992CE1388dDAc97e39bAc8F303068A6237c2238",
+      "0x4992CE1388dDAc97e39bAc8F303068A6237c2238"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "kusari",
+    "website": "https://kusari.finance",
+    "name": "Kusari",
+    "status": "active",
+    "nodeAddress": [
+      "0x75EE649a9e0970d8Ae9c23BDe47Bcc42Eef2e794",
+      "0x75EE649a9e0970d8Ae9c23BDe47Bcc42Eef2e794"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "linkedHashMap",
+    "website": "https://codelaw1.github.io/chainlink-node-operator/",
+    "name": "LinkedHashMap",
+    "status": "active",
+    "nodeAddress": [
+      "0xD11759C69CAA2Acb772fD9c75Ceb976FF4e059b8",
+      "0xD11759C69CAA2Acb772fD9c75Ceb976FF4e059b8"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "LinkWell",
+    "website": "https://linkwelltrust.org",
+    "name": "LinkWell Trust",
+    "status": "active",
+    "nodeAddress": [
+      "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD",
+      "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "mumbai-binaryLink",
+    "website": "https://www.binarylink.me/",
+    "name": "BinaryLink",
+    "status": "active",
+    "nodeAddress": [
+      "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8",
+      "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nodable",
+    "website": "https://www.nodable.io",
+    "name": "Nodable",
+    "status": "active",
+    "nodeAddress": [
+      "0x876Bb08742b33c1927b8cB80591EdEfe0BA14601",
+      "0x876Bb08742b33c1927b8cB80591EdEfe0BA14601"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop01",
+    "website": "https://www.fake.com",
+    "name": "nop01",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000001",
+      "0x0000000000000000000000000000000000000001"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop02",
+    "website": "https://www.fake.com",
+    "name": "nop02",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000002",
+      "0x0000000000000000000000000000000000000002"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop03",
+    "website": "https://www.fake.com",
+    "name": "nop03",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000003",
+      "0x0000000000000000000000000000000000000003"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop04",
+    "website": "https://www.fake.com",
+    "name": "nop04",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000004",
+      "0x0000000000000000000000000000000000000004"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop05",
+    "website": "https://www.fake.com",
+    "name": "nop05",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000005",
+      "0x0000000000000000000000000000000000000005"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop06",
+    "website": "https://www.fake.com",
+    "name": "nop06",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000006",
+      "0x0000000000000000000000000000000000000006"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop07",
+    "website": "https://www.fake.com",
+    "name": "nop07",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000007",
+      "0x0000000000000000000000000000000000000007"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop08",
+    "website": "https://www.fake.com",
+    "name": "nop08",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000008",
+      "0x0000000000000000000000000000000000000008"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop09",
+    "website": "https://www.fake.com",
+    "name": "nop09",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000009",
+      "0x0000000000000000000000000000000000000009"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop10",
+    "website": "https://www.fake.com",
+    "name": "nop10",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000010",
+      "0x0000000000000000000000000000000000000010"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop11",
+    "website": "https://www.fake.com",
+    "name": "nop11",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000011",
+      "0x0000000000000000000000000000000000000011"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop12",
+    "website": "https://www.fake.com",
+    "name": "nop12",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000012",
+      "0x0000000000000000000000000000000000000012"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop13",
+    "website": "https://www.fake.com",
+    "name": "nop13",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000013",
+      "0x0000000000000000000000000000000000000013"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop14",
+    "website": "https://www.fake.com",
+    "name": "nop14",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000014",
+      "0x0000000000000000000000000000000000000014"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop15",
+    "website": "https://www.fake.com",
+    "name": "nop15",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000015",
+      "0x0000000000000000000000000000000000000015"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop16",
+    "website": "https://www.fake.com",
+    "name": "nop16",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000016",
+      "0x0000000000000000000000000000000000000016"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop17",
+    "website": "https://www.fake.com",
+    "name": "nop17",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000017",
+      "0x0000000000000000000000000000000000000017"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop18",
+    "website": "https://www.fake.com",
+    "name": "nop18",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000018",
+      "0x0000000000000000000000000000000000000018"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop19",
+    "website": "https://www.fake.com",
+    "name": "nop19",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000019",
+      "0x0000000000000000000000000000000000000019"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop20",
+    "website": "https://www.fake.com",
+    "name": "nop20",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000020",
+      "0x0000000000000000000000000000000000000020"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop21",
+    "website": "https://www.fake.com",
+    "name": "nop21",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000021",
+      "0x0000000000000000000000000000000000000021"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop22",
+    "website": "https://www.fake.com",
+    "name": "nop22",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000022",
+      "0x0000000000000000000000000000000000000022"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop23",
+    "website": "https://www.fake.com",
+    "name": "nop23",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000023",
+      "0x0000000000000000000000000000000000000023"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop24",
+    "website": "https://www.fake.com",
+    "name": "nop24",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000024",
+      "0x0000000000000000000000000000000000000024"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop25",
+    "website": "https://www.fake.com",
+    "name": "nop25",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000025",
+      "0x0000000000000000000000000000000000000025"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop26",
+    "website": "https://www.fake.com",
+    "name": "nop26",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000026",
+      "0x0000000000000000000000000000000000000026"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop27",
+    "website": "https://www.fake.com",
+    "name": "nop27",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000027",
+      "0x0000000000000000000000000000000000000027"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop28",
+    "website": "https://www.fake.com",
+    "name": "nop28",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000028",
+      "0x0000000000000000000000000000000000000028"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop29",
+    "website": "https://www.fake.com",
+    "name": "nop29",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000029",
+      "0x0000000000000000000000000000000000000029"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop30",
+    "website": "https://www.fake.com",
+    "name": "nop30",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000030",
+      "0x0000000000000000000000000000000000000030"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop31",
+    "website": "https://www.fake.com",
+    "name": "nop31",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000031",
+      "0x0000000000000000000000000000000000000031"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop32",
+    "website": "https://www.fake.com",
+    "name": "nop32",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000032",
+      "0x0000000000000000000000000000000000000032"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop33",
+    "website": "https://www.fake.com",
+    "name": "nop33",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000033",
+      "0x0000000000000000000000000000000000000033"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop34",
+    "website": "https://www.fake.com",
+    "name": "nop34",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000034",
+      "0x0000000000000000000000000000000000000034"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop35",
+    "website": "https://www.fake.com",
+    "name": "nop35",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000035",
+      "0x0000000000000000000000000000000000000035"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop36",
+    "website": "https://www.fake.com",
+    "name": "nop36",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000036",
+      "0x0000000000000000000000000000000000000036"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop37",
+    "website": "https://www.fake.com",
+    "name": "nop37",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000037",
+      "0x0000000000000000000000000000000000000037"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop38",
+    "website": "https://www.fake.com",
+    "name": "nop38",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000038",
+      "0x0000000000000000000000000000000000000038"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop39",
+    "website": "https://www.fake.com",
+    "name": "nop39",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000039",
+      "0x0000000000000000000000000000000000000039"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "nop40",
+    "website": "https://www.fake.com",
+    "name": "nop40",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000040",
+      "0x0000000000000000000000000000000000000040"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "northWestNodes",
+    "website": "https://northwestnodes.com",
+    "name": "NorthWestNodes",
+    "status": "active",
+    "nodeAddress": [
+      "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3",
+      "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "polyChains",
+    "website": "http://www.polychains.io/",
+    "name": "PolyChains",
+    "status": "active",
+    "nodeAddress": [
+      "0x6f087541B04e9413428f9950daC090Ab6f8A4De5",
+      "0x6f087541B04e9413428f9950daC090Ab6f8A4De5"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "raftel",
+    "website": "https://www.raftel.io",
+    "name": "raftel",
+    "status": "active",
+    "nodeAddress": [
+      "0x01c096EAf39A96c1D6039d95f36A3287956104B8",
+      "0x01c096EAf39A96c1D6039d95f36A3287956104B8"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "Storm-Nodes",
+    "website": "https://www.storm-nodes.com",
+    "name": "Storm-Nodes",
+    "status": "active",
+    "nodeAddress": [
+      "0xa56d6E870f2C230228EB8Ddb1BBc50706DCFD512",
+      "0xa56d6E870f2C230228EB8Ddb1BBc50706DCFD512"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "susy",
+    "website": "https://susy.one/",
+    "name": "SuSyMumbaiOCR",
+    "status": "active",
+    "nodeAddress": [
+      "0x846a5B0838e20bB892B943Ac25F60A01c154b451",
+      "0x846a5B0838e20bB892B943Ac25F60A01c154b451"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "swiftstaking",
+    "website": "https://www.swiftstaking.com",
+    "name": "swiftstaking",
+    "status": "active",
+    "nodeAddress": [
+      "0x150BE620774e48A77835EB440d03B0e146c2c9EE",
+      "0x150BE620774e48A77835EB440d03B0e146c2c9EE"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "throbacLabs",
+    "website": "https://www.throbaclabs.io",
+    "name": "ThrobacLabs",
+    "status": "active",
+    "nodeAddress": [
+      "0x7b0143fAbdd70f2650C51de1Ecb8f3bc6E987fD0",
+      "0x7b0143fAbdd70f2650C51de1Ecb8f3bc6E987fD0"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "unvetica",
+    "website": "https://www.unvetica.com/",
+    "name": "unvetica-node",
+    "status": "active",
+    "nodeAddress": [
+      "0x122b6c8aCe155a1b83e5D781baf1b805f0138f18",
+      "0x122b6c8aCe155a1b83e5D781baf1b805f0138f18"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "zenithChain",
+    "website": "https://zenithchain.io",
+    "name": "ZenithChain",
+    "status": "active",
+    "nodeAddress": [
+      "0x427978fD39E15c4241434b47F9A2d17cA9e7985B",
+      "0x427978fD39E15c4241434b47F9A2d17cA9e7985B"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  }
+]

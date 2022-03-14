@@ -3,7 +3,7 @@ set -e
 
 # rddtool generate kovan directory-kovan.json
 rddtool generate rinkeby directory-rinkeby.json
-# rddtool generate goerli directory-goerli.json
+rddtool generate polygon-mumbai directory-polygon-mumbai.json
 
 # validate and generate files
 ./bin/validate

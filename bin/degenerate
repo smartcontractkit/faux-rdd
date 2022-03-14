@@ -3,4 +3,4 @@ set -e
 
 # rddtool degenerate kovan directory-kovan.json
 rddtool degenerate rinkeby directory-rinkeby.json
-# rddtool degenerate goerli directory-goerli.json
+rddtool degenerate polygon-mumbai directory-polygon-mumbai.json
