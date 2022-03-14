@@ -107,114 +107,7 @@
     "category": "undefined"
   },
   {
-    "address": "0x0000000000000000000000000000000000000002",
-    "name": "DOGE / USD",
-    "contractVersion": 4,
-    "data": {
-      "from": "DOGE",
-      "to": "USD"
-    },
-    "nodes": [
-      {
-        "name": "nop01",
-        "address": "0x0000000000000000000000000000000000000001",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop02",
-        "address": "0x0000000000000000000000000000000000000002",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop03",
-        "address": "0x0000000000000000000000000000000000000003",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop04",
-        "address": "0x0000000000000000000000000000000000000004",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop05",
-        "address": "0x0000000000000000000000000000000000000005",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop06",
-        "address": "0x0000000000000000000000000000000000000006",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop07",
-        "address": "0x0000000000000000000000000000000000000007",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop08",
-        "address": "0x0000000000000000000000000000000000000008",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop09",
-        "address": "0x0000000000000000000000000000000000000009",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop10",
-        "address": "0x0000000000000000000000000000000000000010",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      }
-    ],
-    "precision": 8,
-    "deviationThreshold": 1,
-    "symbol": "",
-    "path": "doge-usd",
-    "status": "testing",
-    "category": "undefined"
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000000",
+    "address": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
     "name": "ETH / USD",
     "contractVersion": 4,
     "data": {
@@ -223,93 +116,93 @@
     },
     "nodes": [
       {
-        "name": "nop01",
-        "address": "0x0000000000000000000000000000000000000001",
+        "name": "BlockFarms",
+        "address": "0xF17e985F2e8eA42D73d3775f722eD3930fD6C9fa",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop02",
-        "address": "0x0000000000000000000000000000000000000002",
+        "name": "COLSA",
+        "address": "0x22543cf908f7112A963c8A0F2EefD689DF40928D",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop03",
-        "address": "0x0000000000000000000000000000000000000003",
+        "name": "baramio",
+        "address": "0x435B5c79a5E89BB8a7e90CF06E63D01e2b581999",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop04",
-        "address": "0x0000000000000000000000000000000000000004",
+        "name": "bigDipper",
+        "address": "0x3144a3EA0Ffe000ac1DdF94b94b1F94AE2Ec8C74",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop05",
-        "address": "0x0000000000000000000000000000000000000005",
+        "name": "binaryLink",
+        "address": "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop06",
-        "address": "0x0000000000000000000000000000000000000006",
+        "name": "brickOracle",
+        "address": "0x2b860718104bB7c7c47A21ADd4352199065cC36E",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop07",
-        "address": "0x0000000000000000000000000000000000000007",
+        "name": "caanodes",
+        "address": "0xEA7e095f49bfBAaE935F4b52daDc66F10fFb2F8F",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop08",
-        "address": "0x0000000000000000000000000000000000000008",
+        "name": "dawnsWorld",
+        "address": "0xc6BB9D192f24dE898B704E7492BDc8348B1126a1",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop09",
-        "address": "0x0000000000000000000000000000000000000009",
+        "name": "digisense",
+        "address": "0xA20E2FcaD2B42a30dd94E2c481FBfc4b2F3d00db",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop10",
-        "address": "0x0000000000000000000000000000000000000010",
+        "name": "doublebass",
+        "address": "0x41A04B989c963139D841B0BaAdDd64B26E618d83",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       }
     ],
@@ -317,7 +210,7 @@
     "deviationThreshold": 1,
     "symbol": "",
     "path": "eth-usd",
-    "status": "testing",
+    "status": "live",
     "category": "undefined"
   },
   {
@@ -440,90 +333,90 @@
         "name": "nop01",
         "address": "0x0000000000000000000000000000000000000001",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop02",
         "address": "0x0000000000000000000000000000000000000002",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop03",
         "address": "0x0000000000000000000000000000000000000003",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop04",
         "address": "0x0000000000000000000000000000000000000004",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop05",
         "address": "0x0000000000000000000000000000000000000005",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop06",
         "address": "0x0000000000000000000000000000000000000006",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop07",
         "address": "0x0000000000000000000000000000000000000007",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop08",
         "address": "0x0000000000000000000000000000000000000008",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop09",
         "address": "0x0000000000000000000000000000000000000009",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop10",
         "address": "0x0000000000000000000000000000000000000010",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       }
     ],
@@ -638,113 +531,6 @@
     "deviationThreshold": 1,
     "symbol": "",
     "path": "hnt-usd",
-    "status": "testing",
-    "category": "undefined"
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000001",
-    "name": "LINK / USD",
-    "contractVersion": 4,
-    "data": {
-      "from": "LINK",
-      "to": "USD"
-    },
-    "nodes": [
-      {
-        "name": "nop01",
-        "address": "0x0000000000000000000000000000000000000001",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop02",
-        "address": "0x0000000000000000000000000000000000000002",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop03",
-        "address": "0x0000000000000000000000000000000000000003",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop04",
-        "address": "0x0000000000000000000000000000000000000004",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop05",
-        "address": "0x0000000000000000000000000000000000000005",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop06",
-        "address": "0x0000000000000000000000000000000000000006",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop07",
-        "address": "0x0000000000000000000000000000000000000007",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop08",
-        "address": "0x0000000000000000000000000000000000000008",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop09",
-        "address": "0x0000000000000000000000000000000000000009",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      },
-      {
-        "name": "nop10",
-        "address": "0x0000000000000000000000000000000000000010",
-        "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
-        ]
-      }
-    ],
-    "precision": 8,
-    "deviationThreshold": 1,
-    "symbol": "",
-    "path": "link-usd",
     "status": "testing",
     "category": "undefined"
   },

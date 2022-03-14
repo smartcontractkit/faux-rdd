@@ -440,90 +440,90 @@
         "name": "nop01",
         "address": "0x0000000000000000000000000000000000000001",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop02",
         "address": "0x0000000000000000000000000000000000000002",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop03",
         "address": "0x0000000000000000000000000000000000000003",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop04",
         "address": "0x0000000000000000000000000000000000000004",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop05",
         "address": "0x0000000000000000000000000000000000000005",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop06",
         "address": "0x0000000000000000000000000000000000000006",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop07",
         "address": "0x0000000000000000000000000000000000000007",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop08",
         "address": "0x0000000000000000000000000000000000000008",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop09",
         "address": "0x0000000000000000000000000000000000000009",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop10",
         "address": "0x0000000000000000000000000000000000000010",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       }
     ],
@@ -531,6 +531,113 @@
     "deviationThreshold": 1,
     "symbol": "",
     "path": "btc-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0xfbcFF97E89b33A8d6F1BF8CC201A9EF342596b9C",
+    "name": "DOGE / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "DOGE",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "LinkWell",
+        "address": "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "Storm-Nodes",
+        "address": "0xa56d6E870f2C230228EB8Ddb1BBc50706DCFD512",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "kusari",
+        "address": "0x75EE649a9e0970d8Ae9c23BDe47Bcc42Eef2e794",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "linkedHashMap",
+        "address": "0xD11759C69CAA2Acb772fD9c75Ceb976FF4e059b8",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "nodable",
+        "address": "0x876Bb08742b33c1927b8cB80591EdEfe0BA14601",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "susy",
+        "address": "0x846a5B0838e20bB892B943Ac25F60A01c154b451",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "swiftstaking",
+        "address": "0x150BE620774e48A77835EB440d03B0e146c2c9EE",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "throbacLabs",
+        "address": "0x7b0143fAbdd70f2650C51de1Ecb8f3bc6E987fD0",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "unvetica",
+        "address": "0x122b6c8aCe155a1b83e5D781baf1b805f0138f18",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "zenithChain",
+        "address": "0x427978fD39E15c4241434b47F9A2d17cA9e7985B",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "doge-usd",
     "status": "testing",
     "category": "undefined"
   },
@@ -963,6 +1070,113 @@
     "category": "undefined"
   },
   {
+    "address": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
+    "name": "LINK / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "LINK",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "LinkWell",
+        "address": "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "genesis",
+        "address": "0x7a93E7eAc3292d13AE1D3391c248AcDf34210526",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "glink",
+        "address": "0x45c993cB3cceC3Ea529b5eA4e2263d54d25D3Ee6",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "hyphen",
+        "address": "0x4992CE1388dDAc97e39bAc8F303068A6237c2238",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "kusari",
+        "address": "0x75EE649a9e0970d8Ae9c23BDe47Bcc42Eef2e794",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "linkedHashMap",
+        "address": "0xD11759C69CAA2Acb772fD9c75Ceb976FF4e059b8",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "nodable",
+        "address": "0x876Bb08742b33c1927b8cB80591EdEfe0BA14601",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "northWestNodes",
+        "address": "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "polyChains",
+        "address": "0x6f087541B04e9413428f9950daC090Ab6f8A4De5",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "raftel",
+        "address": "0x01c096EAf39A96c1D6039d95f36A3287956104B8",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "link-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
     "address": "0x0000000000000000000000000000000000000007",
     "name": "LTC / USD",
     "contractVersion": 4,
@@ -1189,90 +1403,90 @@
         "name": "nop01",
         "address": "0x0000000000000000000000000000000000000001",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop02",
         "address": "0x0000000000000000000000000000000000000002",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop03",
         "address": "0x0000000000000000000000000000000000000003",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop04",
         "address": "0x0000000000000000000000000000000000000004",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop05",
         "address": "0x0000000000000000000000000000000000000005",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop06",
         "address": "0x0000000000000000000000000000000000000006",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop07",
         "address": "0x0000000000000000000000000000000000000007",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop08",
         "address": "0x0000000000000000000000000000000000000008",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop09",
         "address": "0x0000000000000000000000000000000000000009",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       },
       {
         "name": "nop10",
         "address": "0x0000000000000000000000000000000000000010",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider",
+          "dataProvider",
+          "dataProvider"
         ]
       }
     ],

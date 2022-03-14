@@ -1,72 +1,6 @@
 [
   {
     "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000000",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "ETH / USD",
-    "pair": [
-      "ETH",
-      "USD"
-    ],
-    "path": "eth-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000001",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "LINK / USD",
-    "pair": [
-      "LINK",
-      "USD"
-    ],
-    "path": "link-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000002",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "DOGE / USD",
-    "pair": [
-      "DOGE",
-      "USD"
-    ],
-    "path": "doge-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
     "contractAddress": "0x0000000000000000000000000000000000000003",
     "contractType": "",
     "contractVersion": 4,
@@ -678,6 +612,72 @@
     ],
     "path": "one-usd",
     "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": "eth-usd",
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 45,
+    "history": true,
+    "multiply": "100000000",
+    "name": "ETH / USD",
+    "pair": [
+      "ETH",
+      "USD"
+    ],
+    "path": "eth-usd",
+    "proxyAddress": "0x84198DED91F46d7013EFcB0946d1414f680e0335",
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": "link-usd",
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 45,
+    "history": true,
+    "multiply": "100000000",
+    "name": "LINK / USD",
+    "pair": [
+      "LINK",
+      "USD"
+    ],
+    "path": "link-usd",
+    "proxyAddress": "0x84ac3a42e2Fb49958F9B5C81f976ee30780641D1",
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0xfbcFF97E89b33A8d6F1BF8CC201A9EF342596b9C",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": "doge-usd",
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 45,
+    "history": true,
+    "multiply": "100000000",
+    "name": "DOGE / USD",
+    "pair": [
+      "DOGE",
+      "USD"
+    ],
+    "path": "doge-usd",
+    "proxyAddress": "0x6570b74208BDc855EA3da0BAA98266aB0438143b",
     "threshold": 1,
     "valuePrefix": ""
   }

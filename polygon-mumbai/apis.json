@@ -5,6 +5,10 @@
   "coingecko": {},
   "coinpaprika": {},
   "dataSource": {},
+  "dataProvider": {},
+  "dataProvider1": {},
+  "dataProvider2": {},
+  "dataProvider3": {},
   "ncfx": {},
   "nomics": {},
   "tiingo": {}

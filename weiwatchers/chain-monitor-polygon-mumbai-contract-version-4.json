@@ -1,56 +1,5 @@
 [
   {
-    "contractAddress": "0x0000000000000000000000000000000000000000",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "heartbeat": 3600,
-    "history": false,
-    "multiply": "100000000",
-    "name": "ETH / USD",
-    "symbol": "",
-    "pair": [
-      "ETH",
-      "USD"
-    ],
-    "path": "eth-usd",
-    "nodeCount": 10,
-    "status": "testing"
-  },
-  {
-    "contractAddress": "0x0000000000000000000000000000000000000001",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "heartbeat": 3600,
-    "history": false,
-    "multiply": "100000000",
-    "name": "LINK / USD",
-    "symbol": "",
-    "pair": [
-      "LINK",
-      "USD"
-    ],
-    "path": "link-usd",
-    "nodeCount": 10,
-    "status": "testing"
-  },
-  {
-    "contractAddress": "0x0000000000000000000000000000000000000002",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "heartbeat": 3600,
-    "history": false,
-    "multiply": "100000000",
-    "name": "DOGE / USD",
-    "symbol": "",
-    "pair": [
-      "DOGE",
-      "USD"
-    ],
-    "path": "doge-usd",
-    "nodeCount": 10,
-    "status": "testing"
-  },
-  {
     "contractAddress": "0x0000000000000000000000000000000000000003",
     "contractVersion": 4,
     "decimalPlaces": 3,
@@ -523,6 +472,57 @@
       "USD"
     ],
     "path": "one-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 45,
+    "history": false,
+    "multiply": "100000000",
+    "name": "ETH / USD",
+    "symbol": "",
+    "pair": [
+      "ETH",
+      "USD"
+    ],
+    "path": "eth-usd",
+    "nodeCount": 10,
+    "status": "live"
+  },
+  {
+    "contractAddress": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 45,
+    "history": false,
+    "multiply": "100000000",
+    "name": "LINK / USD",
+    "symbol": "",
+    "pair": [
+      "LINK",
+      "USD"
+    ],
+    "path": "link-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xfbcFF97E89b33A8d6F1BF8CC201A9EF342596b9C",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 45,
+    "history": false,
+    "multiply": "100000000",
+    "name": "DOGE / USD",
+    "symbol": "",
+    "pair": [
+      "DOGE",
+      "USD"
+    ],
+    "path": "doge-usd",
     "nodeCount": 10,
     "status": "testing"
   }

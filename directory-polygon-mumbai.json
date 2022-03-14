@@ -5,417 +5,16 @@
     "blockcypher": {},
     "coingecko": {},
     "coinpaprika": {},
+    "dataProvider": {},
+    "dataProvider1": {},
+    "dataProvider2": {},
+    "dataProvider3": {},
     "dataSource": {},
     "ncfx": {},
     "nomics": {},
     "tiingo": {}
   },
   "contracts": {
-    "0x0000000000000000000000000000000000000000": {
-      "billing": {
-        "maxGasPriceGwei": "2000",
-        "microLinkPerEth": "102829",
-        "observationPaymentLinkGwei": "600",
-        "reasonableGasPriceGwei": "10",
-        "transmissionPaymentLinkGwei": "3000"
-      },
-      "config": {
-        "badEpochTimeout": "35s",
-        "maxContractValueAge": "1h",
-        "maxFaultyNodeCount": 3,
-        "maxRoundCount": 6,
-        "observationGracePeriod": "12s",
-        "relativeDeviationThresholdPPB": "10000000",
-        "resendInterval": "17s",
-        "roundInterval": "30s",
-        "transmissionStageTimeout": "60s",
-        "transmissionStages": [
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      },
-      "contractVersion": 4,
-      "decimals": 8,
-      "externalAdapterRequestParams": {
-        "from": "ETH",
-        "to": "USD"
-      },
-      "marketing": {
-        "decimalPlaces": 3,
-        "formatDecimalPlaces": 0,
-        "history": true,
-        "pair": [
-          "ETH",
-          "USD"
-        ],
-        "path": "eth-usd"
-      },
-      "maxSubmissionValue": "1000000000000000",
-      "minSubmissionValue": "100000",
-      "name": "ETH / USD",
-      "oracles": [
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop01"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop02"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop03"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop04"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop05"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop06"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop07"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop08"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop09"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop10"
-        }
-      ],
-      "status": "testing",
-      "validator": "0x0000000000000000000000000000000000000000"
-    },
-    "0x0000000000000000000000000000000000000001": {
-      "billing": {
-        "maxGasPriceGwei": "2000",
-        "microLinkPerEth": "102829",
-        "observationPaymentLinkGwei": "10",
-        "reasonableGasPriceGwei": "10",
-        "transmissionPaymentLinkGwei": "300"
-      },
-      "config": {
-        "badEpochTimeout": "35s",
-        "maxContractValueAge": "1h",
-        "maxFaultyNodeCount": 3,
-        "maxRoundCount": 6,
-        "observationGracePeriod": "19s",
-        "relativeDeviationThresholdPPB": "10000000",
-        "resendInterval": "17s",
-        "roundInterval": "30s",
-        "transmissionStageTimeout": "60s",
-        "transmissionStages": [
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      },
-      "contractVersion": 4,
-      "decimals": 8,
-      "externalAdapterRequestParams": {
-        "from": "LINK",
-        "to": "USD"
-      },
-      "marketing": {
-        "decimalPlaces": 3,
-        "formatDecimalPlaces": 0,
-        "history": true,
-        "pair": [
-          "LINK",
-          "USD"
-        ],
-        "path": "link-usd"
-      },
-      "maxSubmissionValue": "1000000000000000",
-      "minSubmissionValue": "100000",
-      "name": "LINK / USD",
-      "oracles": [
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop01"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop02"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop03"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop04"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop05"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop06"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop07"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop08"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop09"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop10"
-        }
-      ],
-      "status": "testing",
-      "validator": "0x0000000000000000000000000000000000000000"
-    },
-    "0x0000000000000000000000000000000000000002": {
-      "billing": {
-        "maxGasPriceGwei": "2000",
-        "microLinkPerEth": "102829",
-        "observationPaymentLinkGwei": "10",
-        "reasonableGasPriceGwei": "10",
-        "transmissionPaymentLinkGwei": "300"
-      },
-      "config": {
-        "badEpochTimeout": "35s",
-        "maxContractValueAge": "1h",
-        "maxFaultyNodeCount": 3,
-        "maxRoundCount": 6,
-        "observationGracePeriod": "19s",
-        "relativeDeviationThresholdPPB": "10000000",
-        "resendInterval": "17s",
-        "roundInterval": "30s",
-        "transmissionStageTimeout": "60s",
-        "transmissionStages": [
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      },
-      "contractVersion": 4,
-      "decimals": 8,
-      "externalAdapterRequestParams": {
-        "from": "DOGE",
-        "to": "USD"
-      },
-      "marketing": {
-        "decimalPlaces": 3,
-        "formatDecimalPlaces": 0,
-        "history": true,
-        "pair": [
-          "DOGE",
-          "USD"
-        ],
-        "path": "doge-usd"
-      },
-      "maxSubmissionValue": "1000000000000000",
-      "minSubmissionValue": "100",
-      "name": "DOGE / USD",
-      "oracles": [
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop01"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop02"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop03"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop04"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop05"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop06"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop07"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop08"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop09"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "nop10"
-        }
-      ],
-      "status": "testing",
-      "validator": "0x0000000000000000000000000000000000000000"
-    },
     "0x0000000000000000000000000000000000000003": {
       "billing": {
         "maxGasPriceGwei": "2000",
@@ -469,81 +68,81 @@
       "oracles": [
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop01"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop02"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop03"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop04"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop05"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop06"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop07"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop08"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop09"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop10"
         }
@@ -604,81 +203,81 @@
       "oracles": [
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop01"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop02"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop03"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop04"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop05"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop06"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop07"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop08"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop09"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop10"
         }
@@ -739,81 +338,81 @@
       "oracles": [
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop01"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop02"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop03"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop04"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop05"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop06"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop07"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop08"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop09"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider",
+            "dataProvider",
+            "dataProvider"
           ],
           "operator": "nop10"
         }
@@ -4195,6 +3794,411 @@
       ],
       "status": "testing",
       "validator": "0x0000000000000000000000000000000000000000"
+    },
+    "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "600",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "3000"
+      },
+      "config": {
+        "badEpochTimeout": "25s",
+        "maxContractValueAge": "45s",
+        "maxFaultyNodeCount": 3,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "10s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "20s",
+        "transmissionStageTimeout": "26s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "ETH",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "ETH",
+          "USD"
+        ],
+        "path": "eth-usd"
+      },
+      "maxSubmissionValue": "1000000000000000",
+      "minSubmissionValue": "100000",
+      "name": "ETH / USD",
+      "oracles": [
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "baramio"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "bigDipper"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "binaryLink"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "BlockFarms"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "brickOracle"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "caanodes"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "COLSA"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "dawnsWorld"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "digisense"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "doublebass"
+        }
+      ],
+      "status": "live",
+      "validator": "0x0000000000000000000000000000000000000000"
+    },
+    "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "10",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "300"
+      },
+      "config": {
+        "badEpochTimeout": "25s",
+        "maxContractValueAge": "45s",
+        "maxFaultyNodeCount": 3,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "10s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "20s",
+        "transmissionStageTimeout": "26s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "LINK",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "LINK",
+          "USD"
+        ],
+        "path": "link-usd"
+      },
+      "maxSubmissionValue": "1000000000000000",
+      "minSubmissionValue": "100000",
+      "name": "LINK / USD",
+      "oracles": [
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "genesis"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "glink"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "hyphen"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "kusari"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "linkedHashMap"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "LinkWell"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nodable"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "northWestNodes"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "polyChains"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "raftel"
+        }
+      ],
+      "status": "testing",
+      "validator": "0x0000000000000000000000000000000000000000"
+    },
+    "0xfbcFF97E89b33A8d6F1BF8CC201A9EF342596b9C": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "10",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "300"
+      },
+      "config": {
+        "badEpochTimeout": "25s",
+        "maxContractValueAge": "45s",
+        "maxFaultyNodeCount": 3,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "10s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "20s",
+        "transmissionStageTimeout": "26s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "DOGE",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "DOGE",
+          "USD"
+        ],
+        "path": "doge-usd"
+      },
+      "maxSubmissionValue": "1000000000000000",
+      "minSubmissionValue": "100",
+      "name": "DOGE / USD",
+      "oracles": [
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "Storm-Nodes"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "susy"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "swiftstaking"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "throbacLabs"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "unvetica"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "zenithChain"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "kusari"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "linkedHashMap"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "LinkWell"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nodable"
+        }
+      ],
+      "status": "testing",
+      "validator": "0x0000000000000000000000000000000000000000"
     }
   },
   "operators": {
@@ -5850,5 +5854,39 @@
       "website": "https://zenithchain.io"
     }
   },
-  "proxies": {}
+  "proxies": {
+    "0x6570b74208BDc855EA3da0BAA98266aB0438143b": {
+      "accessController": "0x0000000000000000000000000000000000000000",
+      "aggregator": "0xfbcFF97E89b33A8d6F1BF8CC201A9EF342596b9C",
+      "contractVersion": 4,
+      "ens": "doge-usd",
+      "implementations": {
+        "primary": "0xfbcFF97E89b33A8d6F1BF8CC201A9EF342596b9C",
+        "proposed": "0x0000000000000000000000000000000000000000"
+      },
+      "name": "DOGE / USD"
+    },
+    "0x84198DED91F46d7013EFcB0946d1414f680e0335": {
+      "accessController": "0x0000000000000000000000000000000000000000",
+      "aggregator": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
+      "contractVersion": 4,
+      "ens": "eth-usd",
+      "implementations": {
+        "primary": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
+        "proposed": "0x0000000000000000000000000000000000000000"
+      },
+      "name": "ETH / USD"
+    },
+    "0x84ac3a42e2Fb49958F9B5C81f976ee30780641D1": {
+      "accessController": "0x0000000000000000000000000000000000000000",
+      "aggregator": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
+      "contractVersion": 4,
+      "ens": "link-usd",
+      "implementations": {
+        "primary": "0xD4125415Adc66f24f071A3bfDb1D31054bC1CE0b",
+        "proposed": "0x0000000000000000000000000000000000000000"
+      },
+      "name": "LINK / USD"
+    }
+  }
 }
