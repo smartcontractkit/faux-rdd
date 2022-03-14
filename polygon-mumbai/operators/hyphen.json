@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xdb0970682D4312a8c84174d74c006dC2759C21B3",
+  "displayName": "HyphenMumbaiOCR",
+  "nodeAddress": [
+    "0x4992CE1388dDAc97e39bAc8F303068A6237c2238"
+  ],
+  "ocrConfigPublicKey": [
+    "932b68e7c572d2a767a18b3a348acf20764868f617ebd02d171613dc2eca926b"
+  ],
+  "ocrNodeAddress": [
+    "0x4992CE1388dDAc97e39bAc8F303068A6237c2238"
+  ],
+  "ocrOffchainPublicKey": [
+    "1d95c54bb8a6954ebe71ab7865d6429499f9142ba44d5da4ab0036fd49501786"
+  ],
+  "ocrSigningAddress": [
+    "0xb537cf0532d3eDA4fc7944C6c2d66a8282b0283b"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWBJWsbM7zKD3ULzVevCtTJtr7myaPCrotm8QMngv3qeRL"
+  ],
+  "status": "active",
+  "website": "https://www.hyphen.earth/"
+}
