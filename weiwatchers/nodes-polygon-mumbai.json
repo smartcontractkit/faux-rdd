@@ -24,6 +24,18 @@
     "csaKeys": null
   },
   {
+    "id": "binaryLink",
+    "website": "https://www.binarylink.me/",
+    "name": "BinaryLink",
+    "status": "active",
+    "nodeAddress": [
+      "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8",
+      "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
     "id": "BlockFarms",
     "website": "https://www.block-farms.io",
     "name": "BlockFarms",
@@ -175,18 +187,6 @@
     "nodeAddress": [
       "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD",
       "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD"
-    ],
-    "oracleAddress": "0x0000000000000000000000000000000000000000",
-    "csaKeys": null
-  },
-  {
-    "id": "mumbai-binaryLink",
-    "website": "https://www.binarylink.me/",
-    "name": "BinaryLink",
-    "status": "active",
-    "nodeAddress": [
-      "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8",
-      "0x383b9C675822e9011C9Fed8EE9B8d494a0c893e8"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
