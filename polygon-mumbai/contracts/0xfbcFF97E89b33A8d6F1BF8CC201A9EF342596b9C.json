@@ -2,9 +2,9 @@
   "billing": {
     "maxGasPriceGwei": "2000",
     "microLinkPerEth": "102829",
-    "observationPaymentLinkGwei": "600",
+    "observationPaymentLinkGwei": "10",
     "reasonableGasPriceGwei": "10",
-    "transmissionPaymentLinkGwei": "3000"
+    "transmissionPaymentLinkGwei": "300"
   },
   "config": {
     "badEpochTimeout": "25s",
@@ -14,7 +14,7 @@
     "observationGracePeriod": "10s",
     "relativeDeviationThresholdPPB": "10000000",
     "resendInterval": "17s",
-    "roundInterval": "30s",
+    "roundInterval": "20s",
     "transmissionStageTimeout": "26s",
     "transmissionStages": [
       1,
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "ETH",
+    "from": "DOGE",
     "to": "USD"
   },
   "marketing": {
@@ -40,14 +40,14 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "ETH",
+      "DOGE",
       "USD"
     ],
-    "path": "eth-usd"
+    "path": "doge-usd"
   },
   "maxSubmissionValue": "1000000000000000",
-  "minSubmissionValue": "100000",
-  "name": "ETH / USD",
+  "minSubmissionValue": "100",
+  "name": "DOGE / USD",
   "oracles": [
     {
       "api": [
@@ -55,7 +55,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "baramio"
+      "operator": "Storm-Nodes"
     },
     {
       "api": [
@@ -63,7 +63,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "bigDipper"
+      "operator": "susy"
     },
     {
       "api": [
@@ -71,7 +71,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "binaryLink"
+      "operator": "swiftstaking"
     },
     {
       "api": [
@@ -79,7 +79,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "BlockFarms"
+      "operator": "throbacLabs"
     },
     {
       "api": [
@@ -87,7 +87,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "brickOracle"
+      "operator": "unvetica"
     },
     {
       "api": [
@@ -95,7 +95,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "caanodes"
+      "operator": "zenithChain"
     },
     {
       "api": [
@@ -103,7 +103,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "COLSA"
+      "operator": "kusari"
     },
     {
       "api": [
@@ -111,7 +111,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "dawnsWorld"
+      "operator": "linkedHashMap"
     },
     {
       "api": [
@@ -119,7 +119,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "digisense"
+      "operator": "LinkWell"
     },
     {
       "api": [
@@ -127,9 +127,9 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "doublebass"
+      "operator": "nodable"
     }
   ],
-  "status": "live",
+  "status": "testing",
   "validator": "0x0000000000000000000000000000000000000000"
 }

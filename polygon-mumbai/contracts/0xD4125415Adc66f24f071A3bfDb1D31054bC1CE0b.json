@@ -14,7 +14,7 @@
     "observationGracePeriod": "10s",
     "relativeDeviationThresholdPPB": "10000000",
     "resendInterval": "17s",
-    "roundInterval": "30s",
+    "roundInterval": "20s",
     "transmissionStageTimeout": "26s",
     "transmissionStages": [
       1,
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "DOGE",
+    "from": "LINK",
     "to": "USD"
   },
   "marketing": {
@@ -40,14 +40,14 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "DOGE",
+      "LINK",
       "USD"
     ],
-    "path": "doge-usd"
+    "path": "link-usd"
   },
   "maxSubmissionValue": "1000000000000000",
-  "minSubmissionValue": "100",
-  "name": "DOGE / USD",
+  "minSubmissionValue": "100000",
+  "name": "LINK / USD",
   "oracles": [
     {
       "api": [
@@ -55,7 +55,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "Storm-Nodes"
+      "operator": "genesis"
     },
     {
       "api": [
@@ -63,7 +63,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "susy"
+      "operator": "glink"
     },
     {
       "api": [
@@ -71,31 +71,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "swiftstaking"
-    },
-    {
-      "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
-      ],
-      "operator": "throbacLabs"
-    },
-    {
-      "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
-      ],
-      "operator": "unvetica"
-    },
-    {
-      "api": [
-        "dataProvider1",
-        "dataProvider2",
-        "dataProvider3"
-      ],
-      "operator": "zenithChain"
+      "operator": "hyphen"
     },
     {
       "api": [
@@ -128,6 +104,30 @@
         "dataProvider3"
       ],
       "operator": "nodable"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "northWestNodes"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "polyChains"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "raftel"
     }
   ],
   "status": "testing",
