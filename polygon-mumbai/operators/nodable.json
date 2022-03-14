@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xd65A1360B404C301A7cf3784e8fCf8968785688a",
+  "displayName": "Nodable",
+  "nodeAddress": [
+    "0x876Bb08742b33c1927b8cB80591EdEfe0BA14601"
+  ],
+  "ocrConfigPublicKey": [
+    "fb40940313c666202f24f397e9f88a2cce6a179fcd80a9286d7278e34142177f"
+  ],
+  "ocrNodeAddress": [
+    "0x876Bb08742b33c1927b8cB80591EdEfe0BA14601"
+  ],
+  "ocrOffchainPublicKey": [
+    "dacb657a9eb9f9ac69ef3d7c874f172aa57303f5dd2aecf09414b1675c5c234d"
+  ],
+  "ocrSigningAddress": [
+    "0x8fC2Bb8EA4d05628020F1e2681A5b84558bFc95E"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWFwdTjMhjYhU3ECU2kaNTzYJXQj77rgtwkDt77ifKGHYP"
+  ],
+  "status": "active",
+  "website": "https://www.nodable.io"
+}
