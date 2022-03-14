@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x279f2b4A218Af672220D3ce02fD3E17770dCaF85",
+  "displayName": "ThrobacLabs",
+  "nodeAddress": [
+    "0x7b0143fAbdd70f2650C51de1Ecb8f3bc6E987fD0"
+  ],
+  "ocrConfigPublicKey": [
+    "74b94c98e9ea5e50b88b007434f3189878ac17cae1169c6a806da730e08f2f5f"
+  ],
+  "ocrNodeAddress": [
+    "0x7b0143fAbdd70f2650C51de1Ecb8f3bc6E987fD0"
+  ],
+  "ocrOffchainPublicKey": [
+    "8517b2e548daa4c414523752887e6501c2e109e1098e4301f378e5c9724448e8"
+  ],
+  "ocrSigningAddress": [
+    "0x853bAC5F6C311cA1aFb5B9d91d236ba18D537594"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWLzTthM2BUFixc6RN4mo8T8ym2bFksneULAjhuBZkCq1K"
+  ],
+  "status": "active",
+  "website": "https://www.throbaclabs.io"
+}
