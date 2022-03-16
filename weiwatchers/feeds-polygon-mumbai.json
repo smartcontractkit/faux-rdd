@@ -1,72 +1,6 @@
 [
   {
     "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000006",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "MATIC / USD",
-    "pair": [
-      "MATIC",
-      "USD"
-    ],
-    "path": "matic-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000007",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "LTC / USD",
-    "pair": [
-      "LTC",
-      "USD"
-    ],
-    "path": "ltc-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000008",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "USDT / USD",
-    "pair": [
-      "USDT",
-      "USD"
-    ],
-    "path": "usdt-usd",
-    "proxyAddress": null,
-    "threshold": 0.5,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
     "contractAddress": "0x0000000000000000000000000000000000000009",
     "contractType": "",
     "contractVersion": 4,
@@ -573,6 +507,50 @@
   },
   {
     "compareOffchain": "",
+    "contractAddress": "0x1564dDd5D141366D314e7c5cd5d818CFeCEf0ECE",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "MATIC / USD",
+    "pair": [
+      "MATIC",
+      "USD"
+    ],
+    "path": "matic-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x48D338AB4CF8b1634329aa524BFc0EA37e0F724c",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "LTC / USD",
+    "pair": [
+      "LTC",
+      "USD"
+    ],
+    "path": "ltc-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
     "contractAddress": "0x6eE3c2D61D166BED5DC5DFcaD8DDa36139B8Ef9e",
     "contractType": "",
     "contractVersion": 4,
@@ -657,6 +635,28 @@
     "path": "link-usd",
     "proxyAddress": "0x84ac3a42e2Fb49958F9B5C81f976ee30780641D1",
     "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0xac5DBdBad5c26e8C3f49fD8F0ac0d1bE02b63556",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "USDT / USD",
+    "pair": [
+      "USDT",
+      "USD"
+    ],
+    "path": "usdt-usd",
+    "proxyAddress": null,
+    "threshold": 0.5,
     "valuePrefix": ""
   },
   {

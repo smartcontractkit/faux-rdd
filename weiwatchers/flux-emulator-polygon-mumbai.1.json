@@ -428,6 +428,113 @@
     "category": "undefined"
   },
   {
+    "address": "0x48D338AB4CF8b1634329aa524BFc0EA37e0F724c",
+    "name": "LTC / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "LTC",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "LinkWell",
+        "address": "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "genesis",
+        "address": "0x7a93E7eAc3292d13AE1D3391c248AcDf34210526",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "glink",
+        "address": "0x45c993cB3cceC3Ea529b5eA4e2263d54d25D3Ee6",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "hyphen",
+        "address": "0x4992CE1388dDAc97e39bAc8F303068A6237c2238",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "kusari",
+        "address": "0x75EE649a9e0970d8Ae9c23BDe47Bcc42Eef2e794",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "linkedHashMap",
+        "address": "0xD11759C69CAA2Acb772fD9c75Ceb976FF4e059b8",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "nodable",
+        "address": "0x876Bb08742b33c1927b8cB80591EdEfe0BA14601",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "northWestNodes",
+        "address": "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "polyChains",
+        "address": "0x6f087541B04e9413428f9950daC090Ab6f8A4De5",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "raftel",
+        "address": "0x01c096EAf39A96c1D6039d95f36A3287956104B8",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "ltc-usd",
+    "status": "live",
+    "category": "undefined"
+  },
+  {
     "address": "0x0000000000000000000000000000000000000013",
     "name": "LUNA / USD",
     "contractVersion": 4,

@@ -2,7 +2,7 @@
   "billing": {
     "maxGasPriceGwei": "2000",
     "microLinkPerEth": "102829",
-    "observationPaymentLinkGwei": "100",
+    "observationPaymentLinkGwei": "10",
     "reasonableGasPriceGwei": "10",
     "transmissionPaymentLinkGwei": "300"
   },
@@ -12,7 +12,7 @@
     "maxFaultyNodeCount": 3,
     "maxRoundCount": 6,
     "observationGracePeriod": "19s",
-    "relativeDeviationThresholdPPB": "5000000",
+    "relativeDeviationThresholdPPB": "10000000",
     "resendInterval": "17s",
     "roundInterval": "30s",
     "transmissionStageTimeout": "60s",
@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "USDT",
+    "from": "LTC",
     "to": "USD"
   },
   "marketing": {
@@ -40,96 +40,96 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "USDT",
+      "LTC",
       "USD"
     ],
-    "path": "usdt-usd"
+    "path": "ltc-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",
-  "name": "USDT / USD",
+  "name": "LTC / USD",
   "oracles": [
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop01"
+      "operator": "genesis"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop02"
+      "operator": "glink"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop03"
+      "operator": "hyphen"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop04"
+      "operator": "kusari"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop05"
+      "operator": "linkedHashMap"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop06"
+      "operator": "LinkWell"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop07"
+      "operator": "nodable"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop08"
+      "operator": "northWestNodes"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop09"
+      "operator": "polyChains"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop10"
+      "operator": "raftel"
     }
   ],
-  "status": "testing",
+  "status": "live",
   "validator": "0x0000000000000000000000000000000000000000"
 }

@@ -32,7 +32,7 @@
   "contractVersion": 4,
   "decimals": 8,
   "externalAdapterRequestParams": {
-    "from": "LTC",
+    "from": "MATIC",
     "to": "USD"
   },
   "marketing": {
@@ -40,96 +40,96 @@
     "formatDecimalPlaces": 0,
     "history": true,
     "pair": [
-      "LTC",
+      "MATIC",
       "USD"
     ],
-    "path": "ltc-usd"
+    "path": "matic-usd"
   },
   "maxSubmissionValue": "1000000000000000",
   "minSubmissionValue": "100",
-  "name": "LTC / USD",
+  "name": "MATIC / USD",
   "oracles": [
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop01"
+      "operator": "baramio"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop02"
+      "operator": "bigDipper"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop03"
+      "operator": "binaryLink"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop04"
+      "operator": "BlockFarms"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop05"
+      "operator": "brickOracle"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop06"
+      "operator": "caanodes"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop07"
+      "operator": "COLSA"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop08"
+      "operator": "dawnsWorld"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop09"
+      "operator": "digisense"
     },
     {
       "api": [
-        "dataSource",
-        "dataSource",
-        "dataSource"
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
       ],
-      "operator": "nop10"
+      "operator": "doublebass"
     }
   ],
-  "status": "testing",
+  "status": "live",
   "validator": "0x0000000000000000000000000000000000000000"
 }
