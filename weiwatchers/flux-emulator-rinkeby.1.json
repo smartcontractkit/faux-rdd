@@ -1177,110 +1177,110 @@
     "category": "undefined"
   },
   {
-    "address": "0x8b56F41B48B2809B663c52394e8FbAfc18989001",
-    "name": "HNT / USD",
+    "address": "0x76EbAA1c598318b36c9d0559aB8f7782cbF9dd12",
+    "name": "KLAY / USD",
     "contractVersion": 4,
     "data": {
-      "from": "HNT",
+      "from": "KLAY",
       "to": "USD"
     },
     "nodes": [
       {
-        "name": "nop01",
-        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "name": "Hyphen",
+        "address": "0x40F81553999CB220E37bCBe923A0440C5a94E158",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop02",
-        "address": "0x30c9E973629e5eBa1B1be177A85b0715629b6B91",
+        "name": "Krytec",
+        "address": "0xEd6090f3eF3a0e1053FA26B1fE04b68060CCf436",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop03",
-        "address": "0x25500A32De07A7f68132a3eC020E39EAd1DA3F84",
+        "name": "LinkWell",
+        "address": "0xEb67EF3c192F60E3354775739bcc5Cd4803eA2dD",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop04",
-        "address": "0x97eF52C157e6589E3d81934E4b21978Eb72f403c",
+        "name": "Nodable",
+        "address": "0xE2C5F39b5169715339dd4164F0e0e9FDF2632F4c",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop05",
-        "address": "0xe1EaA41AECf1F305D412eeD5C1d6470a511af2c6",
+        "name": "NorthWestNodes",
+        "address": "0x423b3e80E6c2D87444CBe758ca0BBb2d6b7026A3",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop06",
-        "address": "0xA2d0E3030d24083E7C17A7C068089CDBc11aF8e9",
+        "name": "genesis",
+        "address": "0xDB0743eD0bFD82eE7871B5C782efF559D8D961a4",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop07",
-        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "name": "glink",
+        "address": "0x8a361a06F8F7B976447328492C4F7f18F2Fec59F",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop08",
-        "address": "0x64940b1DE47BaEea01d0B5c55C2D54A05a15550E",
+        "name": "interzone",
+        "address": "0x2B50a69c39De7225f9b760FbB7A8e1314753c448",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop09",
-        "address": "0xe1d4cDb1d70bf9099845DBE5D90D5913e43fF5A3",
+        "name": "kusari",
+        "address": "0xe35fbb862780E778fc3AB7177e863eCBc7DAE40E",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       },
       {
-        "name": "nop10",
-        "address": "0xe79CBD96Dd3FA0D327DC1BaD44f3667156E139C9",
+        "name": "linked_hash_map",
+        "address": "0x8050C0526b4346911FeA03b91690998bb3e2d7f7",
         "dataProviders": [
-          "dataSource",
-          "dataSource",
-          "dataSource"
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
         ]
       }
     ],
     "precision": 8,
     "deviationThreshold": 1,
     "symbol": "",
-    "path": "hnt-usd",
-    "status": "testing",
+    "path": "klay-usd",
+    "status": "live",
     "category": "undefined"
   },
   {

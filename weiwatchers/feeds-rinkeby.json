@@ -199,6 +199,28 @@
   },
   {
     "compareOffchain": "",
+    "contractAddress": "0x332f1A60D05D089E6B562e54B9281d823cA60dbf",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "HNT / USD",
+    "pair": [
+      "HNT",
+      "USD"
+    ],
+    "path": "hnt-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
     "contractAddress": "0x3740500bC8fC255E0d2855b91cc72c283edE4188",
     "contractType": "",
     "contractVersion": 4,
@@ -331,6 +353,28 @@
   },
   {
     "compareOffchain": "",
+    "contractAddress": "0x76EbAA1c598318b36c9d0559aB8f7782cbF9dd12",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "KLAY / USD",
+    "pair": [
+      "KLAY",
+      "USD"
+    ],
+    "path": "klay-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
     "contractAddress": "0x84198DED91F46d7013EFcB0946d1414f680e0335",
     "contractType": "",
     "contractVersion": 4,
@@ -397,72 +441,6 @@
   },
   {
     "compareOffchain": "",
-    "contractAddress": "0x8b56F41B48B2809B663c52394e8FbAfc18989001",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": "hnt-usd",
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "HNT / USD",
-    "pair": [
-      "HNT",
-      "USD"
-    ],
-    "path": "hnt-usd",
-    "proxyAddress": "0xDf8CeF75c00eb3FB30949A779f98aA5b7F60A12c",
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
-    "contractAddress": "0x8dd263F98F818257695711C938e9131eB17fe546",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": "klay-usd",
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "KLAY / USD",
-    "pair": [
-      "KLAY",
-      "USD"
-    ],
-    "path": "klay-usd",
-    "proxyAddress": "0xA957309002DF7cBd3574F8cBab2357666a851f4F",
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
-    "contractAddress": "0x939E7dFC83a542E8fC3F3e8A8e93D4eFe4cd05A0",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": "hbar-usd",
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 3600,
-    "history": true,
-    "multiply": "100000000",
-    "name": "HBAR / USD",
-    "pair": [
-      "HBAR",
-      "USD"
-    ],
-    "path": "hbar-usd",
-    "proxyAddress": "0x90B773293c0724849E0b06824E59235e1EF9d633",
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
     "contractAddress": "0xC08C7B3c71AE19C2715B4903585577A20AB5fA31",
     "contractType": "",
     "contractVersion": 4,
@@ -502,6 +480,28 @@
     ],
     "path": "link-usd",
     "proxyAddress": "0xFDA8c21DBf798A486D7c82E2e82e101eaE03Ba94",
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0xDcc9e3773945519e19906866cA3DAA50E7d14f56",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "HBAR / USD",
+    "pair": [
+      "HBAR",
+      "USD"
+    ],
+    "path": "hbar-usd",
+    "proxyAddress": null,
     "threshold": 1,
     "valuePrefix": ""
   },
