@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
+  "displayName": "dexNop08",
+  "nodeAddress": [
+    "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+  ],
+  "ocrConfigPublicKey": [
+    "156c8c02669de1d506d89f033e39ff7ff864d1c4c0f19bd24948ff1b2a115c5d"
+  ],
+  "ocrNodeAddress": [
+    "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6"
+  ],
+  "ocrOffchainPublicKey": [
+    "a4f131c9d3a1fdc79ae4612b862c9862315866fac85d109f6c460ec0fedf37ed"
+  ],
+  "ocrSigningAddress": [
+    "0x1b7a6C23927683A1BE38Cc65dec41f351EEb13fc"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWCfpCAFZUnAyHUGWp56fG1XS22Zo9bDjcF4L3cBxfCRn1"
+  ],
+  "status": "active",
+  "website": "https://www.fake08.com"
+}

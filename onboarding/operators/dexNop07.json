@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
+  "displayName": "dexNop07",
+  "nodeAddress": [
+    "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+  ],
+  "ocrConfigPublicKey": [
+    "abe202e193816bb78d7e5d2489034548c744f1a7811707e84a48d2e739e2b82d"
+  ],
+  "ocrNodeAddress": [
+    "0x25dE753428c48D38F826c56220BD263dCE45b3A3"
+  ],
+  "ocrOffchainPublicKey": [
+    "662ef44281b3ccfcd4abd9726fb39a6203915ab00b57becb8f67fbff396aa4cd"
+  ],
+  "ocrSigningAddress": [
+    "0xF9C39E2f9F598F5E29440F7f1A010f745Da5e1c9"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWA8tgDCJWavjDz68muhJXZbgjVDGeu47GTg9SgeQfD6ie"
+  ],
+  "status": "active",
+  "website": "https://www.fake07.com"
+}

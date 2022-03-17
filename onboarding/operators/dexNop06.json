@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
+  "displayName": "dexNop06",
+  "nodeAddress": [
+    "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+  ],
+  "ocrConfigPublicKey": [
+    "ac243317696c1f147090826b428910f6f103b6bd4ff975a97e240dbcc5ce066b"
+  ],
+  "ocrNodeAddress": [
+    "0x31618A95adBAdAEB960647D13ef45209c27dC05C"
+  ],
+  "ocrOffchainPublicKey": [
+    "029359e157a39212a361d5a4b1b562c4aba7a27cb03b8703d7db3767e1a267d1"
+  ],
+  "ocrSigningAddress": [
+    "0xa04cFA285f5BfBcC15Ca9dA6deE9bF19eF75d177"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWMgJa2ZB5KBiijpqUr23uv1TjAgdzsWFBUzj682CX8xH1"
+  ],
+  "status": "active",
+  "website": "https://www.fake06.com"
+}

@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
+  "displayName": "dexNop00",
+  "nodeAddress": [
+    "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+  ],
+  "ocrConfigPublicKey": [
+    "b648ecbc21a3d89622e0a1340ef90c7e2f0a12b0029b8be55a411ca993a37510"
+  ],
+  "ocrNodeAddress": [
+    "0xb0E368D5981c0da9349a31bf8401eBB66B019190"
+  ],
+  "ocrOffchainPublicKey": [
+    "1349f80bced600020fa3f5ff3ac1bf18f279851ac2584e54ef0a3203e6e695ad"
+  ],
+  "ocrSigningAddress": [
+    "0x203531734552F65e7cF392b0cD9b5E9870622a7b"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWFto8Fx141Kixn2JbfGXJWpt8U1B55oBQtsNZWRmyiq1D"
+  ],
+  "status": "active",
+  "website": "https://www.fake00.com"
+}

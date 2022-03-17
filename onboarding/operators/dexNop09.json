@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
+  "displayName": "dexNop09",
+  "nodeAddress": [
+    "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+  ],
+  "ocrConfigPublicKey": [
+    "7411832fc0bb390c587d1ccbf85f25ec836327d2f9fe4f8b859f2cb6cb824813"
+  ],
+  "ocrNodeAddress": [
+    "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D"
+  ],
+  "ocrOffchainPublicKey": [
+    "643115b794a9389ce3cc776757ef013729aaf65ac4a43f7b5408d483d93e3862"
+  ],
+  "ocrSigningAddress": [
+    "0xB6Ab087F5047795F23559045B6FdBc0071522984"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWJaYTMgsTFZ2vY8LJA9ZEHj1SWYy5JPthMaxjBvTTt39u"
+  ],
+  "status": "active",
+  "website": "https://www.fake09.com"
+}

@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
+  "displayName": "nop12",
+  "nodeAddress": [
+    "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+  ],
+  "ocrConfigPublicKey": [
+    "b0b5da18ed65b67f4777606b06a12d23ba1194f1bdcf223bcf5c4d9a78f75554"
+  ],
+  "ocrNodeAddress": [
+    "0x9DAD9411e5fE9858AB8029E7022e298Fbbd12332"
+  ],
+  "ocrOffchainPublicKey": [
+    "36f232735b19d4a8877c51752df489192ba10f651512e966d690ba2311a3e491"
+  ],
+  "ocrSigningAddress": [
+    "0x2dEbEF021E40cC77d0D734bF9208aA1019Fbd324"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWKF5bKJBJFjNZ25VqvMk8Q2pgLzLKwt2gUK9TwWouHCgz"
+  ],
+  "status": "active",
+  "website": "https://www.fake12.com"
+}

@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
+  "displayName": "dexNop13",
+  "nodeAddress": [
+    "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+  ],
+  "ocrConfigPublicKey": [
+    "79f9c3e91e32754608222be958f1c9efba2fae98a5fc9ed360b9c202b3071b1d"
+  ],
+  "ocrNodeAddress": [
+    "0x50f31c695e9DD5Bc0b4ca534E34935617Dc244E0"
+  ],
+  "ocrOffchainPublicKey": [
+    "e6b022af05d04f6c780cf80e3d86a1d479bc70876bd4a37423d5f2ea0cc28b66"
+  ],
+  "ocrSigningAddress": [
+    "0x9551019148755fB7ceD539C13766DAc215020802"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWB6RmdWxitqPjGVgLtRmuPMzZmZPjRuGmyMcKMhTdvdPX"
+  ],
+  "status": "active",
+  "website": "https://www.fake13.com"
+}
