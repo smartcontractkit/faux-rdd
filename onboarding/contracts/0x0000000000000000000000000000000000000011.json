@@ -8,7 +8,7 @@
   },
   "config": {
     "badEpochTimeout": "35s",
-    "maxContractValueAge": "1h",
+    "maxContractValueAge": "5m",
     "maxFaultyNodeCount": 3,
     "maxRoundCount": 6,
     "observationGracePeriod": "12s",
