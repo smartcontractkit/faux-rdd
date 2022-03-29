@@ -768,6 +768,18 @@
     "csaKeys": null
   },
   {
+    "id": "splunk",
+    "website": "",
+    "name": "Splunk",
+    "status": "active",
+    "nodeAddress": [
+      "0x6d2BBe0dC828B248fce2C634AFBcA716bc89C65f",
+      "0x6d2BBe0dC828B248fce2C634AFBcA716bc89C65f"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
     "id": "stakemachine",
     "website": "https://www.stakemachine.net",
     "name": "StakeMachine",
@@ -834,6 +846,18 @@
     "nodeAddress": [
       "0x238aF39f84716aAd5887b539d616a65E094a9613",
       "0x238aF39f84716aAd5887b539d616a65E094a9613"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "virginMedia",
+    "website": "https://www.fake.com",
+    "name": "Virgin Media",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000040",
+      "0xf4e6023B7a19cFE246C69f2df5a4814a8f50164c"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null

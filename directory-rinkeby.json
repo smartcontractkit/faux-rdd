@@ -5851,6 +5851,32 @@
       "status": "active",
       "website": "https://www.raftel.io"
     },
+    "splunk": {
+      "adminAddress": "0xF53F722BD2CD82c725C753D080b639d53A507044",
+      "displayName": "Splunk",
+      "githubUsernames": [
+        "test"
+      ],
+      "nodeAddress": [
+        "0x6d2BBe0dC828B248fce2C634AFBcA716bc89C65f"
+      ],
+      "ocrConfigPublicKey": [
+        "cd76366f14d9f51181d17a933f06efb5820a29854003571eae802f7cd0f34c62"
+      ],
+      "ocrNodeAddress": [
+        "0x6d2BBe0dC828B248fce2C634AFBcA716bc89C65f"
+      ],
+      "ocrOffchainPublicKey": [
+        "aaa8654b81b54bead91d576268bf45222f434f5fecb0c1eb7f88f3226f65f319"
+      ],
+      "ocrSigningAddress": [
+        "0x15Ee9A077346Eb82E89334d097CD81d4579f45BD"
+      ],
+      "peerId": [
+        "12D3KooWFKCR57KYDZVGKkvd2AGicFTFR3KXbB2oXBPewKyS882N"
+      ],
+      "status": "active"
+    },
     "stakemachine": {
       "adminAddress": "0xe1E81e694e5c05881f8d758B7fC8D3096EfC0B3F",
       "displayName": "StakeMachine",
@@ -5972,6 +5998,31 @@
       ],
       "status": "active",
       "website": "https://www.throbaclabs.io"
+    },
+    "virginMedia": {
+      "adminAddress": "0x3F656fb62153aa244b74A7358FBDcA0CA366D841",
+      "displayName": "Virgin Media",
+      "nodeAddress": [
+        "0x0000000000000000000000000000000000000040"
+      ],
+      "ocrConfigPublicKey": [
+        "1111111111111111111111111111111111111111111111111111111111111111"
+      ],
+      "ocrNodeAddress": [
+        "0xf4e6023B7a19cFE246C69f2df5a4814a8f50164c"
+      ],
+      "ocrOffchainPublicKey": [
+        "1111111111111111111111111111111111111111111111111111111111111111"
+      ],
+      "ocrSigningAddress": [
+        "0x4000000000000000000000000000000000000001"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3K11111111111111111111111111111111111111111111111"
+      ],
+      "status": "active",
+      "website": "https://www.fake.com"
     }
   },
   "proxies": {
