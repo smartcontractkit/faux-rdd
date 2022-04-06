@@ -72,8 +72,8 @@
         ]
       },
       {
-        "name": "nop07",
-        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "name": "pwc",
+        "address": "0x0000000000000000000000000000000000000040",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -81,8 +81,8 @@
         ]
       },
       {
-        "name": "pwc",
-        "address": "0x0000000000000000000000000000000000000040",
+        "name": "splunk",
+        "address": "0x6d2BBe0dC828B248fce2C634AFBcA716bc89C65f",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -179,8 +179,8 @@
         ]
       },
       {
-        "name": "nop07",
-        "address": "0x29acA3ed90f88b2aC2DB76EAc875F8340c62f705",
+        "name": "pwc",
+        "address": "0x0000000000000000000000000000000000000040",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -188,8 +188,8 @@
         ]
       },
       {
-        "name": "pwc",
-        "address": "0x0000000000000000000000000000000000000040",
+        "name": "splunk",
+        "address": "0x6d2BBe0dC828B248fce2C634AFBcA716bc89C65f",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",

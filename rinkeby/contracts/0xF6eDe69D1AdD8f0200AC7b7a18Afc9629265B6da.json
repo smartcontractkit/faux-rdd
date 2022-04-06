@@ -103,7 +103,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "nop07"
+      "operator": "splunk"
     },
     {
       "api": [
