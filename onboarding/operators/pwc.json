@@ -1,0 +1,25 @@
+{
+  "adminAddress": "0x25Da0a6bF959e6A2719cEAAc3f604872C308F7df",
+  "displayName": "pwc",
+  "nodeAddress": [
+    "0x0000000000000000000000000000000000000040"
+  ],
+  "ocrConfigPublicKey": [
+    "e44a75d285ff783ed09f7f1ef6fc3c2cfb7c9049c00f8aa555c321f17e0ff776"
+  ],
+  "ocrNodeAddress": [
+    "0xa13E2133860d63d3Da993e1a92DA96A69694B1d2"
+  ],
+  "ocrOffchainPublicKey": [
+    "5416410756cf7423e84cef3f83e58e5532e27248d68568da11ef095a480409b5"
+  ],
+  "ocrSigningAddress": [
+    "0x83450CF234017525e365A08598262632B89B19aC"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWGvHfiwt8pZbfb4Gn1omThkphphKCVd1SFhqbzj6LBKJZ"
+  ],
+  "status": "active",
+  "website": "https://www.fake.com"
+}

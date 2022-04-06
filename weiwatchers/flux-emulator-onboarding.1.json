@@ -1,0 +1,216 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000013",
+    "name": "LUNA / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "LUNA",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "dexNop01",
+        "address": "0x87365c86F404951E0ee841d47541206efefbC81f",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop02",
+        "address": "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop03",
+        "address": "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop04",
+        "address": "0x7d739dd659C8050Ed98769AD4442695Fa39389b9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop05",
+        "address": "0x1647051AD23b87D3B1488568C220308315Fd5cEb",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop06",
+        "address": "0x31618A95adBAdAEB960647D13ef45209c27dC05C",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop07",
+        "address": "0x25dE753428c48D38F826c56220BD263dCE45b3A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop08",
+        "address": "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop09",
+        "address": "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "munichRe",
+        "address": "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "luna-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000012",
+    "name": "XRP / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "XRP",
+      "to": "USD"
+    },
+    "nodes": [
+      {
+        "name": "dexNop01",
+        "address": "0x87365c86F404951E0ee841d47541206efefbC81f",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop02",
+        "address": "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop03",
+        "address": "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop04",
+        "address": "0x7d739dd659C8050Ed98769AD4442695Fa39389b9",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop05",
+        "address": "0x1647051AD23b87D3B1488568C220308315Fd5cEb",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop06",
+        "address": "0x31618A95adBAdAEB960647D13ef45209c27dC05C",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop07",
+        "address": "0x25dE753428c48D38F826c56220BD263dCE45b3A3",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop08",
+        "address": "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "dexNop09",
+        "address": "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      },
+      {
+        "name": "munichRe",
+        "address": "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6",
+        "dataProviders": [
+          "dataSource",
+          "dataSource",
+          "dataSource"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "xrp-usd",
+    "status": "testing",
+    "category": "undefined"
+  }
+]

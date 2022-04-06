@@ -3,4 +3,5 @@ set -e
 
 # rddtool validate kovan directory-kovan.json
 rddtool validate rinkeby directory-rinkeby.json
+rddtool validate onboarding directory-onboarding.json
 rddtool validate polygon-mumbai directory-polygon-mumbai.json

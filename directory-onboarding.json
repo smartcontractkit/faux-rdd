@@ -565,7 +565,7 @@
       },
       "config": {
         "badEpochTimeout": "35s",
-        "maxContractValueAge": "5m",
+        "maxContractValueAge": "1h",
         "maxFaultyNodeCount": 3,
         "maxRoundCount": 6,
         "observationGracePeriod": "12s",
@@ -608,83 +608,83 @@
       "oracles": [
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop01"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop02"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop03"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop04"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop05"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop06"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "dexNop07"
+          "operator": "splunk"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop08"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop09"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "munichRe"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "virgin"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "pwc"
         }
       ],
       "status": "testing",
@@ -700,7 +700,7 @@
       },
       "config": {
         "badEpochTimeout": "35s",
-        "maxContractValueAge": "5m",
+        "maxContractValueAge": "1h",
         "maxFaultyNodeCount": 3,
         "maxRoundCount": 6,
         "observationGracePeriod": "12s",
@@ -735,7 +735,7 @@
           "ADA",
           "USD"
         ],
-        "path": "ada-usd"
+        "path": "ada-usd-test"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -743,83 +743,83 @@
       "oracles": [
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop01"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop02"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop03"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop04"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop05"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "dexNop06"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
-          "operator": "dexNop07"
+          "operator": "splunk"
         },
         {
           "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop08"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop09"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
           ],
           "operator": "munichRe"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "virgin"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "pwc"
         }
       ],
       "status": "testing",
@@ -1199,6 +1199,82 @@
         "12D3KooWBoGNg6ZbuLqStmfA4dmb7NnSkiLDENv4C1AfMZPHn3td"
       ],
       "status": "active"
+    },
+    "pwc": {
+      "adminAddress": "0x25Da0a6bF959e6A2719cEAAc3f604872C308F7df",
+      "displayName": "pwc",
+      "nodeAddress": [
+        "0x0000000000000000000000000000000000000040"
+      ],
+      "ocrConfigPublicKey": [
+        "e44a75d285ff783ed09f7f1ef6fc3c2cfb7c9049c00f8aa555c321f17e0ff776"
+      ],
+      "ocrNodeAddress": [
+        "0xa13E2133860d63d3Da993e1a92DA96A69694B1d2"
+      ],
+      "ocrOffchainPublicKey": [
+        "5416410756cf7423e84cef3f83e58e5532e27248d68568da11ef095a480409b5"
+      ],
+      "ocrSigningAddress": [
+        "0x83450CF234017525e365A08598262632B89B19aC"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWGvHfiwt8pZbfb4Gn1omThkphphKCVd1SFhqbzj6LBKJZ"
+      ],
+      "status": "active",
+      "website": "https://www.fake.com"
+    },
+    "splunk": {
+      "adminAddress": "0xF53F722BD2CD82c725C753D080b639d53A507044",
+      "displayName": "Splunk",
+      "githubUsernames": [
+        "test"
+      ],
+      "nodeAddress": [
+        "0x6d2BBe0dC828B248fce2C634AFBcA716bc89C65f"
+      ],
+      "ocrConfigPublicKey": [
+        "cd76366f14d9f51181d17a933f06efb5820a29854003571eae802f7cd0f34c62"
+      ],
+      "ocrNodeAddress": [
+        "0x6d2BBe0dC828B248fce2C634AFBcA716bc89C65f"
+      ],
+      "ocrOffchainPublicKey": [
+        "aaa8654b81b54bead91d576268bf45222f434f5fecb0c1eb7f88f3226f65f319"
+      ],
+      "ocrSigningAddress": [
+        "0x15Ee9A077346Eb82E89334d097CD81d4579f45BD"
+      ],
+      "peerId": [
+        "12D3KooWFKCR57KYDZVGKkvd2AGicFTFR3KXbB2oXBPewKyS882N"
+      ],
+      "status": "active"
+    },
+    "virgin": {
+      "adminAddress": "0x3F656fb62153aa244b74A7358FBDcA0CA366D841",
+      "displayName": "Virgin Media",
+      "nodeAddress": [
+        "0x0000000000000000000000000000000000000040"
+      ],
+      "ocrConfigPublicKey": [
+        "bcba0d09496cdc3fa26ec9881f6c0b0bd3081772d850b70e1e8b82d83f35fc73"
+      ],
+      "ocrNodeAddress": [
+        "0xf4e6023B7a19cFE246C69f2df5a4814a8f50164c"
+      ],
+      "ocrOffchainPublicKey": [
+        "14db35906e4bf2916b378b5464ecc77ec54b6b4772fd618ab4887abf1e3a3972"
+      ],
+      "ocrSigningAddress": [
+        "0xa687A6DBcbC4CD1ceaE38aDBFD32C4757E718DBF"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWQTDDtwjKSZHYK2V8BYiTumDbX5pdWgXXrBaK5k8JCfT7"
+      ],
+      "status": "active",
+      "website": "https://www.fake.com"
     }
   },
   "proxies": {}

@@ -1,0 +1,104 @@
+[
+  {
+    "contractAddress": "0x0000000000000000000000000000000000000012",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 300,
+    "history": false,
+    "multiply": "100000000",
+    "name": "XRP / USD",
+    "symbol": "",
+    "pair": [
+      "XRP",
+      "USD"
+    ],
+    "path": "xrp-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x0000000000000000000000000000000000000013",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 300,
+    "history": false,
+    "multiply": "100000000",
+    "name": "LUNA / USD",
+    "symbol": "",
+    "pair": [
+      "LUNA",
+      "USD"
+    ],
+    "path": "luna-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x0000000000000000000000000000000000000014",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 300,
+    "history": false,
+    "multiply": "100000000",
+    "name": "AVAX / USD",
+    "symbol": "",
+    "pair": [
+      "AVAX",
+      "USD"
+    ],
+    "path": "avax-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x0000000000000000000000000000000000000015",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 300,
+    "history": false,
+    "multiply": "100000000",
+    "name": "ATOM / USD",
+    "symbol": "",
+    "pair": [
+      "ATOM",
+      "USD"
+    ],
+    "path": "atom-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x98ee6Dc8BceF5e83fA400f7761577F58Eb2c670a",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "BNB / USD",
+    "symbol": "",
+    "pair": [
+      "BNB",
+      "USD"
+    ],
+    "path": "bnb-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xF6eDe69D1AdD8f0200AC7b7a18Afc9629265B6da",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "ADA / USD",
+    "symbol": "",
+    "pair": [
+      "ADA",
+      "USD"
+    ],
+    "path": "ada-usd-test",
+    "nodeCount": 10,
+    "status": "testing"
+  }
+]

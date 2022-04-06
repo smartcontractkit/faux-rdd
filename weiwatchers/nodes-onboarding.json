@@ -1,0 +1,218 @@
+[
+  {
+    "id": "dexNop00",
+    "website": "https://www.fake00.com",
+    "name": "dexNop00",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0xb0E368D5981c0da9349a31bf8401eBB66B019190"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop01",
+    "website": "https://www.fake01.com",
+    "name": "dexNop01",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x87365c86F404951E0ee841d47541206efefbC81f"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop02",
+    "website": "https://www.fake02.com",
+    "name": "dexNop02",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop03",
+    "website": "https://www.fake03.com",
+    "name": "dexNop03",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop04",
+    "website": "https://www.fake04.com",
+    "name": "dexNop04",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x7d739dd659C8050Ed98769AD4442695Fa39389b9"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop05",
+    "website": "https://www.fake05.com",
+    "name": "dexNop05",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x1647051AD23b87D3B1488568C220308315Fd5cEb"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop06",
+    "website": "https://www.fake06.com",
+    "name": "dexNop06",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x31618A95adBAdAEB960647D13ef45209c27dC05C"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop07",
+    "website": "https://www.fake07.com",
+    "name": "dexNop07",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x25dE753428c48D38F826c56220BD263dCE45b3A3"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop08",
+    "website": "https://www.fake08.com",
+    "name": "dexNop08",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop09",
+    "website": "https://www.fake09.com",
+    "name": "dexNop09",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop10",
+    "website": "https://www.fake10.com",
+    "name": "dexNop10",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x4D2eb498005b0D87ee14DEf86822e3403eEE6807"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop11",
+    "website": "https://www.fake11.com",
+    "name": "dexNop11",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x40e5ab7517817746655098bec5E3de21Fe47948f"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop12",
+    "website": "https://www.fake12.com",
+    "name": "nop12",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x9DAD9411e5fE9858AB8029E7022e298Fbbd12332"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "dexNop13",
+    "website": "https://www.fake13.com",
+    "name": "dexNop13",
+    "status": "active",
+    "nodeAddress": [
+      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x50f31c695e9DD5Bc0b4ca534E34935617Dc244E0"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "munichRe",
+    "website": "",
+    "name": "muinch.re",
+    "status": "active",
+    "nodeAddress": [
+      "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6",
+      "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "pwc",
+    "website": "https://www.fake.com",
+    "name": "pwc",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000040",
+      "0xa13E2133860d63d3Da993e1a92DA96A69694B1d2"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "splunk",
+    "website": "",
+    "name": "Splunk",
+    "status": "active",
+    "nodeAddress": [
+      "0x6d2BBe0dC828B248fce2C634AFBcA716bc89C65f",
+      "0x6d2BBe0dC828B248fce2C634AFBcA716bc89C65f"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
+    "id": "virgin",
+    "website": "https://www.fake.com",
+    "name": "Virgin Media",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000040",
+      "0xf4e6023B7a19cFE246C69f2df5a4814a8f50164c"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  }
+]

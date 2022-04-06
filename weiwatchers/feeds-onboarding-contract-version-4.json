@@ -1,0 +1,134 @@
+[
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x0000000000000000000000000000000000000012",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 300,
+    "history": true,
+    "multiply": "100000000",
+    "name": "XRP / USD",
+    "pair": [
+      "XRP",
+      "USD"
+    ],
+    "path": "xrp-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x0000000000000000000000000000000000000013",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 300,
+    "history": true,
+    "multiply": "100000000",
+    "name": "LUNA / USD",
+    "pair": [
+      "LUNA",
+      "USD"
+    ],
+    "path": "luna-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x0000000000000000000000000000000000000014",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 300,
+    "history": true,
+    "multiply": "100000000",
+    "name": "AVAX / USD",
+    "pair": [
+      "AVAX",
+      "USD"
+    ],
+    "path": "avax-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x0000000000000000000000000000000000000015",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 300,
+    "history": true,
+    "multiply": "100000000",
+    "name": "ATOM / USD",
+    "pair": [
+      "ATOM",
+      "USD"
+    ],
+    "path": "atom-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x98ee6Dc8BceF5e83fA400f7761577F58Eb2c670a",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "BNB / USD",
+    "pair": [
+      "BNB",
+      "USD"
+    ],
+    "path": "bnb-usd",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0xF6eDe69D1AdD8f0200AC7b7a18Afc9629265B6da",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": true,
+    "multiply": "100000000",
+    "name": "ADA / USD",
+    "pair": [
+      "ADA",
+      "USD"
+    ],
+    "path": "ada-usd-test",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  }
+]
