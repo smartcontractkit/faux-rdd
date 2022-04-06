@@ -2715,6 +2715,141 @@
       "status": "testing",
       "validator": "0x0000000000000000000000000000000000000000"
     },
+    "0x98ee6Dc8BceF5e83fA400f7761577F58Eb2c670a": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "10",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "300"
+      },
+      "config": {
+        "badEpochTimeout": "35s",
+        "maxContractValueAge": "1h",
+        "maxFaultyNodeCount": 3,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "12s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "30s",
+        "transmissionStageTimeout": "60s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "BNB",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "BNB",
+          "USD"
+        ],
+        "path": "bnb-usd"
+      },
+      "maxSubmissionValue": "1000000000000000",
+      "minSubmissionValue": "100",
+      "name": "BNB / USD",
+      "oracles": [
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop01"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop02"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop03"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop04"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop05"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop06"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop07"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "munichRe"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "virgin"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "pwc"
+        }
+      ],
+      "status": "testing",
+      "validator": "0x0000000000000000000000000000000000000000"
+    },
     "0xC08C7B3c71AE19C2715B4903585577A20AB5fA31": {
       "billing": {
         "maxGasPriceGwei": "2000",
@@ -3165,7 +3300,7 @@
           "BNB",
           "USD"
         ],
-        "path": "bnb-usd"
+        "path": "bnb-usd-00"
       },
       "maxSubmissionValue": "1000000000000000",
       "minSubmissionValue": "100",
@@ -3385,6 +3520,141 @@
             "dataSource"
           ],
           "operator": "nop10"
+        }
+      ],
+      "status": "testing",
+      "validator": "0x0000000000000000000000000000000000000000"
+    },
+    "0xF6eDe69D1AdD8f0200AC7b7a18Afc9629265B6da": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "10",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "300"
+      },
+      "config": {
+        "badEpochTimeout": "35s",
+        "maxContractValueAge": "1h",
+        "maxFaultyNodeCount": 3,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "12s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "30s",
+        "transmissionStageTimeout": "60s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "ADA",
+        "to": "USD"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "ADA",
+          "USD"
+        ],
+        "path": "ada-usd-test"
+      },
+      "maxSubmissionValue": "1000000000000000",
+      "minSubmissionValue": "100",
+      "name": "ADA / USD",
+      "oracles": [
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop01"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop02"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop03"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop04"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop05"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop06"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "nop07"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "munichRe"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "virgin"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "pwc"
         }
       ],
       "status": "testing",
@@ -5826,6 +6096,31 @@
       "status": "active",
       "website": "http://www.polychains.io/"
     },
+    "pwc": {
+      "adminAddress": "0x0000000000000000000000000000000000000040",
+      "displayName": "nop40",
+      "nodeAddress": [
+        "0x0000000000000000000000000000000000000040"
+      ],
+      "ocrConfigPublicKey": [
+        "1111111111111111111111111111111111111111111111111111111111111111"
+      ],
+      "ocrNodeAddress": [
+        "0x0000000000000000000000000000000000000040"
+      ],
+      "ocrOffchainPublicKey": [
+        "1111111111111111111111111111111111111111111111111111111111111111"
+      ],
+      "ocrSigningAddress": [
+        "0x4000000000000000000000000000000000000001"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3K11111111111111111111111111111111111111111111111"
+      ],
+      "status": "active",
+      "website": "https://www.fake.com"
+    },
     "raftel": {
       "adminAddress": "0x2eeDA7BEa0E26284b8DeffAd2A8911E985426F8A",
       "displayName": "Raftel",
@@ -5999,27 +6294,27 @@
       "status": "active",
       "website": "https://www.throbaclabs.io"
     },
-    "virginMedia": {
+    "virgin": {
       "adminAddress": "0x3F656fb62153aa244b74A7358FBDcA0CA366D841",
       "displayName": "Virgin Media",
       "nodeAddress": [
         "0x0000000000000000000000000000000000000040"
       ],
       "ocrConfigPublicKey": [
-        "1111111111111111111111111111111111111111111111111111111111111111"
+        "bcba0d09496cdc3fa26ec9881f6c0b0bd3081772d850b70e1e8b82d83f35fc73"
       ],
       "ocrNodeAddress": [
         "0xf4e6023B7a19cFE246C69f2df5a4814a8f50164c"
       ],
       "ocrOffchainPublicKey": [
-        "1111111111111111111111111111111111111111111111111111111111111111"
+        "14db35906e4bf2916b378b5464ecc77ec54b6b4772fd618ab4887abf1e3a3972"
       ],
       "ocrSigningAddress": [
-        "0x4000000000000000000000000000000000000001"
+        "0xa687A6DBcbC4CD1ceaE38aDBFD32C4757E718DBF"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
-        "12D3K11111111111111111111111111111111111111111111111"
+        "12D3KooWQTDDtwjKSZHYK2V8BYiTumDbX5pdWgXXrBaK5k8JCfT7"
       ],
       "status": "active",
       "website": "https://www.fake.com"

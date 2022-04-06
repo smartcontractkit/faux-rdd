@@ -756,6 +756,18 @@
     "csaKeys": null
   },
   {
+    "id": "pwc",
+    "website": "https://www.fake.com",
+    "name": "nop40",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000040",
+      "0x0000000000000000000000000000000000000040"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
     "id": "raftel",
     "website": "https://www.raftel.io",
     "name": "Raftel",
@@ -851,7 +863,7 @@
     "csaKeys": null
   },
   {
-    "id": "virginMedia",
+    "id": "virgin",
     "website": "https://www.fake.com",
     "name": "Virgin Media",
     "status": "active",

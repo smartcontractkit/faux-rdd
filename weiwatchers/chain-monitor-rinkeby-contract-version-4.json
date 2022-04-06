@@ -340,6 +340,23 @@
     "status": "testing"
   },
   {
+    "contractAddress": "0x98ee6Dc8BceF5e83fA400f7761577F58Eb2c670a",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "BNB / USD",
+    "symbol": "",
+    "pair": [
+      "BNB",
+      "USD"
+    ],
+    "path": "bnb-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
     "contractAddress": "0xC08C7B3c71AE19C2715B4903585577A20AB5fA31",
     "contractVersion": 4,
     "decimalPlaces": 3,
@@ -403,7 +420,7 @@
       "BNB",
       "USD"
     ],
-    "path": "bnb-usd",
+    "path": "bnb-usd-00",
     "nodeCount": 10,
     "status": "testing"
   },
@@ -421,6 +438,23 @@
       "USD"
     ],
     "path": "bch-usd",
+    "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xF6eDe69D1AdD8f0200AC7b7a18Afc9629265B6da",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "100000000",
+    "name": "ADA / USD",
+    "symbol": "",
+    "pair": [
+      "ADA",
+      "USD"
+    ],
+    "path": "ada-usd-test",
     "nodeCount": 10,
     "status": "testing"
   },
