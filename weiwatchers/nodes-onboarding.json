@@ -17,7 +17,7 @@
     "name": "dexNop01",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x87365c86F404951E0ee841d47541206efefbC81f",
       "0x87365c86F404951E0ee841d47541206efefbC81f"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -29,7 +29,7 @@
     "name": "dexNop02",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228",
       "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -41,7 +41,7 @@
     "name": "dexNop03",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
       "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -53,7 +53,7 @@
     "name": "dexNop04",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x7d739dd659C8050Ed98769AD4442695Fa39389b9",
       "0x7d739dd659C8050Ed98769AD4442695Fa39389b9"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -65,7 +65,7 @@
     "name": "dexNop05",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x1647051AD23b87D3B1488568C220308315Fd5cEb",
       "0x1647051AD23b87D3B1488568C220308315Fd5cEb"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -77,7 +77,7 @@
     "name": "dexNop06",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x31618A95adBAdAEB960647D13ef45209c27dC05C",
       "0x31618A95adBAdAEB960647D13ef45209c27dC05C"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -89,7 +89,7 @@
     "name": "dexNop07",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x25dE753428c48D38F826c56220BD263dCE45b3A3",
       "0x25dE753428c48D38F826c56220BD263dCE45b3A3"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -101,7 +101,7 @@
     "name": "dexNop08",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6",
       "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -113,7 +113,7 @@
     "name": "dexNop09",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D",
       "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -125,7 +125,7 @@
     "name": "dexNop10",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x4D2eb498005b0D87ee14DEf86822e3403eEE6807",
       "0x4D2eb498005b0D87ee14DEf86822e3403eEE6807"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -137,7 +137,7 @@
     "name": "dexNop11",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x40e5ab7517817746655098bec5E3de21Fe47948f",
       "0x40e5ab7517817746655098bec5E3de21Fe47948f"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -149,7 +149,7 @@
     "name": "nop12",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x9DAD9411e5fE9858AB8029E7022e298Fbbd12332",
       "0x9DAD9411e5fE9858AB8029E7022e298Fbbd12332"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -161,7 +161,7 @@
     "name": "dexNop13",
     "status": "active",
     "nodeAddress": [
-      "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+      "0x50f31c695e9DD5Bc0b4ca534E34935617Dc244E0",
       "0x50f31c695e9DD5Bc0b4ca534E34935617Dc244E0"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
@@ -185,7 +185,7 @@
     "name": "pwc",
     "status": "active",
     "nodeAddress": [
-      "0x0000000000000000000000000000000000000040",
+      "0xa13E2133860d63d3Da993e1a92DA96A69694B1d2",
       "0xa13E2133860d63d3Da993e1a92DA96A69694B1d2"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",

@@ -943,7 +943,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop01",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x87365c86F404951E0ee841d47541206efefbC81f"
       ],
       "ocrConfigPublicKey": [
         "0ca51f9b7ad00113335f40db9e1c5f1274b512fd10f0e4fd2c427ed9325b0e49"
@@ -968,7 +968,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop02",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228"
       ],
       "ocrConfigPublicKey": [
         "89cc9a8ee659943ac375266c1eca0bfc319fc99a85c517300f948a9aeef7a539"
@@ -993,7 +993,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop03",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d"
       ],
       "ocrConfigPublicKey": [
         "741ed1a7ded24cd748eaee596ebe4770c377296ea0272f434d51508ab335cc37"
@@ -1018,7 +1018,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop04",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x7d739dd659C8050Ed98769AD4442695Fa39389b9"
       ],
       "ocrConfigPublicKey": [
         "bbc9cbee53ec9faabae1ded325a786cac55abcfbceb2924f981bcb26fc61817d"
@@ -1043,7 +1043,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop05",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x1647051AD23b87D3B1488568C220308315Fd5cEb"
       ],
       "ocrConfigPublicKey": [
         "0af59f015b7de9ef1ed2da4282603e60c2bc508f343b21095eba30457dea6c44"
@@ -1068,7 +1068,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop06",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x31618A95adBAdAEB960647D13ef45209c27dC05C"
       ],
       "ocrConfigPublicKey": [
         "ac243317696c1f147090826b428910f6f103b6bd4ff975a97e240dbcc5ce066b"
@@ -1093,7 +1093,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop07",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x25dE753428c48D38F826c56220BD263dCE45b3A3"
       ],
       "ocrConfigPublicKey": [
         "abe202e193816bb78d7e5d2489034548c744f1a7811707e84a48d2e739e2b82d"
@@ -1118,7 +1118,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop08",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6"
       ],
       "ocrConfigPublicKey": [
         "156c8c02669de1d506d89f033e39ff7ff864d1c4c0f19bd24948ff1b2a115c5d"
@@ -1143,7 +1143,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop09",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D"
       ],
       "ocrConfigPublicKey": [
         "7411832fc0bb390c587d1ccbf85f25ec836327d2f9fe4f8b859f2cb6cb824813"
@@ -1168,7 +1168,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop10",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x4D2eb498005b0D87ee14DEf86822e3403eEE6807"
       ],
       "ocrConfigPublicKey": [
         "c0bc9e7220f40119b7830f5c36212e0d20d9ae8a7d71f2ff6ae44296344b077c"
@@ -1193,7 +1193,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop11",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x40e5ab7517817746655098bec5E3de21Fe47948f"
       ],
       "ocrConfigPublicKey": [
         "bc0e2b8b57818669088a7b98481d50c8a7d562218d7e8ac78098cd9dc937ca7b"
@@ -1218,7 +1218,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "nop12",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x9DAD9411e5fE9858AB8029E7022e298Fbbd12332"
       ],
       "ocrConfigPublicKey": [
         "b0b5da18ed65b67f4777606b06a12d23ba1194f1bdcf223bcf5c4d9a78f75554"
@@ -1243,7 +1243,7 @@
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
       "displayName": "dexNop13",
       "nodeAddress": [
-        "0x5eCBac369f866Ee922091242A728c11F9A5d0897"
+        "0x50f31c695e9DD5Bc0b4ca534E34935617Dc244E0"
       ],
       "ocrConfigPublicKey": [
         "79f9c3e91e32754608222be958f1c9efba2fae98a5fc9ed360b9c202b3071b1d"
@@ -1291,7 +1291,7 @@
       "adminAddress": "0x25Da0a6bF959e6A2719cEAAc3f604872C308F7df",
       "displayName": "pwc",
       "nodeAddress": [
-        "0x0000000000000000000000000000000000000040"
+        "0xa13E2133860d63d3Da993e1a92DA96A69694B1d2"
       ],
       "ocrConfigPublicKey": [
         "e44a75d285ff783ed09f7f1ef6fc3c2cfb7c9049c00f8aa555c321f17e0ff776"
