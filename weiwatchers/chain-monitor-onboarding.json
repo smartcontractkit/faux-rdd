@@ -1,22 +1,5 @@
 [
   {
-    "contractAddress": "0x0000000000000000000000000000000000000000",
-    "contractVersion": 3,
-    "decimalPlaces": 9,
-    "heartbeat": 3600,
-    "history": false,
-    "multiply": "1000000000000000000",
-    "name": "BAYC / ETH",
-    "symbol": "Ξ",
-    "pair": [
-      "BAYC",
-      "ETH"
-    ],
-    "path": "bayc-eth-fm",
-    "nodeCount": 9,
-    "status": "testing"
-  },
-  {
     "contractAddress": "0x0000000000000000000000000000000000000012",
     "contractVersion": 4,
     "decimalPlaces": 3,
@@ -82,6 +65,23 @@
     ],
     "path": "atom-usd",
     "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0x83ccea6a79Cb210DdA484714eCe229fAAB4CE9b4",
+    "contractVersion": 3,
+    "decimalPlaces": 9,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "1000000000000000000",
+    "name": "BAYC / ETH",
+    "symbol": "Ξ",
+    "pair": [
+      "BAYC",
+      "ETH"
+    ],
+    "path": "bayc-eth-fm",
+    "nodeCount": 9,
     "status": "testing"
   },
   {
