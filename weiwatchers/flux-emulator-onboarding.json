@@ -321,6 +321,87 @@
     "category": "undefined"
   },
   {
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "BAYC / ETH",
+    "contractVersion": 3,
+    "data": {
+      "from": "BAYC",
+      "to": "ETH"
+    },
+    "nodes": [
+      {
+        "name": "dexNop01",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "oracledrops"
+        ]
+      },
+      {
+        "name": "dexNop02",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "oracledrops"
+        ]
+      },
+      {
+        "name": "dexNop03",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "oracledrops"
+        ]
+      },
+      {
+        "name": "dexNop04",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "oracledrops"
+        ]
+      },
+      {
+        "name": "dexNop05",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "oracledrops"
+        ]
+      },
+      {
+        "name": "dexNop06",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "oracledrops"
+        ]
+      },
+      {
+        "name": "dexNop07",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "oracledrops"
+        ]
+      },
+      {
+        "name": "dexNop08",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "oracledrops"
+        ]
+      },
+      {
+        "name": "dexNop09",
+        "address": "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
+        "dataProviders": [
+          "oracledrops"
+        ]
+      }
+    ],
+    "precision": 18,
+    "deviationThreshold": 1,
+    "heartbeat": 3600,
+    "symbol": "Ξ",
+    "path": "bayc-eth-fm",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
     "address": "0x98ee6Dc8BceF5e83fA400f7761577F58Eb2c670a",
     "name": "BNB / USD",
     "contractVersion": 4,

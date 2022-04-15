@@ -1,0 +1,24 @@
+[
+  {
+    "compareOffchain": "",
+    "contractAddress": "0x0000000000000000000000000000000000000000",
+    "contractType": "flux-aggregator",
+    "contractVersion": 3,
+    "decimalPlaces": 9,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "1000000000000000000",
+    "name": "BAYC / ETH",
+    "pair": [
+      "BAYC",
+      "ETH"
+    ],
+    "path": "bayc-eth-fm",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": "Ξ"
+  }
+]

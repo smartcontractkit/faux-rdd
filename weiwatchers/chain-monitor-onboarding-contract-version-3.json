@@ -1,0 +1,19 @@
+[
+  {
+    "contractAddress": "0x0000000000000000000000000000000000000000",
+    "contractVersion": 3,
+    "decimalPlaces": 9,
+    "heartbeat": 3600,
+    "history": false,
+    "multiply": "1000000000000000000",
+    "name": "BAYC / ETH",
+    "symbol": "Ξ",
+    "pair": [
+      "BAYC",
+      "ETH"
+    ],
+    "path": "bayc-eth-fm",
+    "nodeCount": 9,
+    "status": "testing"
+  }
+]

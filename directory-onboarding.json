@@ -12,9 +12,96 @@
     "dataSource": {},
     "ncfx": {},
     "nomics": {},
+    "oracledrops": {},
     "tiingo": {}
   },
   "contracts": {
+    "0x0000000000000000000000000000000000000000": {
+      "contractVersion": 3,
+      "decimals": 18,
+      "deviationThreshold": 1,
+      "externalAdapterRequestParams": {
+        "from": "BAYC",
+        "to": "ETH"
+      },
+      "heartbeat": "1h",
+      "marketing": {
+        "decimalPlaces": 9,
+        "formatDecimalPlaces": 0,
+        "history": false,
+        "pair": [
+          "BAYC",
+          "ETH"
+        ],
+        "path": "bayc-eth-fm",
+        "symbol": "Ξ"
+      },
+      "maxSubmissionValue": "100000000000000000000000000",
+      "minSubmissionValue": "100",
+      "minimumAnswers": 5,
+      "name": "BAYC / ETH",
+      "oracles": [
+        {
+          "api": [
+            "oracledrops"
+          ],
+          "operator": "dexNop01"
+        },
+        {
+          "api": [
+            "oracledrops"
+          ],
+          "operator": "dexNop02"
+        },
+        {
+          "api": [
+            "oracledrops"
+          ],
+          "operator": "dexNop03"
+        },
+        {
+          "api": [
+            "oracledrops"
+          ],
+          "operator": "dexNop04"
+        },
+        {
+          "api": [
+            "oracledrops"
+          ],
+          "operator": "dexNop05"
+        },
+        {
+          "api": [
+            "oracledrops"
+          ],
+          "operator": "dexNop06"
+        },
+        {
+          "api": [
+            "oracledrops"
+          ],
+          "operator": "dexNop07"
+        },
+        {
+          "api": [
+            "oracledrops"
+          ],
+          "operator": "dexNop08"
+        },
+        {
+          "api": [
+            "oracledrops"
+          ],
+          "operator": "dexNop09"
+        }
+      ],
+      "payment": "10000000",
+      "pollingInterval": "1m",
+      "restartDelay": 3,
+      "roundTimeout": "172800",
+      "status": "testing"
+    },
     "0x0000000000000000000000000000000000000012": {
       "billing": {
         "maxGasPriceGwei": "2000",
