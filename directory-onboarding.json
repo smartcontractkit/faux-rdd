@@ -739,7 +739,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "dexNop06"
+          "operator": "orionMoney"
         },
         {
           "api": [
