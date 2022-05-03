@@ -874,7 +874,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "dexNop06"
+          "operator": "orionMoney"
         },
         {
           "api": [
@@ -1286,6 +1286,31 @@
         "12D3KooWBoGNg6ZbuLqStmfA4dmb7NnSkiLDENv4C1AfMZPHn3td"
       ],
       "status": "active"
+    },
+    "orionMoney": {
+      "adminAddress": "0xa7D2c0Ed80E54fb5e36682bA1939fDd9185E2c51",
+      "displayName": "Orion.Money",
+      "nodeAddress": [
+        "0xc11eDFd7Dd359492A686C2f27F66156CBb155D92"
+      ],
+      "ocrConfigPublicKey": [
+        "01ec6e7569734627ec3a5240059d0092a73593278e10b6bc6185ebf392bb501a"
+      ],
+      "ocrNodeAddress": [
+        "0xc11eDFd7Dd359492A686C2f27F66156CBb155D92"
+      ],
+      "ocrOffchainPublicKey": [
+        "45aa89ac07c7be4449114e540353d493164c01dfe05bc11f78794a8a1d3b6415"
+      ],
+      "ocrSigningAddress": [
+        "0x127D107153709eea500158C887A4064033Fe757d"
+      ],
+      "oracleAddress": "0x935B2eaB0Ff865EB49c655f2B4d44C02677e9442",
+      "peerId": [
+        "12D3KooWMqVVtFhRxVfDHnXBzHviPiPVo3MTQq5TwvbPoxsoxmFJ"
+      ],
+      "status": "active",
+      "website": "https://orion.money"
     },
     "pwc": {
       "adminAddress": "0x25Da0a6bF959e6A2719cEAAc3f604872C308F7df",

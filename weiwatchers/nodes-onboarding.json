@@ -180,6 +180,18 @@
     "csaKeys": null
   },
   {
+    "id": "orionMoney",
+    "website": "https://orion.money",
+    "name": "Orion.Money",
+    "status": "active",
+    "nodeAddress": [
+      "0xc11eDFd7Dd359492A686C2f27F66156CBb155D92",
+      "0xc11eDFd7Dd359492A686C2f27F66156CBb155D92"
+    ],
+    "oracleAddress": "0x935B2eaB0Ff865EB49c655f2B4d44C02677e9442",
+    "csaKeys": null
+  },
+  {
     "id": "pwc",
     "website": "https://www.fake.com",
     "name": "pwc",

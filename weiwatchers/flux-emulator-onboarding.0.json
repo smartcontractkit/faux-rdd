@@ -54,8 +54,8 @@
         ]
       },
       {
-        "name": "dexNop06",
-        "address": "0x31618A95adBAdAEB960647D13ef45209c27dC05C",
+        "name": "munichRe",
+        "address": "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -63,8 +63,8 @@
         ]
       },
       {
-        "name": "munichRe",
-        "address": "0x63Ceee9a4114Cb2fC8bdC8Fc16D831B729fF2fD6",
+        "name": "orionMoney",
+        "address": "0xc11eDFd7Dd359492A686C2f27F66156CBb155D92",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
