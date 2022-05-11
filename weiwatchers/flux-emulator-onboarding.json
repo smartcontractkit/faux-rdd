@@ -45,8 +45,8 @@
         ]
       },
       {
-        "name": "dexNop05",
-        "address": "0x1647051AD23b87D3B1488568C220308315Fd5cEb",
+        "name": "infura",
+        "address": "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -447,8 +447,8 @@
         ]
       },
       {
-        "name": "dexNop05",
-        "address": "0x1647051AD23b87D3B1488568C220308315Fd5cEb",
+        "name": "infura",
+        "address": "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",

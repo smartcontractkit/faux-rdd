@@ -168,6 +168,18 @@
     "csaKeys": null
   },
   {
+    "id": "infura",
+    "website": "",
+    "name": "Infura",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000000",
+      "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
     "id": "munichRe",
     "website": "",
     "name": "muinch.re",
