@@ -87,7 +87,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "dexNop05"
+      "operator": "infura"
     },
     {
       "api": [

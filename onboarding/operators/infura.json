@@ -1,0 +1,24 @@
+{
+  "adminAddress": "0x4b073EeD8fa44288E6dDEb9C291Ee87Af45BD136",
+  "displayName": "Infura",
+  "nodeAddress": [
+    "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67"
+  ],
+  "ocrConfigPublicKey": [
+    "33649d64913a2b7569235dc90708e07e9623f5da620bc544228544b42c43f565"
+  ],
+  "ocrNodeAddress": [
+    "0x45455df9d5dBcD838182FC43E2fB469A5C27c8E0"
+  ],
+  "ocrOffchainPublicKey": [
+    "02afee28f90a41692ab1a278fa70ae3a4c91f85a72554dd27f02e9c597dd6c3b"
+  ],
+  "ocrSigningAddress": [
+    "0x45455df9d5dBcD838182FC43E2fB469A5C27c8E0"
+  ],
+  "oracleAddress": "0x0000000000000000000000000000000000000000",
+  "peerId": [
+    "12D3KooWBz9p72sRE9rPcZKmtYfHwSnFDc2jcXCBLV2gy6k6W5vM"
+  ],
+  "status": "active"
+}
