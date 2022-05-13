@@ -1,0 +1,26 @@
+{
+  "adminAddress": "0x7405c0EbCdb1DB02ac825f5938569733DF48Cb77",
+  "displayName": "ANZ",
+  "githubUsernames": [
+    "placeholder000"
+  ],
+  "nodeAddress": [
+    "0x0000000000000000000000000000000000000000"
+  ],
+  "ocrConfigPublicKey": [
+    "f7cd5de03d936a8864c577d3033b6444ea87ed99a12390d1646bff116ec2772d"
+  ],
+  "ocrNodeAddress": [
+    "0x4952e5223757a6cD43b4BD33faeE2bA7E1b91e33"
+  ],
+  "ocrOffchainPublicKey": [
+    "f88d986e1e3b8e49db3e828d8034b8aaad334aeecb7415629f30ff11bc7cfaee"
+  ],
+  "ocrSigningAddress": [
+    "0x307A52b9F3Ec7983c5C69B37E02Caa6DEE26eD37"
+  ],
+  "peerId": [
+    "12D3KooWEQJmzQTa33gsduvC5eSDU4BS1g9o7FLjqZYi74MVcTiN"
+  ],
+  "status": "active"
+}

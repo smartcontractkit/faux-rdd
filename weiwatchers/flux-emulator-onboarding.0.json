@@ -9,6 +9,15 @@
     },
     "nodes": [
       {
+        "name": "anz",
+        "address": "0x4952e5223757a6cD43b4BD33faeE2bA7E1b91e33",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
         "name": "dexNop01",
         "address": "0x87365c86F404951E0ee841d47541206efefbC81f",
         "dataProviders": [
@@ -29,15 +38,6 @@
       {
         "name": "dexNop03",
         "address": "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
-        "dataProviders": [
-          "dataProvider1",
-          "dataProvider2",
-          "dataProvider3"
-        ]
-      },
-      {
-        "name": "dexNop04",
-        "address": "0x7d739dd659C8050Ed98769AD4442695Fa39389b9",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -411,6 +411,15 @@
     },
     "nodes": [
       {
+        "name": "anz",
+        "address": "0x4952e5223757a6cD43b4BD33faeE2bA7E1b91e33",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
         "name": "dexNop01",
         "address": "0x87365c86F404951E0ee841d47541206efefbC81f",
         "dataProviders": [
@@ -431,15 +440,6 @@
       {
         "name": "dexNop03",
         "address": "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
-        "dataProviders": [
-          "dataProvider1",
-          "dataProvider2",
-          "dataProvider3"
-        ]
-      },
-      {
-        "name": "dexNop04",
-        "address": "0x7d739dd659C8050Ed98769AD4442695Fa39389b9",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
