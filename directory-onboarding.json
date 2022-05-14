@@ -715,7 +715,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "dexNop03"
+          "operator": "kacific"
         },
         {
           "api": [
@@ -850,7 +850,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "dexNop03"
+          "operator": "kacific"
         },
         {
           "api": [
@@ -1313,6 +1313,31 @@
         "12D3KooWBz9p72sRE9rPcZKmtYfHwSnFDc2jcXCBLV2gy6k6W5vM"
       ],
       "status": "active"
+    },
+    "kacific": {
+      "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
+      "displayName": "Kacific",
+      "nodeAddress": [
+        "0x0000000000000000000000000000000000000000"
+      ],
+      "ocrConfigPublicKey": [
+        "ff2111e799fed90134b08c08a7f25c75ca451825e4686b3ec459341d0d736d01"
+      ],
+      "ocrNodeAddress": [
+        "0xc93A7437278BD6d1A1D2e41312B6b6439B07B873"
+      ],
+      "ocrOffchainPublicKey": [
+        "34495a9d04c7e4b1a1c4b2be3f9e81ccf6598617826f979952480e2e1bea71fc"
+      ],
+      "ocrSigningAddress": [
+        "0x6fd827ca87ABC750444f67fADf77Edd112D47Aa6"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWEyQpjw1QzgkXV5WHbJX5Qak7kt6xmsq2oUxjxTm3etyn"
+      ],
+      "status": "active",
+      "website": "https://www.fake01.com"
     },
     "munichRe": {
       "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",

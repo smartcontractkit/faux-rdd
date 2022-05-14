@@ -192,6 +192,18 @@
     "csaKeys": null
   },
   {
+    "id": "kacific",
+    "website": "https://www.fake01.com",
+    "name": "Kacific",
+    "status": "active",
+    "nodeAddress": [
+      "0x0000000000000000000000000000000000000000",
+      "0xc93A7437278BD6d1A1D2e41312B6b6439B07B873"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
     "id": "munichRe",
     "website": "",
     "name": "muinch.re",
