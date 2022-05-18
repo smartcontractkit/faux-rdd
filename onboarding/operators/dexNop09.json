@@ -5,20 +5,20 @@
     "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D"
   ],
   "ocrConfigPublicKey": [
-    "7411832fc0bb390c587d1ccbf85f25ec836327d2f9fe4f8b859f2cb6cb824813"
+    "87a201238775a8d9b4bb8aca3d52a2323234a8f76e1664cadfc3ec25bbc8725c"
   ],
   "ocrNodeAddress": [
-    "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D"
+    "0xb0BE5C7614D22a56B9b93Ed22c092e6BF177353E"
   ],
   "ocrOffchainPublicKey": [
-    "643115b794a9389ce3cc776757ef013729aaf65ac4a43f7b5408d483d93e3862"
+    "5f48372e0802d59392566dd41e3a691e33344f8b98138936650f1bdcb9f33b30"
   ],
   "ocrSigningAddress": [
-    "0xB6Ab087F5047795F23559045B6FdBc0071522984"
+    "0xC999e1c0061087CA6cc008E260cb4A6759C2675a"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWJaYTMgsTFZ2vY8LJA9ZEHj1SWYy5JPthMaxjBvTTt39u"
+    "12D3KooWLVoz2c5udAGZV1XB4KXGiS1eZZkk2dPTF5skvnaovxyX"
   ],
   "status": "active",
   "website": "https://www.fake09.com"

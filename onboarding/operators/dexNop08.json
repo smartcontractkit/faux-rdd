@@ -5,20 +5,20 @@
     "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6"
   ],
   "ocrConfigPublicKey": [
-    "156c8c02669de1d506d89f033e39ff7ff864d1c4c0f19bd24948ff1b2a115c5d"
+    "ede909c83336bd33c077f5663000700be80faf37dfcaafa7109e497058010f14"
   ],
   "ocrNodeAddress": [
-    "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6"
+    "0x3aA7d51777553A198fcdb7EB372CC3Ad61314Ec3"
   ],
   "ocrOffchainPublicKey": [
-    "a4f131c9d3a1fdc79ae4612b862c9862315866fac85d109f6c460ec0fedf37ed"
+    "cd202d47ca3213937aadcfcb091fe8e29bb5ed237eee791b56580ec53089c91d"
   ],
   "ocrSigningAddress": [
-    "0x1b7a6C23927683A1BE38Cc65dec41f351EEb13fc"
+    "0x772A33c0D581d3C36B0f6fe3f999F92DCb229Bac"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWCfpCAFZUnAyHUGWp56fG1XS22Zo9bDjcF4L3cBxfCRn1"
+    "12D3KooWKTRdr64Ax3nUp92Kqv4mo81oDivwqMUwNTnbL3p58mTY"
   ],
   "status": "active",
   "website": "https://www.fake08.com"

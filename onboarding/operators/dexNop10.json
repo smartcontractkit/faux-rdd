@@ -5,20 +5,20 @@
     "0x4D2eb498005b0D87ee14DEf86822e3403eEE6807"
   ],
   "ocrConfigPublicKey": [
-    "c0bc9e7220f40119b7830f5c36212e0d20d9ae8a7d71f2ff6ae44296344b077c"
+    "9c2b0f8c1af38aa05428d338f6c05711828eb05da0d10dbd11367df662f1c202"
   ],
   "ocrNodeAddress": [
-    "0x4D2eb498005b0D87ee14DEf86822e3403eEE6807"
+    "0x534d1F90925B0d2B5eA17301FB54F486dE3F9FC7"
   ],
   "ocrOffchainPublicKey": [
-    "89746546d60e6054b172bb49f1b274f7f70a4eb459ff6af03af97269d1f2eeba"
+    "fb74cc88022d29590a233545d4a24e167b0caf0bcbab0643a23ec6eb1601fd34"
   ],
   "ocrSigningAddress": [
-    "0x455b336930B05fc078B320D84fCc3210194F22fA"
+    "0xfCD7f76ce64d563a05d79F30dD57364303DbcC5f"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWLzKXSvQt7yF1gcKVGEV9RGzedbWF9UdhRMmfvw95sESL"
+    "12D3KooWDjHkm59gNhNenYYbXeph3tPSPE82rab68FYYZcC2vnk4"
   ],
   "status": "active",
   "website": "https://www.fake10.com"

@@ -5,20 +5,20 @@
     "0x31618A95adBAdAEB960647D13ef45209c27dC05C"
   ],
   "ocrConfigPublicKey": [
-    "ac243317696c1f147090826b428910f6f103b6bd4ff975a97e240dbcc5ce066b"
+    "71113310ba17e0615eb9a7d0880230cf73536c3e3c9c225ce21acb74f1051854"
   ],
   "ocrNodeAddress": [
-    "0x31618A95adBAdAEB960647D13ef45209c27dC05C"
+    "0x9eeC97Fdc002f0e9D31f4E2A8361B632360E4355"
   ],
   "ocrOffchainPublicKey": [
-    "029359e157a39212a361d5a4b1b562c4aba7a27cb03b8703d7db3767e1a267d1"
+    "02aceaad610869f6f192e1702a1887f57446696c67fda9d45f4976076ef73df8"
   ],
   "ocrSigningAddress": [
-    "0xa04cFA285f5BfBcC15Ca9dA6deE9bF19eF75d177"
+    "0x814cAB1A104eb797fA19bC4abc9676F6cC9d13B7"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWMgJa2ZB5KBiijpqUr23uv1TjAgdzsWFBUzj682CX8xH1"
+    "12D3KooWNzNLoAbaMoinJ5iH5PdC9bgLpDJ34rT53ZjPocqcswio"
   ],
   "status": "active",
   "website": "https://www.fake06.com"

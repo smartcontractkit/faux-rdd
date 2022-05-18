@@ -5,20 +5,20 @@
     "0x1647051AD23b87D3B1488568C220308315Fd5cEb"
   ],
   "ocrConfigPublicKey": [
-    "0af59f015b7de9ef1ed2da4282603e60c2bc508f343b21095eba30457dea6c44"
+    "89c54d8934a50b377c442be0e813f1ce461174ea3221b150a52fff0df9e11d64"
   ],
   "ocrNodeAddress": [
-    "0x1647051AD23b87D3B1488568C220308315Fd5cEb"
+    "0xf4BE6680d774b2CF6F7CD549A15f394C30fca389"
   ],
   "ocrOffchainPublicKey": [
-    "352fe531755b662e95f9915692cf120ca91fa2034b9660ac39823fd32d8d1c89"
+    "711b339e5eafaf63ae7614f2f6fa7dfb2b3a9f590515e915ccb22caea46ced79"
   ],
   "ocrSigningAddress": [
-    "0xe9413A76BAE84B3A8CF26e0129Fdd9CC90338380"
+    "0xB289F2De9450847E4CE0d30aDC84aa88b973A51A"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWSnKHaSKh1B1bYDCTsPZGakxVbtmnTsuDZGBvCpnZrZgo"
+    "12D3KooWRGqchAv2xxgNmE7tTzzQbLHVmxU8UpSPNDmkrLHCEY5q"
   ],
   "status": "active",
   "website": "https://www.fake05.com"

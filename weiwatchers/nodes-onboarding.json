@@ -18,7 +18,7 @@
     "status": "active",
     "nodeAddress": [
       "0x5eCBac369f866Ee922091242A728c11F9A5d0897",
-      "0xb0E368D5981c0da9349a31bf8401eBB66B019190"
+      "0xd276922575a138617886ed15bdE884840C8456b0"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -30,7 +30,7 @@
     "status": "active",
     "nodeAddress": [
       "0x87365c86F404951E0ee841d47541206efefbC81f",
-      "0x87365c86F404951E0ee841d47541206efefbC81f"
+      "0xd276922575a138617886ed15bdE884840C8456b0"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -42,7 +42,7 @@
     "status": "active",
     "nodeAddress": [
       "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228",
-      "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228"
+      "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -54,7 +54,7 @@
     "status": "active",
     "nodeAddress": [
       "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
-      "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d"
+      "0x0C6D4257a32476D4d28a2434A294dE22549Ee7Dc"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -66,7 +66,7 @@
     "status": "active",
     "nodeAddress": [
       "0x7d739dd659C8050Ed98769AD4442695Fa39389b9",
-      "0x7d739dd659C8050Ed98769AD4442695Fa39389b9"
+      "0xB6Efdf50461D0E92906Bd4F0c18268ADBF7b8bec"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -78,7 +78,7 @@
     "status": "active",
     "nodeAddress": [
       "0x1647051AD23b87D3B1488568C220308315Fd5cEb",
-      "0x1647051AD23b87D3B1488568C220308315Fd5cEb"
+      "0xf4BE6680d774b2CF6F7CD549A15f394C30fca389"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -90,7 +90,7 @@
     "status": "active",
     "nodeAddress": [
       "0x31618A95adBAdAEB960647D13ef45209c27dC05C",
-      "0x31618A95adBAdAEB960647D13ef45209c27dC05C"
+      "0x9eeC97Fdc002f0e9D31f4E2A8361B632360E4355"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -102,7 +102,7 @@
     "status": "active",
     "nodeAddress": [
       "0x25dE753428c48D38F826c56220BD263dCE45b3A3",
-      "0x25dE753428c48D38F826c56220BD263dCE45b3A3"
+      "0xf2239ca5aEA0cAA59BA0a47F967507f450686583"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -114,7 +114,7 @@
     "status": "active",
     "nodeAddress": [
       "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6",
-      "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6"
+      "0x3aA7d51777553A198fcdb7EB372CC3Ad61314Ec3"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -126,7 +126,7 @@
     "status": "active",
     "nodeAddress": [
       "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D",
-      "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D"
+      "0xb0BE5C7614D22a56B9b93Ed22c092e6BF177353E"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null
@@ -138,7 +138,7 @@
     "status": "active",
     "nodeAddress": [
       "0x4D2eb498005b0D87ee14DEf86822e3403eEE6807",
-      "0x4D2eb498005b0D87ee14DEf86822e3403eEE6807"
+      "0x534d1F90925B0d2B5eA17301FB54F486dE3F9FC7"
     ],
     "oracleAddress": "0x0000000000000000000000000000000000000000",
     "csaKeys": null

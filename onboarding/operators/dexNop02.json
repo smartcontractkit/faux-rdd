@@ -5,20 +5,20 @@
     "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228"
   ],
   "ocrConfigPublicKey": [
-    "89cc9a8ee659943ac375266c1eca0bfc319fc99a85c517300f948a9aeef7a539"
+    "29037da796ccb610f6d35e65931010d0ef6805472f961cc4226e3d7afdec3115"
   ],
   "ocrNodeAddress": [
-    "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228"
+    "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982"
   ],
   "ocrOffchainPublicKey": [
-    "7bdce0299c011ce1c952ae09441b73c8a4f5f7e3e3b23da0b04926734559c7e4"
+    "16930997ea62e72936f65e6be8d265c1c8b43ae9225464ee70570d88ae95ccd9"
   ],
   "ocrSigningAddress": [
-    "0x4d9e52DFBaDEfB36e03639cA201733820a560E45"
+    "0xC7866316d03a7981E258a9223584c72e7c73Cc4a"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWHCJXnGUJpfYQSDS1d5S7cMLV4RoLbjmUz7ctCzw6Wd2s"
+    "12D3KooWGhrtWtNxrJQAd1ytD4M7rmmTxUBVs5mPs2iAYvfJwS84"
   ],
   "status": "active",
   "website": "https://www.fake02.com"

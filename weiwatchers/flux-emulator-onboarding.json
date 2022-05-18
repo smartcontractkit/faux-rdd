@@ -19,7 +19,7 @@
       },
       {
         "name": "dexNop01",
-        "address": "0x87365c86F404951E0ee841d47541206efefbC81f",
+        "address": "0xd276922575a138617886ed15bdE884840C8456b0",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -28,16 +28,7 @@
       },
       {
         "name": "dexNop02",
-        "address": "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228",
-        "dataProviders": [
-          "dataProvider1",
-          "dataProvider2",
-          "dataProvider3"
-        ]
-      },
-      {
-        "name": "dexNop03",
-        "address": "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
+        "address": "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -47,6 +38,15 @@
       {
         "name": "infura",
         "address": "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "kacific",
+        "address": "0xc93A7437278BD6d1A1D2e41312B6b6439B07B873",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -117,7 +117,7 @@
     "nodes": [
       {
         "name": "dexNop01",
-        "address": "0x87365c86F404951E0ee841d47541206efefbC81f",
+        "address": "0xd276922575a138617886ed15bdE884840C8456b0",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -126,7 +126,7 @@
       },
       {
         "name": "dexNop02",
-        "address": "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228",
+        "address": "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -135,7 +135,7 @@
       },
       {
         "name": "dexNop03",
-        "address": "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
+        "address": "0x0C6D4257a32476D4d28a2434A294dE22549Ee7Dc",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -144,7 +144,7 @@
       },
       {
         "name": "dexNop04",
-        "address": "0x7d739dd659C8050Ed98769AD4442695Fa39389b9",
+        "address": "0xB6Efdf50461D0E92906Bd4F0c18268ADBF7b8bec",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -153,7 +153,7 @@
       },
       {
         "name": "dexNop05",
-        "address": "0x1647051AD23b87D3B1488568C220308315Fd5cEb",
+        "address": "0xf4BE6680d774b2CF6F7CD549A15f394C30fca389",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -162,7 +162,7 @@
       },
       {
         "name": "dexNop06",
-        "address": "0x31618A95adBAdAEB960647D13ef45209c27dC05C",
+        "address": "0x9eeC97Fdc002f0e9D31f4E2A8361B632360E4355",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -171,7 +171,7 @@
       },
       {
         "name": "dexNop07",
-        "address": "0x25dE753428c48D38F826c56220BD263dCE45b3A3",
+        "address": "0xf2239ca5aEA0cAA59BA0a47F967507f450686583",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -180,7 +180,7 @@
       },
       {
         "name": "dexNop08",
-        "address": "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6",
+        "address": "0x3aA7d51777553A198fcdb7EB372CC3Ad61314Ec3",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -189,7 +189,7 @@
       },
       {
         "name": "dexNop09",
-        "address": "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D",
+        "address": "0xb0BE5C7614D22a56B9b93Ed22c092e6BF177353E",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -224,7 +224,7 @@
     "nodes": [
       {
         "name": "dexNop01",
-        "address": "0x87365c86F404951E0ee841d47541206efefbC81f",
+        "address": "0xd276922575a138617886ed15bdE884840C8456b0",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -233,7 +233,7 @@
       },
       {
         "name": "dexNop02",
-        "address": "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228",
+        "address": "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -242,7 +242,7 @@
       },
       {
         "name": "dexNop03",
-        "address": "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
+        "address": "0x0C6D4257a32476D4d28a2434A294dE22549Ee7Dc",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -251,7 +251,7 @@
       },
       {
         "name": "dexNop04",
-        "address": "0x7d739dd659C8050Ed98769AD4442695Fa39389b9",
+        "address": "0xB6Efdf50461D0E92906Bd4F0c18268ADBF7b8bec",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -260,7 +260,7 @@
       },
       {
         "name": "dexNop05",
-        "address": "0x1647051AD23b87D3B1488568C220308315Fd5cEb",
+        "address": "0xf4BE6680d774b2CF6F7CD549A15f394C30fca389",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -269,7 +269,7 @@
       },
       {
         "name": "dexNop06",
-        "address": "0x31618A95adBAdAEB960647D13ef45209c27dC05C",
+        "address": "0x9eeC97Fdc002f0e9D31f4E2A8361B632360E4355",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -278,7 +278,7 @@
       },
       {
         "name": "dexNop07",
-        "address": "0x25dE753428c48D38F826c56220BD263dCE45b3A3",
+        "address": "0xf2239ca5aEA0cAA59BA0a47F967507f450686583",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -287,7 +287,7 @@
       },
       {
         "name": "dexNop08",
-        "address": "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6",
+        "address": "0x3aA7d51777553A198fcdb7EB372CC3Ad61314Ec3",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -296,7 +296,7 @@
       },
       {
         "name": "dexNop09",
-        "address": "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D",
+        "address": "0xb0BE5C7614D22a56B9b93Ed22c092e6BF177353E",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -421,7 +421,7 @@
       },
       {
         "name": "dexNop01",
-        "address": "0x87365c86F404951E0ee841d47541206efefbC81f",
+        "address": "0xd276922575a138617886ed15bdE884840C8456b0",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -430,16 +430,7 @@
       },
       {
         "name": "dexNop02",
-        "address": "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228",
-        "dataProviders": [
-          "dataProvider1",
-          "dataProvider2",
-          "dataProvider3"
-        ]
-      },
-      {
-        "name": "dexNop03",
-        "address": "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
+        "address": "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -449,6 +440,15 @@
       {
         "name": "infura",
         "address": "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "kacific",
+        "address": "0xc93A7437278BD6d1A1D2e41312B6b6439B07B873",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -519,7 +519,7 @@
     "nodes": [
       {
         "name": "dexNop01",
-        "address": "0x87365c86F404951E0ee841d47541206efefbC81f",
+        "address": "0xd276922575a138617886ed15bdE884840C8456b0",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -528,7 +528,7 @@
       },
       {
         "name": "dexNop02",
-        "address": "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228",
+        "address": "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -537,7 +537,7 @@
       },
       {
         "name": "dexNop03",
-        "address": "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
+        "address": "0x0C6D4257a32476D4d28a2434A294dE22549Ee7Dc",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -546,7 +546,7 @@
       },
       {
         "name": "dexNop04",
-        "address": "0x7d739dd659C8050Ed98769AD4442695Fa39389b9",
+        "address": "0xB6Efdf50461D0E92906Bd4F0c18268ADBF7b8bec",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -555,7 +555,7 @@
       },
       {
         "name": "dexNop05",
-        "address": "0x1647051AD23b87D3B1488568C220308315Fd5cEb",
+        "address": "0xf4BE6680d774b2CF6F7CD549A15f394C30fca389",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -564,7 +564,7 @@
       },
       {
         "name": "dexNop06",
-        "address": "0x31618A95adBAdAEB960647D13ef45209c27dC05C",
+        "address": "0x9eeC97Fdc002f0e9D31f4E2A8361B632360E4355",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -573,7 +573,7 @@
       },
       {
         "name": "dexNop07",
-        "address": "0x25dE753428c48D38F826c56220BD263dCE45b3A3",
+        "address": "0xf2239ca5aEA0cAA59BA0a47F967507f450686583",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -582,7 +582,7 @@
       },
       {
         "name": "dexNop08",
-        "address": "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6",
+        "address": "0x3aA7d51777553A198fcdb7EB372CC3Ad61314Ec3",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -591,7 +591,7 @@
       },
       {
         "name": "dexNop09",
-        "address": "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D",
+        "address": "0xb0BE5C7614D22a56B9b93Ed22c092e6BF177353E",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -626,7 +626,7 @@
     "nodes": [
       {
         "name": "dexNop01",
-        "address": "0x87365c86F404951E0ee841d47541206efefbC81f",
+        "address": "0xd276922575a138617886ed15bdE884840C8456b0",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -635,7 +635,7 @@
       },
       {
         "name": "dexNop02",
-        "address": "0x7a9f47a664E6496695734e4B8B8b0a47a6d3a228",
+        "address": "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -644,7 +644,7 @@
       },
       {
         "name": "dexNop03",
-        "address": "0x2b41b29646D0E7163A9A2474b2bE5C55F70CF35d",
+        "address": "0x0C6D4257a32476D4d28a2434A294dE22549Ee7Dc",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -653,7 +653,7 @@
       },
       {
         "name": "dexNop04",
-        "address": "0x7d739dd659C8050Ed98769AD4442695Fa39389b9",
+        "address": "0xB6Efdf50461D0E92906Bd4F0c18268ADBF7b8bec",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -662,7 +662,7 @@
       },
       {
         "name": "dexNop05",
-        "address": "0x1647051AD23b87D3B1488568C220308315Fd5cEb",
+        "address": "0xf4BE6680d774b2CF6F7CD549A15f394C30fca389",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -671,7 +671,7 @@
       },
       {
         "name": "dexNop06",
-        "address": "0x31618A95adBAdAEB960647D13ef45209c27dC05C",
+        "address": "0x9eeC97Fdc002f0e9D31f4E2A8361B632360E4355",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -680,7 +680,7 @@
       },
       {
         "name": "dexNop07",
-        "address": "0x25dE753428c48D38F826c56220BD263dCE45b3A3",
+        "address": "0xf2239ca5aEA0cAA59BA0a47F967507f450686583",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -689,7 +689,7 @@
       },
       {
         "name": "dexNop08",
-        "address": "0x3A6BfCc47BBe7Af20Ca226fA299f64C9155E42B6",
+        "address": "0x3aA7d51777553A198fcdb7EB372CC3Ad61314Ec3",
         "dataProviders": [
           "dataSource",
           "dataSource",
@@ -698,7 +698,7 @@
       },
       {
         "name": "dexNop09",
-        "address": "0xAE9337F180AdBdD8608d182Cba1ebAaBA6b7385D",
+        "address": "0xb0BE5C7614D22a56B9b93Ed22c092e6BF177353E",
         "dataProviders": [
           "dataSource",
           "dataSource",

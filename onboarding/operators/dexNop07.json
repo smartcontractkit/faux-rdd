@@ -5,20 +5,20 @@
     "0x25dE753428c48D38F826c56220BD263dCE45b3A3"
   ],
   "ocrConfigPublicKey": [
-    "abe202e193816bb78d7e5d2489034548c744f1a7811707e84a48d2e739e2b82d"
+    "fba953bcf3cc2d5ceabf988a421ac036a8a6ae7bb011dea761f64d78525deb5c"
   ],
   "ocrNodeAddress": [
-    "0x25dE753428c48D38F826c56220BD263dCE45b3A3"
+    "0xf2239ca5aEA0cAA59BA0a47F967507f450686583"
   ],
   "ocrOffchainPublicKey": [
-    "662ef44281b3ccfcd4abd9726fb39a6203915ab00b57becb8f67fbff396aa4cd"
+    "8f4a1a9fd199660aaefcc5ac8c57e04287de57d29736e040412aabba6bef7959"
   ],
   "ocrSigningAddress": [
-    "0xF9C39E2f9F598F5E29440F7f1A010f745Da5e1c9"
+    "0x20225Fa062a00e3Dd2b02aaB534f61cA2A3e5D74"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWA8tgDCJWavjDz68muhJXZbgjVDGeu47GTg9SgeQfD6ie"
+    "12D3KooWKPq4EugxnLZV76dmWzgjBF461gCZMGRmgFPUBXdTEQXU"
   ],
   "status": "active",
   "website": "https://www.fake07.com"

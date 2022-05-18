@@ -5,20 +5,20 @@
     "0x7d739dd659C8050Ed98769AD4442695Fa39389b9"
   ],
   "ocrConfigPublicKey": [
-    "bbc9cbee53ec9faabae1ded325a786cac55abcfbceb2924f981bcb26fc61817d"
+    "90f354dc29364a1759dd8c579159ba9ce6617b74cff0d6c4adf25e021ed7ed49"
   ],
   "ocrNodeAddress": [
-    "0x7d739dd659C8050Ed98769AD4442695Fa39389b9"
+    "0xB6Efdf50461D0E92906Bd4F0c18268ADBF7b8bec"
   ],
   "ocrOffchainPublicKey": [
-    "7e0b5917922392a98e7e8942d35563548db64edc6632b3fe2ed34860acc2fef7"
+    "4b3ca7ff24207cfd51fa57371fc6c21d8d9f845d2686fa9b8043ec1056073dd3"
   ],
   "ocrSigningAddress": [
-    "0x9B888e77435b6b2ce3Fa3763d076e00bDf2fc85a"
+    "0xa2a7264Ac25B45eDCbc33f8403F5362E001494b7"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWAdWEWZphtM4iHkPdj2MDL7CixZLsdwAQXtH7P96Phgin"
+    "12D3KooWT14jZngS7FF6ZyZ8nCTAxzygksa8QeKBGM1c59KSFee3"
   ],
   "status": "active",
   "website": "https://www.fake04.com"

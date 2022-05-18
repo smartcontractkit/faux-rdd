@@ -8,17 +8,17 @@
     "b648ecbc21a3d89622e0a1340ef90c7e2f0a12b0029b8be55a411ca993a37510"
   ],
   "ocrNodeAddress": [
-    "0xb0E368D5981c0da9349a31bf8401eBB66B019190"
+    "0xd276922575a138617886ed15bdE884840C8456b0"
   ],
   "ocrOffchainPublicKey": [
-    "1349f80bced600020fa3f5ff3ac1bf18f279851ac2584e54ef0a3203e6e695ad"
+    "c01b3e1465c177a3c3b555a99a04c247f48232c8471d7c6c09becf6d7609a914"
   ],
   "ocrSigningAddress": [
-    "0x203531734552F65e7cF392b0cD9b5E9870622a7b"
+    "0x9b1392321F6b90C4f34B49af410A048069B09335"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWFto8Fx141Kixn2JbfGXJWpt8U1B55oBQtsNZWRmyiq1D"
+    "12D3KooWKHTL8Yr2KirnpALKBNPPijUCSWKX947PUSq19wzwGgAW"
   ],
   "status": "active",
   "website": "https://www.fake00.com"

@@ -5,20 +5,20 @@
     "0x87365c86F404951E0ee841d47541206efefbC81f"
   ],
   "ocrConfigPublicKey": [
-    "0ca51f9b7ad00113335f40db9e1c5f1274b512fd10f0e4fd2c427ed9325b0e49"
+    "6c15aa4c9e122e82ee64a4c8db59e0d1441c21134e9a602198554bcb74c9260c"
   ],
   "ocrNodeAddress": [
-    "0x87365c86F404951E0ee841d47541206efefbC81f"
+    "0xd276922575a138617886ed15bdE884840C8456b0"
   ],
   "ocrOffchainPublicKey": [
-    "569e13b2690e90bcfc6e5c2c2db7249bc5c78158d120d5f6caa287e5038e7a51"
+    "c01b3e1465c177a3c3b555a99a04c247f48232c8471d7c6c09becf6d7609a914"
   ],
   "ocrSigningAddress": [
-    "0xB7c728cee80371A66FcEA8EC3B7B03F1A7D3980f"
+    "0x9b1392321F6b90C4f34B49af410A048069B09335"
   ],
   "oracleAddress": "0x0000000000000000000000000000000000000000",
   "peerId": [
-    "12D3KooWRhnYGso1YMsmAanpaVT5bm2KH4AK1VNabNYfkH8h95Db"
+    "12D3KooWKHTL8Yr2KirnpALKBNPPijUCSWKX947PUSq19wzwGgAW"
   ],
   "status": "active",
   "website": "https://www.fake01.com"
