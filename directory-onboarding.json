@@ -707,7 +707,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "dexNop02"
+          "operator": "telefonica"
         },
         {
           "api": [
@@ -842,7 +842,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "dexNop02"
+          "operator": "telefonica"
         },
         {
           "api": [
@@ -1437,6 +1437,31 @@
         "12D3KooWRDQUqzVdDyikHmnNfkjbf9DQ34EGGfbWRRuRcbaYobrd"
       ],
       "status": "active"
+    },
+    "telefonica": {
+      "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
+      "displayName": "Telefonica",
+      "nodeAddress": [
+        ""
+      ],
+      "ocrConfigPublicKey": [
+        "ecd5aaa5bd802dd8e809966cacaac8a595ee285f70974717a6c4cec0d75e4e10"
+      ],
+      "ocrNodeAddress": [
+        ""
+      ],
+      "ocrOffchainPublicKey": [
+        "97defa2035250cad389cfb36f7bea36f921e6d13f862cc9c978d6daa5624b65a"
+      ],
+      "ocrSigningAddress": [
+        "0x7D6B45EaA45b8027Ef4786CA98787875ECaF2a26"
+      ],
+      "oracleAddress": "0x0000000000000000000000000000000000000000",
+      "peerId": [
+        "12D3KooWD2du49KSb7Ssmmf8wLr6bV7RZ9eX4LbkUcaFtxAFDbGy"
+      ],
+      "status": "active",
+      "website": "https://www.telefonica.com"
     },
     "virgin": {
       "adminAddress": "0x3F656fb62153aa244b74A7358FBDcA0CA366D841",
