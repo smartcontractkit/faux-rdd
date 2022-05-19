@@ -252,6 +252,18 @@
     "csaKeys": null
   },
   {
+    "id": "telefonica",
+    "website": "https://www.telefonica.com",
+    "name": "Telefonica",
+    "status": "active",
+    "nodeAddress": [
+      "0xe9d47160cA6ecED595751bdA56E104D7fC688436",
+      "0xe9d47160cA6ecED595751bdA56E104D7fC688436"
+    ],
+    "oracleAddress": "0x0000000000000000000000000000000000000000",
+    "csaKeys": null
+  },
+  {
     "id": "virgin",
     "website": "https://www.fake.com",
     "name": "Virgin Media",

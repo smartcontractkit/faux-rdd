@@ -1,14 +1,14 @@
 {
-  "adminAddress": "0xEADe5bE363B3c210C0F3A7B072F7ffB847Fd92A5",
+  "adminAddress": "0x77bA9d61D0820c944980d311CAe6c119fA04EEF6",
   "displayName": "Telefonica",
   "nodeAddress": [
-    ""
+    "0xe9d47160cA6ecED595751bdA56E104D7fC688436"
   ],
   "ocrConfigPublicKey": [
     "ecd5aaa5bd802dd8e809966cacaac8a595ee285f70974717a6c4cec0d75e4e10"
   ],
   "ocrNodeAddress": [
-    ""
+    "0xe9d47160cA6ecED595751bdA56E104D7fC688436"
   ],
   "ocrOffchainPublicKey": [
     "97defa2035250cad389cfb36f7bea36f921e6d13f862cc9c978d6daa5624b65a"

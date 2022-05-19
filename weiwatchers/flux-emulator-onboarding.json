@@ -27,15 +27,6 @@
         ]
       },
       {
-        "name": "dexNop02",
-        "address": "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982",
-        "dataProviders": [
-          "dataProvider1",
-          "dataProvider2",
-          "dataProvider3"
-        ]
-      },
-      {
         "name": "infura",
         "address": "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67",
         "dataProviders": [
@@ -83,6 +74,15 @@
       {
         "name": "splunk",
         "address": "0xcDb3a92E4f70896337a43aAE15D176cB8939b6b1",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "telefonica",
+        "address": "0xe9d47160cA6ecED595751bdA56E104D7fC688436",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -429,15 +429,6 @@
         ]
       },
       {
-        "name": "dexNop02",
-        "address": "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982",
-        "dataProviders": [
-          "dataProvider1",
-          "dataProvider2",
-          "dataProvider3"
-        ]
-      },
-      {
         "name": "infura",
         "address": "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67",
         "dataProviders": [
@@ -485,6 +476,15 @@
       {
         "name": "splunk",
         "address": "0xcDb3a92E4f70896337a43aAE15D176cB8939b6b1",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "telefonica",
+        "address": "0xe9d47160cA6ecED595751bdA56E104D7fC688436",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
