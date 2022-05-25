@@ -115,7 +115,7 @@
     "contractType": "",
     "contractVersion": 4,
     "decimalPlaces": 3,
-    "ens": null,
+    "ens": "link-usd",
     "formatDecimalPlaces": 0,
     "healthPrice": "",
     "heartbeat": 300,
@@ -127,7 +127,7 @@
       "USD"
     ],
     "path": "link-usd",
-    "proxyAddress": null,
+    "proxyAddress": "0xf7BF1de0497696E5c3629C329ff6b3A1F6aC2843",
     "threshold": 1,
     "valuePrefix": ""
   }

@@ -590,6 +590,15 @@
         ]
       },
       {
+        "name": "dexNop09",
+        "address": "0xb0BE5C7614D22a56B9b93Ed22c092e6BF177353E",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
         "name": "infura",
         "address": "0x4c95eb1a287B56D9AEc43800a617096Bf58A1446",
         "dataProviders": [

@@ -1,0 +1,11 @@
+{
+    "accessController": "0x0000000000000000000000000000000000000000",
+    "aggregator": "0xc14e3f54e42719cEC57f4737d23EbeC86954acEd",
+    "contractVersion": 4,
+    "ens": "link-usd",
+    "implementations": {
+        "primary": "0xc14e3f54e42719cEC57f4737d23EbeC86954acEd",
+        "proposed": "0x0000000000000000000000000000000000000000"
+    },
+    "name": "LINK / USD"
+}

@@ -25,6 +25,7 @@
       2,
       2,
       2,
+      2,
       2
     ]
   },
@@ -111,6 +112,14 @@
         "dataProvider3"
       ],
       "operator": "dexNop08"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "dexNop09"
     },
     {
       "api": [
