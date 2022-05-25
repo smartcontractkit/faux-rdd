@@ -9,7 +9,7 @@
   "config": {
     "badEpochTimeout": "35s",
     "maxContractValueAge": "5m",
-    "maxFaultyNodeCount": 2,
+    "maxFaultyNodeCount": 3,
     "maxRoundCount": 6,
     "observationGracePeriod": "12s",
     "relativeDeviationThresholdPPB": "10000000",
@@ -18,6 +18,11 @@
     "transmissionStageTimeout": "60s",
     "transmissionStages": [
       1,
+      2,
+      2,
+      2,
+      2,
+      2,
       2,
       2,
       2
@@ -66,6 +71,46 @@
         "dataProvider3"
       ],
       "operator": "dexNop03"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "dexNop04"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "dexNop05"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "dexNop06"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "dexNop07"
+    },
+    {
+      "api": [
+        "dataProvider1",
+        "dataProvider2",
+        "dataProvider3"
+      ],
+      "operator": "dexNop08"
     },
     {
       "api": [
