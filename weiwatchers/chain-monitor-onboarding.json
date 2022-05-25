@@ -1,22 +1,5 @@
 [
   {
-    "contractAddress": "0x0000000000000000000000000000000000000012",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "heartbeat": 300,
-    "history": false,
-    "multiply": "100000000",
-    "name": "XRP / USD",
-    "symbol": "",
-    "pair": [
-      "XRP",
-      "USD"
-    ],
-    "path": "xrp-usd",
-    "nodeCount": 10,
-    "status": "testing"
-  },
-  {
     "contractAddress": "0x0000000000000000000000000000000000000013",
     "contractVersion": 4,
     "decimalPlaces": 3,
@@ -116,6 +99,23 @@
     ],
     "path": "ada-usd-test",
     "nodeCount": 10,
+    "status": "testing"
+  },
+  {
+    "contractAddress": "0xc14e3f54e42719cEC57f4737d23EbeC86954acEd",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "heartbeat": 300,
+    "history": false,
+    "multiply": "100000000",
+    "name": "LINK / USD",
+    "symbol": "",
+    "pair": [
+      "LINK",
+      "USD"
+    ],
+    "path": "link-usd",
+    "nodeCount": 4,
     "status": "testing"
   }
 ]

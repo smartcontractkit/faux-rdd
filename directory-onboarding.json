@@ -16,141 +16,6 @@
     "tiingo": {}
   },
   "contracts": {
-    "0x0000000000000000000000000000000000000012": {
-      "billing": {
-        "maxGasPriceGwei": "2000",
-        "microLinkPerEth": "102829",
-        "observationPaymentLinkGwei": "10",
-        "reasonableGasPriceGwei": "10",
-        "transmissionPaymentLinkGwei": "300"
-      },
-      "config": {
-        "badEpochTimeout": "35s",
-        "maxContractValueAge": "5m",
-        "maxFaultyNodeCount": 3,
-        "maxRoundCount": 6,
-        "observationGracePeriod": "12s",
-        "relativeDeviationThresholdPPB": "10000000",
-        "resendInterval": "17s",
-        "roundInterval": "30s",
-        "transmissionStageTimeout": "60s",
-        "transmissionStages": [
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2
-        ]
-      },
-      "contractVersion": 4,
-      "decimals": 8,
-      "externalAdapterRequestParams": {
-        "from": "XRP",
-        "to": "USD"
-      },
-      "marketing": {
-        "decimalPlaces": 3,
-        "formatDecimalPlaces": 0,
-        "history": true,
-        "pair": [
-          "XRP",
-          "USD"
-        ],
-        "path": "xrp-usd"
-      },
-      "maxSubmissionValue": "1000000000000000",
-      "minSubmissionValue": "100",
-      "name": "XRP / USD",
-      "oracles": [
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop01"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop02"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop03"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop04"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop05"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop06"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop07"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop08"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "dexNop09"
-        },
-        {
-          "api": [
-            "dataSource",
-            "dataSource",
-            "dataSource"
-          ],
-          "operator": "munichRe"
-        }
-      ],
-      "status": "testing",
-      "validator": "0x0000000000000000000000000000000000000000"
-    },
     "0x0000000000000000000000000000000000000013": {
       "billing": {
         "maxGasPriceGwei": "2000",
@@ -911,6 +776,87 @@
       ],
       "status": "testing",
       "validator": "0x0000000000000000000000000000000000000000"
+    },
+    "0xc14e3f54e42719cEC57f4737d23EbeC86954acEd": {
+      "billing": {
+        "maxGasPriceGwei": "2000",
+        "microLinkPerEth": "102829",
+        "observationPaymentLinkGwei": "10",
+        "reasonableGasPriceGwei": "10",
+        "transmissionPaymentLinkGwei": "300"
+      },
+      "config": {
+        "badEpochTimeout": "35s",
+        "maxContractValueAge": "5m",
+        "maxFaultyNodeCount": 2,
+        "maxRoundCount": 6,
+        "observationGracePeriod": "12s",
+        "relativeDeviationThresholdPPB": "10000000",
+        "resendInterval": "17s",
+        "roundInterval": "30s",
+        "transmissionStageTimeout": "60s",
+        "transmissionStages": [
+          1,
+          2,
+          2,
+          2
+        ]
+      },
+      "contractVersion": 4,
+      "decimals": 8,
+      "externalAdapterRequestParams": {
+        "from": "LINK",
+        "to": "LINK"
+      },
+      "marketing": {
+        "decimalPlaces": 3,
+        "formatDecimalPlaces": 0,
+        "history": true,
+        "pair": [
+          "LINK",
+          "USD"
+        ],
+        "path": "link-usd"
+      },
+      "maxSubmissionValue": "100000000000000000",
+      "minSubmissionValue": "10",
+      "name": "LINK / USD",
+      "oracles": [
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "dexNop01"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "dexNop02"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "dexNop03"
+        },
+        {
+          "api": [
+            "dataProvider1",
+            "dataProvider2",
+            "dataProvider3"
+          ],
+          "operator": "infura"
+        }
+      ],
+      "status": "testing",
+      "validator": "0x0000000000000000000000000000000000000000"
     }
   },
   "operators": {
@@ -1291,26 +1237,26 @@
       "website": "https://www.fake13.com"
     },
     "infura": {
-      "adminAddress": "0x4b073EeD8fa44288E6dDEb9C291Ee87Af45BD136",
+      "adminAddress": "0xe27F73e8e3365eeC892995A80Ba2397f4e6d8d95",
       "displayName": "Infura",
       "nodeAddress": [
         "0x0000000000000000000000000000000000000000"
       ],
       "ocrConfigPublicKey": [
-        "33649d64913a2b7569235dc90708e07e9623f5da620bc544228544b42c43f565"
+        "0cd7ee93b0bb1ee6607b514d76b3517bcdc0e07230027f8b800f973fc200c062"
       ],
       "ocrNodeAddress": [
-        "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67"
+        "0x4c95eb1a287B56D9AEc43800a617096Bf58A1446"
       ],
       "ocrOffchainPublicKey": [
-        "02afee28f90a41692ab1a278fa70ae3a4c91f85a72554dd27f02e9c597dd6c3b"
+        "4c3af4685e5e0b605b9e42a0585b4cfb172b81263006ab93d930dd25942a2767"
       ],
       "ocrSigningAddress": [
-        "0x45455df9d5dBcD838182FC43E2fB469A5C27c8E0"
+        "0x2900fD6D47b617f88585595DE1223D54c18763A9"
       ],
       "oracleAddress": "0x0000000000000000000000000000000000000000",
       "peerId": [
-        "12D3KooWBz9p72sRE9rPcZKmtYfHwSnFDc2jcXCBLV2gy6k6W5vM"
+        "12D3KooWAY83KjJmJV6SRMopddptKHSHfpzUE1hq6yD98ZnfBKr5"
       ],
       "status": "active"
     },

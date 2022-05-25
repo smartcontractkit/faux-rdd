@@ -28,7 +28,7 @@
       },
       {
         "name": "infura",
-        "address": "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67",
+        "address": "0x4c95eb1a287B56D9AEc43800a617096Bf58A1446",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -430,7 +430,7 @@
       },
       {
         "name": "infura",
-        "address": "0x3c5a0cb6433Cc3B8c492961Dd4dEFb5a94465a67",
+        "address": "0x4c95eb1a287B56D9AEc43800a617096Bf58A1446",
         "dataProviders": [
           "dataProvider1",
           "dataProvider2",
@@ -505,6 +505,59 @@
     "deviationThreshold": 1,
     "symbol": "",
     "path": "bnb-usd",
+    "status": "testing",
+    "category": "undefined"
+  },
+  {
+    "address": "0xc14e3f54e42719cEC57f4737d23EbeC86954acEd",
+    "name": "LINK / USD",
+    "contractVersion": 4,
+    "data": {
+      "from": "LINK",
+      "to": "LINK"
+    },
+    "nodes": [
+      {
+        "name": "dexNop01",
+        "address": "0xd276922575a138617886ed15bdE884840C8456b0",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "dexNop02",
+        "address": "0xD2c8a9a3f86e6DAc8dcDFA9443e962c7f9c02982",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "dexNop03",
+        "address": "0x0C6D4257a32476D4d28a2434A294dE22549Ee7Dc",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      },
+      {
+        "name": "infura",
+        "address": "0x4c95eb1a287B56D9AEc43800a617096Bf58A1446",
+        "dataProviders": [
+          "dataProvider1",
+          "dataProvider2",
+          "dataProvider3"
+        ]
+      }
+    ],
+    "precision": 8,
+    "deviationThreshold": 1,
+    "symbol": "",
+    "path": "link-usd",
     "status": "testing",
     "category": "undefined"
   }

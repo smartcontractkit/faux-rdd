@@ -1,28 +1,6 @@
 [
   {
     "compareOffchain": "",
-    "contractAddress": "0x0000000000000000000000000000000000000012",
-    "contractType": "",
-    "contractVersion": 4,
-    "decimalPlaces": 3,
-    "ens": null,
-    "formatDecimalPlaces": 0,
-    "healthPrice": "",
-    "heartbeat": 300,
-    "history": true,
-    "multiply": "100000000",
-    "name": "XRP / USD",
-    "pair": [
-      "XRP",
-      "USD"
-    ],
-    "path": "xrp-usd",
-    "proxyAddress": null,
-    "threshold": 1,
-    "valuePrefix": ""
-  },
-  {
-    "compareOffchain": "",
     "contractAddress": "0x0000000000000000000000000000000000000013",
     "contractType": "",
     "contractVersion": 4,
@@ -127,6 +105,28 @@
       "USD"
     ],
     "path": "ada-usd-test",
+    "proxyAddress": null,
+    "threshold": 1,
+    "valuePrefix": ""
+  },
+  {
+    "compareOffchain": "",
+    "contractAddress": "0xc14e3f54e42719cEC57f4737d23EbeC86954acEd",
+    "contractType": "",
+    "contractVersion": 4,
+    "decimalPlaces": 3,
+    "ens": null,
+    "formatDecimalPlaces": 0,
+    "healthPrice": "",
+    "heartbeat": 300,
+    "history": true,
+    "multiply": "100000000",
+    "name": "LINK / USD",
+    "pair": [
+      "LINK",
+      "USD"
+    ],
+    "path": "link-usd",
     "proxyAddress": null,
     "threshold": 1,
     "valuePrefix": ""
