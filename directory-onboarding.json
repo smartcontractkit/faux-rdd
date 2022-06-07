@@ -890,7 +890,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "dexNop08"
+          "operator": "anz"
         },
         {
           "api": [
@@ -898,7 +898,7 @@
             "dataProvider2",
             "dataProvider3"
           ],
-          "operator": "dexNop09"
+          "operator": "telefonica"
         },
         {
           "api": [
@@ -924,19 +924,19 @@
         "0x0000000000000000000000000000000000000000"
       ],
       "ocrConfigPublicKey": [
-        "f7cd5de03d936a8864c577d3033b6444ea87ed99a12390d1646bff116ec2772d"
+        "82ffb3a84de75fa45c4837dbe51f66f5338c9f8e2b8ea1437cc06c78e4c48462"
       ],
       "ocrNodeAddress": [
-        "0x4952e5223757a6cD43b4BD33faeE2bA7E1b91e33"
+        "0x4d232b8cB3b40B9996fC22DfA255ebFe87D18a23"
       ],
       "ocrOffchainPublicKey": [
-        "f88d986e1e3b8e49db3e828d8034b8aaad334aeecb7415629f30ff11bc7cfaee"
+        "a30c3ea0e70e0837ba0c7e4d65aa8c9ff1d1bf17eeef02854a82d9a428908bc6"
       ],
       "ocrSigningAddress": [
-        "0x307A52b9F3Ec7983c5C69B37E02Caa6DEE26eD37"
+        "0x178FAA5E0ca61aa88a06Cb26c8B8Ac3FC48FB6Be"
       ],
       "peerId": [
-        "12D3KooWEQJmzQTa33gsduvC5eSDU4BS1g9o7FLjqZYi74MVcTiN"
+        "12D3KooWSL3iUZsbC7aqxyxUkg1i7NbNxpsLQmpp4FqTqVycwUwU"
       ],
       "status": "active"
     },

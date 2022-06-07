@@ -111,7 +111,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "dexNop08"
+      "operator": "anz"
     },
     {
       "api": [
@@ -119,7 +119,7 @@
         "dataProvider2",
         "dataProvider3"
       ],
-      "operator": "dexNop09"
+      "operator": "telefonica"
     },
     {
       "api": [
